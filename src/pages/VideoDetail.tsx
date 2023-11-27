@@ -1,7 +1,7 @@
 import axios from "axios"
 import { CommentType, VideoItem } from "interface"
 import Comment from "@components/Comment"
-import { Suspense, useEffect, useState } from "react"
+import { Suspense, lazy, useEffect, useState } from "react"
 import { useLocation } from "react-router-dom"
 import AddComment from "@components/AddComment"
 import VideoDetailItem from "@components/VideoDetailItem"
@@ -9,7 +9,7 @@ import formatDateDifference from "@api/formatDateDifference"
 import { filterComment, readComment } from "@api/commentApi"
 
 // React.lazy를 사용하여 RelatedVideo 컴포넌트를 동적으로 로딩
-const LazyRelatedVideo = React.lazy(() => import("@components/RelatedVideo"))
+const LazyRelatedVideo = lazy(() => import("@components/RelatedVideo"))
 
 function VideoDetail() {
   const location = useLocation()
@@ -83,18 +83,17 @@ function VideoDetail() {
   const renderRelatedSection = () => (
     <div className="min-w-[360px]  tb:mt-3 mo:mt-3  pc:col-span-1">
       <h3 className="sr-only">관련된 영상</h3>
-      {detailData?.map((item, index) => (
 
       {/* Suspense로 감싸서 로딩 시 fallback UI를 표시 */}
       <Suspense fallback={<div>Loading...</div>}>
-        <LazyRelatedVideo
-          key={`${item.id}_${index}`}
-          item={item}
-          date={dataVariable[index]}
-        />
+        {detailData?.map((item, index) => (
+          <LazyRelatedVideo
+            key={`${item.id}_${index}`}
+            item={item}
+            date={dataVariable[index]}
+          />
+        ))}
       </Suspense>
-            ))}
-
     </div>
   )
 
