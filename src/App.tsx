@@ -1,10 +1,10 @@
-import "./tailwind.css";
-import React from "react";
-import NotFound from "@pages/NotFound";
-import VideoMain from "@pages/VideoMain";
-import VideoDetail from "@pages/VideoDetail";
-import { RootLayout } from "@layout/RootLayout/RootLayout";
-import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
+import "./tailwind.css"
+import React from "react"
+import NotFound from "@pages/NotFound"
+import VideoMain from "@pages/VideoMain"
+import VideoDetail from "@pages/VideoDetail"
+import { RootLayout } from "@layout/RootLayout/RootLayout"
+import { BrowserRouter as Router, Routes, Route } from "react-router-dom"
 
 function App() {
   return (
@@ -17,7 +17,7 @@ function App() {
         </Route>
       </Routes>
     </Router>
-  );
+  )
 }
 
-export default App;
+export default App
