@@ -1,0 +1,692 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "yaeyIzFpA9VfoH2pq-77s84-Tvg",
+  "nextPageToken": "CBQQAA",
+  "regionCode": "KR",
+  "pageInfo": {
+    "totalResults": 161,
+    "resultsPerPage": 20
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "SZZEP7J6QSr_Q_WqVnc05yVkOMg",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "vM4z2I1ZFZ4"
+      },
+      "snippet": {
+        "publishedAt": "2023-11-13T09:00:41Z",
+        "channelId": "UC98Dpw8CHzoPuEYbL9SnXWQ",
+        "title": "[Teaser] SOYEON of (G)I-DLE X WINTER of aespa X LIZ of IVE &#39;NOBODY&#39;",
+        "description": "[Teaser] SOYEON of (G)I-DLE X WINTER of aespa X LIZ of IVE 'NOBODY' Release 2023. 11. 16 6PM (KST) #GIDLE #aespa #IVE ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/vM4z2I1ZFZ4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/vM4z2I1ZFZ4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/vM4z2I1ZFZ4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "M:USB 뮤스비",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-11-13T09:00:41Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "dMnPuk3ctwwdr3VFT8VkNDQrrJ4",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "buQLlrNhhFQ"
+      },
+      "snippet": {
+        "publishedAt": "2023-11-08T06:00:14Z",
+        "channelId": "UC98Dpw8CHzoPuEYbL9SnXWQ",
+        "title": "#베일드뮤지션 양요섭, 손동운 - 바라봐줘요 (with ??동) 11/13 PM 6:00 발매",
+        "description": "shorts.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/buQLlrNhhFQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/buQLlrNhhFQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/buQLlrNhhFQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "M:USB 뮤스비",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-11-08T06:00:14Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "Hqc1L9OQvTB9jeWsqCb54s9a1Xw",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "C83X1-tyJD4"
+      },
+      "snippet": {
+        "publishedAt": "2023-11-06T04:06:50Z",
+        "channelId": "UC98Dpw8CHzoPuEYbL9SnXWQ",
+        "title": "[Trailer] (G)I-DLE x aespa x IVE",
+        "description": "[Trailer] (G)I-DLE x aespa x IVE ? of (G)I-DLE / ? of aespa / ? of IVE 2023. 11. 16 6PM (KST) M:USB instargram ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/C83X1-tyJD4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/C83X1-tyJD4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/C83X1-tyJD4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "M:USB 뮤스비",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-11-06T04:06:50Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "p8Ajio5-IPcZHK6cBxrP_J8HNNE",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "Sds8unETBLc"
+      },
+      "snippet": {
+        "publishedAt": "2023-10-10T03:00:09Z",
+        "channelId": "UC98Dpw8CHzoPuEYbL9SnXWQ",
+        "title": "#베일드뮤지션 동굴 보이스로 심사위원 넋 놓게 만든 참가자",
+        "description": "shorts.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Sds8unETBLc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Sds8unETBLc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Sds8unETBLc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "M:USB 뮤스비",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-10-10T03:00:09Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "vQSLGC-FEdtursX0Goab9ND8PNU",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "MFWwCaTi8II"
+      },
+      "snippet": {
+        "publishedAt": "2023-11-10T04:00:13Z",
+        "channelId": "UC98Dpw8CHzoPuEYbL9SnXWQ",
+        "title": "[2nd Reveal] LIZ of IVE #GIDLE #aespa #IVE #NOBODY #여자아이들 #에스파 #아이브",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/MFWwCaTi8II/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/MFWwCaTi8II/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/MFWwCaTi8II/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "M:USB 뮤스비",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-11-10T04:00:13Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "_E52CfmAsv09705n6FTxjP9NU1I",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "xwikeJKUDPU"
+      },
+      "snippet": {
+        "publishedAt": "2023-11-14T10:00:52Z",
+        "channelId": "UC98Dpw8CHzoPuEYbL9SnXWQ",
+        "title": "#베일드뮤지션 내가 꿈꿔왔던것처럼 나도 바라봐줘요~🎤",
+        "description": "shorts.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/xwikeJKUDPU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/xwikeJKUDPU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/xwikeJKUDPU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "M:USB 뮤스비",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-11-14T10:00:52Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "w82zF9pgkywmZLiFRaDjyOCc9HA",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "tZHVJ5vhuUY"
+      },
+      "snippet": {
+        "publishedAt": "2023-11-10T03:57:09Z",
+        "channelId": "UC98Dpw8CHzoPuEYbL9SnXWQ",
+        "title": "[1st Reveal] SOYEON of (G)I-DLE #GIDLE #aespa #IVE #NOBODY #여자아이들 #에스파 #아이브",
+        "description": "shorts.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/tZHVJ5vhuUY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/tZHVJ5vhuUY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/tZHVJ5vhuUY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "M:USB 뮤스비",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-11-10T03:57:09Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "eioeE7QCFSpIDQUYh_Wo6xpBhNU",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "gLYgV5ghFdk"
+      },
+      "snippet": {
+        "publishedAt": "2023-11-11T06:00:19Z",
+        "channelId": "UC98Dpw8CHzoPuEYbL9SnXWQ",
+        "title": "#베일드뮤지션  프로 이별러 양다일 폼 미쳤다 - all of my life  (with 이태원동)",
+        "description": "shorts.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/gLYgV5ghFdk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/gLYgV5ghFdk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/gLYgV5ghFdk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "M:USB 뮤스비",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-11-11T06:00:19Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "_02vD0dPoucQhelXwJlCmhaufRI",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "vC1hQS6fibU"
+      },
+      "snippet": {
+        "publishedAt": "2023-11-03T13:00:57Z",
+        "channelId": "UC98Dpw8CHzoPuEYbL9SnXWQ",
+        "title": "#베일드뮤지션 쏠 - 비가와 (with 어방동) 11/8 PM12:00 발매",
+        "description": "shorts.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/vC1hQS6fibU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/vC1hQS6fibU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/vC1hQS6fibU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "M:USB 뮤스비",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-11-03T13:00:57Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "W7hlI3andm1eixbofINr14nukpY",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "t4Sq77fIe9c"
+      },
+      "snippet": {
+        "publishedAt": "2023-11-11T04:00:32Z",
+        "channelId": "UC98Dpw8CHzoPuEYbL9SnXWQ",
+        "title": "[3rd Reveal] WINTER of aespa #GIDLE #aespa #IVE #NOBODY #여자아이들 #에스파 #아이브",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/t4Sq77fIe9c/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/t4Sq77fIe9c/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/t4Sq77fIe9c/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "M:USB 뮤스비",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-11-11T04:00:32Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "th8HWcWSoXjtW9cTgCLZV6k7tTk",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "HV2jn9QZfao"
+      },
+      "snippet": {
+        "publishedAt": "2023-11-08T10:00:13Z",
+        "channelId": "UC98Dpw8CHzoPuEYbL9SnXWQ",
+        "title": "#베일드뮤지션 F VS T 의 노래 대결",
+        "description": "shorts.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/HV2jn9QZfao/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/HV2jn9QZfao/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/HV2jn9QZfao/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "M:USB 뮤스비",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-11-08T10:00:13Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "GlrXKY0bfQVWCpWctlfqSyUxWfM",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "F4GyVScz_Gk"
+      },
+      "snippet": {
+        "publishedAt": "2023-11-06T04:00:04Z",
+        "channelId": "UC98Dpw8CHzoPuEYbL9SnXWQ",
+        "title": "[Trailer] #(G)I-DLE x #aespa  x #IVE",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/F4GyVScz_Gk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/F4GyVScz_Gk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/F4GyVScz_Gk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "M:USB 뮤스비",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-11-06T04:00:04Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "_i74fIDnuDulFHNN22eGoMr4A0o",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "HS416VPh0UY"
+      },
+      "snippet": {
+        "publishedAt": "2023-10-16T10:00:24Z",
+        "channelId": "UC98Dpw8CHzoPuEYbL9SnXWQ",
+        "title": "#베일드뮤지션 엄청난 실력자 등장에 리액션 고장난 심사위원들",
+        "description": "shorts.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/HS416VPh0UY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/HS416VPh0UY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/HS416VPh0UY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "M:USB 뮤스비",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-10-16T10:00:24Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "d4iYWwCy1m8XKXbeYJiR5mq27S4",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "sJhGcl2yyGU"
+      },
+      "snippet": {
+        "publishedAt": "2023-10-11T10:00:48Z",
+        "channelId": "UC98Dpw8CHzoPuEYbL9SnXWQ",
+        "title": "#베일드뮤지션 표정으로 심사하는 솔라 모음.zip",
+        "description": "shorts.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/sJhGcl2yyGU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/sJhGcl2yyGU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/sJhGcl2yyGU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "M:USB 뮤스비",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-10-11T10:00:48Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "AvqPay4yuR7rOc0L64OHNjLGXuU",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "pxh4C5Lu4fk"
+      },
+      "snippet": {
+        "publishedAt": "2023-11-13T10:00:43Z",
+        "channelId": "UC98Dpw8CHzoPuEYbL9SnXWQ",
+        "title": "#베일드뮤지션 무대 뒤집어진 환상의 팀워크",
+        "description": "shorts.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/pxh4C5Lu4fk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/pxh4C5Lu4fk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/pxh4C5Lu4fk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "M:USB 뮤스비",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-11-13T10:00:43Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "4qoE9qCLB4DGHvARtLxoafNqwd4",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "2rtWEYb9Rfs"
+      },
+      "snippet": {
+        "publishedAt": "2023-11-12T10:00:02Z",
+        "channelId": "UC98Dpw8CHzoPuEYbL9SnXWQ",
+        "title": "#베일드뮤지션 청춘은 버거워도 노래는 버겁지 않은 사람들",
+        "description": "shorts.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/2rtWEYb9Rfs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/2rtWEYb9Rfs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/2rtWEYb9Rfs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "M:USB 뮤스비",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-11-12T10:00:02Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "P0hyCf3SWbn97MnRzu6sANCkNyQ",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "z_7nPAJGvWU"
+      },
+      "snippet": {
+        "publishedAt": "2023-11-12T03:00:38Z",
+        "channelId": "UC98Dpw8CHzoPuEYbL9SnXWQ",
+        "title": "#베일드뮤지션 이무진이 부릅니다 청춘이 버겁다!",
+        "description": "shorts.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/z_7nPAJGvWU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/z_7nPAJGvWU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/z_7nPAJGvWU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "M:USB 뮤스비",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-11-12T03:00:38Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "1jSSDMRGf-KjYdj4oLIxIdUVllg",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "ybCVy5ICtY0"
+      },
+      "snippet": {
+        "publishedAt": "2023-11-04T03:00:35Z",
+        "channelId": "UC98Dpw8CHzoPuEYbL9SnXWQ",
+        "title": "#베일드뮤지션 참가자 노래 중에 갑자기 끊은 쏠",
+        "description": "shorts.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ybCVy5ICtY0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ybCVy5ICtY0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ybCVy5ICtY0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "M:USB 뮤스비",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-11-04T03:00:35Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "OR1Qbx9F8Tex5J5wBCsphq-Y0-4",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "n_oojfSQZgo"
+      },
+      "snippet": {
+        "publishedAt": "2023-11-13T03:00:22Z",
+        "channelId": "UC98Dpw8CHzoPuEYbL9SnXWQ",
+        "title": "#베일드뮤지션 본선 극찬 받은 참가자들의 대결",
+        "description": "shorts.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/n_oojfSQZgo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/n_oojfSQZgo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/n_oojfSQZgo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "M:USB 뮤스비",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-11-13T03:00:22Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "CMUcAQLqYii-aB-8xddGujDuARo",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "AxjlVJ-cqKY"
+      },
+      "snippet": {
+        "publishedAt": "2023-09-27T03:00:04Z",
+        "channelId": "UC98Dpw8CHzoPuEYbL9SnXWQ",
+        "title": "#베일드뮤지션 크러쉬로 시작했다 삐걱으로 끝났다...!",
+        "description": "shorts.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/AxjlVJ-cqKY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/AxjlVJ-cqKY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/AxjlVJ-cqKY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "M:USB 뮤스비",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-09-27T03:00:04Z"
+      }
+    }
+  ]
+}

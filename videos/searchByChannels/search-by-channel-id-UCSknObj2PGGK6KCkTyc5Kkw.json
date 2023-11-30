@@ -1,0 +1,692 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "CNjFPx9_46kS6j7gicWLz_rZ9Bk",
+  "nextPageToken": "CBQQAA",
+  "regionCode": "KR",
+  "pageInfo": {
+    "totalResults": 254,
+    "resultsPerPage": 20
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "mw6OaWT-_bflvqqMZRjXyAy2Tro",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "hCzR7OpLWRg"
+      },
+      "snippet": {
+        "publishedAt": "2023-06-10T03:58:04Z",
+        "channelId": "UCSknObj2PGGK6KCkTyc5Kkw",
+        "title": "한미부부의 과거 vs 현재 🇺🇸❤️🇰🇷",
+        "description": "국제커플 #한미부부 #shorts.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/hCzR7OpLWRg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/hCzR7OpLWRg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/hCzR7OpLWRg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "레이진 [Raye & Jin]",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-06-10T03:58:04Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "jO34pqKUkpCT6EtReYoxfshh_9s",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "iptznMS6Oqw"
+      },
+      "snippet": {
+        "publishedAt": "2023-06-12T02:29:48Z",
+        "channelId": "UCSknObj2PGGK6KCkTyc5Kkw",
+        "title": "🇺🇸 코스트코에서 K-간장치킨 발견하고 행복해 하는 아내 ㅋㅋ",
+        "description": "국제커플 #shorts #비비고 * 내돈내산.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/iptznMS6Oqw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/iptznMS6Oqw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/iptznMS6Oqw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "레이진 [Raye & Jin]",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-06-12T02:29:48Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "rnD4jgsv9_IjUGXFtXeP0MD0o3E",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "SJDXFmF--Rc"
+      },
+      "snippet": {
+        "publishedAt": "2023-06-07T02:10:28Z",
+        "channelId": "UCSknObj2PGGK6KCkTyc5Kkw",
+        "title": "미국인 아내가 눈치주는 방법... 🥒",
+        "description": "국제커플 #한미부부 #shorts.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/SJDXFmF--Rc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/SJDXFmF--Rc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/SJDXFmF--Rc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "레이진 [Raye & Jin]",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-06-07T02:10:28Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "pLoRdjA9UH_39V2wkDTP0CBgTII",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "27GpUOkjAvE"
+      },
+      "snippet": {
+        "publishedAt": "2023-06-18T02:50:52Z",
+        "channelId": "UCSknObj2PGGK6KCkTyc5Kkw",
+        "title": "미국인들은 아프면 슈퍼마켓에 가는 이유?! 🏥",
+        "description": "국제커플 #한미부부 #shorts.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/27GpUOkjAvE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/27GpUOkjAvE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/27GpUOkjAvE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "레이진 [Raye & Jin]",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-06-18T02:50:52Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "cPwcm-PH4wsqyN06zzqgKYrU4wk",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "TA39uqh3ok4"
+      },
+      "snippet": {
+        "publishedAt": "2023-06-26T02:07:20Z",
+        "channelId": "UCSknObj2PGGK6KCkTyc5Kkw",
+        "title": "외국인도 피해갈 수 없는 각도의 중요성 ㅋㅋ",
+        "description": "국제커플 #한미부부 #shorts.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/TA39uqh3ok4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/TA39uqh3ok4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/TA39uqh3ok4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "레이진 [Raye & Jin]",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-06-26T02:07:20Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "ksBnzi-q-QQxZj7ln4F9rel9SZg",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "Wi6U0a8mvc4"
+      },
+      "snippet": {
+        "publishedAt": "2023-06-03T06:26:57Z",
+        "channelId": "UCSknObj2PGGK6KCkTyc5Kkw",
+        "title": "177cm 롱다리 와이프랑 쇼핑 가면 생기는 일 ㅋㅋ",
+        "description": "shorts #국제커플 #한미부부.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Wi6U0a8mvc4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Wi6U0a8mvc4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Wi6U0a8mvc4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "레이진 [Raye & Jin]",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-06-03T06:26:57Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "64UzqHWLymfkCZCXhTzysiAfdYg",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "azS6mmPym3I"
+      },
+      "snippet": {
+        "publishedAt": "2023-07-01T03:00:01Z",
+        "channelId": "UCSknObj2PGGK6KCkTyc5Kkw",
+        "title": "조선업 세계1위 한국에서 만든 배를 본 미국인들의 반응 ㅋㅋ",
+        "description": "본 영상은 구독자분이 운영하는 '마이카누(MyCanoe)'로부터 선물로 제공받은 2인용 카누가 등장합니다. [CC] 버튼을 누르면 영어 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/azS6mmPym3I/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/azS6mmPym3I/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/azS6mmPym3I/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "레이진 [Raye & Jin]",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-07-01T03:00:01Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "sLG9vM0WM-H2Fyg4kokvgVnPFZA",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "kuYb4yZKC8c"
+      },
+      "snippet": {
+        "publishedAt": "2023-10-28T03:00:37Z",
+        "channelId": "UCSknObj2PGGK6KCkTyc5Kkw",
+        "title": "한국을 사랑하는 아내가 “대한민국 최고의 외교관”으로 선택받은 이유 🇰🇷🇺🇸",
+        "description": "이 영상은 주시애틀 대한민국 총영사관의 지원을 받아 제작하였습니다.】 #Korean_Consulate_in_Seattle #KOREAZ ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/kuYb4yZKC8c/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/kuYb4yZKC8c/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/kuYb4yZKC8c/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "레이진 [Raye & Jin]",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-10-28T03:00:37Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "OnhPrrv1oVSV7TDgzr-IvRj9ytc",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "Qfz2dAQiq6c"
+      },
+      "snippet": {
+        "publishedAt": "2023-06-21T04:14:57Z",
+        "channelId": "UCSknObj2PGGK6KCkTyc5Kkw",
+        "title": "디아블로4에 푹 빠진 아내 괴롭히기... 🤣",
+        "description": "국제커플 #한미부부 #shorts.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Qfz2dAQiq6c/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Qfz2dAQiq6c/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Qfz2dAQiq6c/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "레이진 [Raye & Jin]",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-06-21T04:14:57Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "eDtIjeIKa2vi6NWbjDEBXU3vsIA",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "WrVWiNqlVUE"
+      },
+      "snippet": {
+        "publishedAt": "2023-06-08T03:44:26Z",
+        "channelId": "UCSknObj2PGGK6KCkTyc5Kkw",
+        "title": "진짜 미국은 뭐든지 다 큼 ㄷㄷ 🇺🇸 (사이즈 6m 신발 ㄷㄷ)",
+        "description": "국제커플 #한미부부 #shorts.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/WrVWiNqlVUE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/WrVWiNqlVUE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/WrVWiNqlVUE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "레이진 [Raye & Jin]",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-06-08T03:44:26Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "bVXuf5x1YcyWlWaX6tbYvPD3ocI",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "r5hxE5w0CKg"
+      },
+      "snippet": {
+        "publishedAt": "2022-04-27T09:31:21Z",
+        "channelId": "UCSknObj2PGGK6KCkTyc5Kkw",
+        "title": "우리가 아기를 가질 수 없는 이유",
+        "description": "[제품 협찬 리뷰 포함] CircleDNA로부터 금전적인 보상 없이 제품만 협찬받았습니다. (구매시 저희가 받는 인센티브 없음) 할인 코드: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/r5hxE5w0CKg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/r5hxE5w0CKg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/r5hxE5w0CKg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "레이진 [Raye & Jin]",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-04-27T09:31:21Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "DXUBGIfLMD3RD_Tl4GgP9wDRaqc",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "yvvIY_ckMWg"
+      },
+      "snippet": {
+        "publishedAt": "2023-03-18T03:00:03Z",
+        "channelId": "UCSknObj2PGGK6KCkTyc5Kkw",
+        "title": "회장님께서 보내주신 7천만원짜리 기아차를 타본 아내의 반응은?! (2023 텔루라이드 3,000km 시승기)",
+        "description": "【유료광고】 이 영상은 '기아 (Kia)'의 지원을 받았습니다. [CC] 버튼을 누르면 영어자막이 나와요! 【레이진 맴버십】 가입 링크: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/yvvIY_ckMWg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/yvvIY_ckMWg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/yvvIY_ckMWg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "레이진 [Raye & Jin]",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-03-18T03:00:03Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "BX57ealSW_3eexbxKQ7pbrr5Dek",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "beHSw62VcMM"
+      },
+      "snippet": {
+        "publishedAt": "2023-10-21T03:01:01Z",
+        "channelId": "UCSknObj2PGGK6KCkTyc5Kkw",
+        "title": "&#39;죽음의 스포츠&#39;  로데오 경기 직관, 목숨걸고 1톤짜리 근육질 황소 타는 미국 상남자들 ㄷㄷ 🇺🇸",
+        "description": "[CC] 버튼을 누르면 영어자막이 함께 나와요!◁◁ 【 레이진 아마존 스토어: 】 지금까지 영상에서 등장했던 제품들, 촬영 장비 소개!",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/beHSw62VcMM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/beHSw62VcMM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/beHSw62VcMM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "레이진 [Raye & Jin]",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-10-21T03:01:01Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "GZWWUyFpnLfNf6fXCbrW01iKiCA",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "l97zlyKtbiA"
+      },
+      "snippet": {
+        "publishedAt": "2022-12-10T03:02:36Z",
+        "channelId": "UCSknObj2PGGK6KCkTyc5Kkw",
+        "title": "“아프면 파산?” 우리가 미국에서 의료보험 없이 사는 이유 🏥",
+        "description": "[CC] 버튼을 누르면 영어자막이 나와요! 본 영상은 'NordVPN'의 유료광고를 포함하고 있습니다. NordVPN 할인 링크: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/l97zlyKtbiA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/l97zlyKtbiA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/l97zlyKtbiA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "레이진 [Raye & Jin]",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-12-10T03:02:36Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "w1BZUe11vAkFW4rAXlEC90sOw8k",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "cbOkIu3TTCE"
+      },
+      "snippet": {
+        "publishedAt": "2020-03-31T09:00:14Z",
+        "channelId": "UCSknObj2PGGK6KCkTyc5Kkw",
+        "title": "결혼전에 알았어야 했던 서로의 유전자 검사 결과가 나왔습니다 ㅜㅜ (2세 유전병, 혈통 정보?!) | 국제커플 | 🇺🇸🇰🇷",
+        "description": "구독! 과 좋아요 버튼은 사랑입니다!!! *Please LIKE & SUBSCRIBE! (it really, really helps us out!)",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/cbOkIu3TTCE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/cbOkIu3TTCE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/cbOkIu3TTCE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "레이진 [Raye & Jin]",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-03-31T09:00:14Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "GmJ6fUZJIwzzR8UFPcjyWl35apM",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "PVbKFrM5nnQ"
+      },
+      "snippet": {
+        "publishedAt": "2023-09-30T03:01:01Z",
+        "channelId": "UCSknObj2PGGK6KCkTyc5Kkw",
+        "title": "엉뚱한 미국인 사촌형이 우리를 따라 한국에 꼭 방문하고 싶다는 이유 ㅋㅋ",
+        "description": "[CC] 버튼을 누르면 영어자막이 함께 나와요!◁◁ 【 레이진 아마존 스토어: 】 지금까지 영상에서 등장했던 제품들, 촬영 장비 소개!",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/PVbKFrM5nnQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/PVbKFrM5nnQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/PVbKFrM5nnQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "레이진 [Raye & Jin]",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-09-30T03:01:01Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "iMWjNF3ssZctnfBkNfg8Df6h-y4",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "fjVPMiuUtzU"
+      },
+      "snippet": {
+        "publishedAt": "2022-10-29T03:00:06Z",
+        "channelId": "UCSknObj2PGGK6KCkTyc5Kkw",
+        "title": "막막했던 미국이민, 아내 덕분에 희망이 보이네요! (드디어 신용 불량자 탈출?!) 🇺🇸🇰🇷",
+        "description": "[CC] 버튼을 누르면 영어자막이 나와요! 【레이진 맴버십】 가입 링크: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/fjVPMiuUtzU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/fjVPMiuUtzU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/fjVPMiuUtzU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "레이진 [Raye & Jin]",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-10-29T03:00:06Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "p1u_s8iJnZJV0IFo4xLOPPY31xk",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "gLrxpcy4ca4"
+      },
+      "snippet": {
+        "publishedAt": "2023-06-28T03:18:11Z",
+        "channelId": "UCSknObj2PGGK6KCkTyc5Kkw",
+        "title": "우와 너무 귀엽다... 만져봐도 돼요?",
+        "description": "국제커플 #한미부부 #shorts.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/gLrxpcy4ca4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/gLrxpcy4ca4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/gLrxpcy4ca4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "레이진 [Raye & Jin]",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-06-28T03:18:11Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "6zkRjMVU4pFddAX_yzYwl2qPI9U",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "dtPCv_pcaVk"
+      },
+      "snippet": {
+        "publishedAt": "2023-06-17T03:00:06Z",
+        "channelId": "UCSknObj2PGGK6KCkTyc5Kkw",
+        "title": "‘자동차의 나라’ 미국에서 중고차 팔 때 각오 단단히 해야 하는 이유 ㄷㄷ 🇺🇸",
+        "description": "[CC] 버튼을 누르면 영어자막이 나와요! 【레이진 맴버십】 가입 링크: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/dtPCv_pcaVk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/dtPCv_pcaVk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/dtPCv_pcaVk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "레이진 [Raye & Jin]",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-06-17T03:00:06Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "7fI9bGqp2rkgLhGaOEf8NESqgUA",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "m-sJ_Axufps"
+      },
+      "snippet": {
+        "publishedAt": "2023-08-05T03:00:02Z",
+        "channelId": "UCSknObj2PGGK6KCkTyc5Kkw",
+        "title": "미국여자랑 오로라 보러 숲속으로 캠핑을 떠나면 생기는 일 ㅋㅋ +꽃등심 먹방 🏕️",
+        "description": "미국 글램핑 프렌차이즈 '겟어웨이(Getaway)'로부터 아무런 조건 없이 숙박권만 제공받았고, 제작비 지원은 일체 없었습니다.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/m-sJ_Axufps/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/m-sJ_Axufps/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/m-sJ_Axufps/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "레이진 [Raye & Jin]",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-08-05T03:00:02Z"
+      }
+    }
+  ]
+}

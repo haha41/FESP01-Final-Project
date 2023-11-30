@@ -1,0 +1,692 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "s7_-VRgqzR39I_B1MHe6canT6hU",
+  "nextPageToken": "CBQQAA",
+  "regionCode": "KR",
+  "pageInfo": {
+    "totalResults": 2247,
+    "resultsPerPage": 20
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "8y1xcue7H8cvYvRx3se2WJ21TPU",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "l05ZBhUKSjY"
+      },
+      "snippet": {
+        "publishedAt": "2023-11-10T12:00:42Z",
+        "channelId": "UCtCiO5t2voB14CmZKTkIzPQ",
+        "title": "주세요 달콤한 레벨 킬링보이스~ㅣ11월 14일 19시 공개!",
+        "description": "딩고뮤직 (Dingo Music) : http://bit.ly/Dingo__Music ▷딩고프리스타일 (Dingo Freestyle) : http://bit.ly/Dingo__Freestyle ▷일소라 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/l05ZBhUKSjY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/l05ZBhUKSjY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/l05ZBhUKSjY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "딩고 뮤직 / dingo music",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-11-10T12:00:42Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "kzePm-mfG2Vjbbxnb0NOZedvXw0",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "yTHYWKgLHgE"
+      },
+      "snippet": {
+        "publishedAt": "2023-02-28T11:00:45Z",
+        "channelId": "UCtCiO5t2voB14CmZKTkIzPQ",
+        "title": "송소희가 부르는 발라드🌼💛 #그대라는계절 #Shorts",
+        "description": "딩고뮤직 (Dingo Music) : http://bit.ly/Dingo__Music ▷딩고프리스타일 (Dingo Freestyle) : http://bit.ly/Dingo__Freestyle ▷일소라 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/yTHYWKgLHgE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/yTHYWKgLHgE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/yTHYWKgLHgE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "딩고 뮤직 / dingo music",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-02-28T11:00:45Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "thVV-vxRZ6SXeocbk7blmWldZN8",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "8v_-XJBhNQQ"
+      },
+      "snippet": {
+        "publishedAt": "2023-11-14T11:00:07Z",
+        "channelId": "UCtCiO5t2voB14CmZKTkIzPQ",
+        "title": "&#39;Chiil Kill&#39;의 Killing Voice 등장😎",
+        "description": "딩고뮤직 (Dingo Music) : http://bit.ly/Dingo__Music ▷딩고프리스타일 (Dingo Freestyle) : http://bit.ly/Dingo__Freestyle ▷일소라 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/8v_-XJBhNQQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/8v_-XJBhNQQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/8v_-XJBhNQQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "딩고 뮤직 / dingo music",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-11-14T11:00:07Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "b4REeR9EWhkK5zVnPd8QKWrFB4c",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "j9PTvDNEW20"
+      },
+      "snippet": {
+        "publishedAt": "2022-11-11T10:00:34Z",
+        "channelId": "UCtCiO5t2voB14CmZKTkIzPQ",
+        "title": "역시 명.불.허.각. #나를_사랑했던_사람아 #Shorts",
+        "description": "딩고뮤직 (Dingo Music) : http://bit.ly/Dingo__Music ▷딩고프리스타일 (Dingo Freestyle) : http://bit.ly/Dingo__Freestyle ▷일소라 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/j9PTvDNEW20/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/j9PTvDNEW20/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/j9PTvDNEW20/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "딩고 뮤직 / dingo music",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-11-11T10:00:34Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "m1mumBqoKHBQEwHo7bkkCX_1FF0",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "5QstgjL_-oU"
+      },
+      "snippet": {
+        "publishedAt": "2023-10-06T10:24:01Z",
+        "channelId": "UCtCiO5t2voB14CmZKTkIzPQ",
+        "title": "계속 꺼내 듣게 되는 2am표 발라드 #친구의고백 | 10월 10일 오후 7시 최초 공개!",
+        "description": "딩고뮤직 (Dingo Music) : http://bit.ly/Dingo__Music ▷딩고프리스타일 (Dingo Freestyle) : http://bit.ly/Dingo__Freestyle ▷일소라 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/5QstgjL_-oU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/5QstgjL_-oU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/5QstgjL_-oU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "딩고 뮤직 / dingo music",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-10-06T10:24:01Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "bezD8V1tnzck__h0ps5k6KvzUz0",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "0Jo4obNRe88"
+      },
+      "snippet": {
+        "publishedAt": "2022-12-09T10:00:00Z",
+        "channelId": "UCtCiO5t2voB14CmZKTkIzPQ",
+        "title": "벅차오름의 정점을 찍는 박혜원(HYNN) #Shorts",
+        "description": "딩고뮤직 (Dingo Music) : http://bit.ly/Dingo__Music ▷딩고프리스타일 (Dingo Freestyle) : http://bit.ly/Dingo__Freestyle ▷일소라 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/0Jo4obNRe88/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/0Jo4obNRe88/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/0Jo4obNRe88/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "딩고 뮤직 / dingo music",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-12-09T10:00:00Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "A2JbX7Yrv317eaKpcYgAhP-pQ0c",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "PmOD2bieSKs"
+      },
+      "snippet": {
+        "publishedAt": "2023-04-17T13:30:08Z",
+        "channelId": "UCtCiO5t2voB14CmZKTkIzPQ",
+        "title": "안지영이 드라마 &#39;그해 우리는&#39; 보고 쓴 곡🎵 #shorts",
+        "description": "딩고뮤직 (Dingo Music) : http://bit.ly/Dingo__Music ▷딩고프리스타일 (Dingo Freestyle) : http://bit.ly/Dingo__Freestyle ▷일소라 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/PmOD2bieSKs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/PmOD2bieSKs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/PmOD2bieSKs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "딩고 뮤직 / dingo music",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-04-17T13:30:08Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "XpF76NhrcQku6V4Oqf0adwfMVs8",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "9jIrFCc79QU"
+      },
+      "snippet": {
+        "publishedAt": "2023-10-27T10:05:01Z",
+        "channelId": "UCtCiO5t2voB14CmZKTkIzPQ",
+        "title": "팬들 심장 여럿 훔친 괴도 태민🕵️",
+        "description": "딩고뮤직 (Dingo Music) : http://bit.ly/Dingo__Music ▷딩고프리스타일 (Dingo Freestyle) : http://bit.ly/Dingo__Freestyle ▷일소라 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/9jIrFCc79QU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/9jIrFCc79QU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/9jIrFCc79QU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "딩고 뮤직 / dingo music",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-10-27T10:05:01Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "qV8CjXbYanP3p1Tpb_-8IaRFN4Y",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "6z0M9DRiUDA"
+      },
+      "snippet": {
+        "publishedAt": "2022-11-25T12:30:32Z",
+        "channelId": "UCtCiO5t2voB14CmZKTkIzPQ",
+        "title": "STEP IT UP NOW! 카라의 킬링보이스#shorts",
+        "description": "딩고뮤직 (Dingo Music) : http://bit.ly/Dingo__Music ▷딩고프리스타일 (Dingo Freestyle) : http://bit.ly/Dingo__Freestyle ▷일소라 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/6z0M9DRiUDA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/6z0M9DRiUDA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/6z0M9DRiUDA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "딩고 뮤직 / dingo music",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-11-25T12:30:32Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "HyariBIsLrfnEHiuZEstsAuAGkM",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "5KwQkXS91W8"
+      },
+      "snippet": {
+        "publishedAt": "2023-08-31T11:30:02Z",
+        "channelId": "UCtCiO5t2voB14CmZKTkIzPQ",
+        "title": "수현아 기특해요",
+        "description": "딩고뮤직 (Dingo Music) : http://bit.ly/Dingo__Music ▷딩고프리스타일 (Dingo Freestyle) : http://bit.ly/Dingo__Freestyle ▷일소라 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/5KwQkXS91W8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/5KwQkXS91W8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/5KwQkXS91W8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "딩고 뮤직 / dingo music",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-08-31T11:30:02Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "hD-aN9YRR3F-U1g2-i9SX76TXGw",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "-INGSthwGBQ"
+      },
+      "snippet": {
+        "publishedAt": "2022-08-18T13:00:00Z",
+        "channelId": "UCtCiO5t2voB14CmZKTkIzPQ",
+        "title": "&quot;고음의 정석&quot; 사랑비가 내려와☔️ #Shorts",
+        "description": "내일 9시, 최초공개로 함께봐요☺️ ▷딩고뮤직 (Dingo Music) : http://bit.ly/Dingo__Music ▷딩고프리스타일 (Dingo Freestyle) ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/-INGSthwGBQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/-INGSthwGBQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/-INGSthwGBQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "딩고 뮤직 / dingo music",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-08-18T13:00:00Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "_--w4OJs1vIKYVjXskMoW2OQX4s",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "d6fLwet8Wng"
+      },
+      "snippet": {
+        "publishedAt": "2023-05-12T09:30:10Z",
+        "channelId": "UCtCiO5t2voB14CmZKTkIzPQ",
+        "title": "This is my attitude! #TOMBOY #여자아이들",
+        "description": "진짜 다 잘해서 뭐라 말하기 입이 아플 정도   매 컴백마다 레전드를 찍는 (여자)아이들의 킬링보이스🎙️ 5월 16일 화요일 오후 7시 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/d6fLwet8Wng/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/d6fLwet8Wng/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/d6fLwet8Wng/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "딩고 뮤직 / dingo music",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-05-12T09:30:10Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "0Nzyb39btWW78AmOz8OKFK1dblw",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "DouukDymXKw"
+      },
+      "snippet": {
+        "publishedAt": "2023-09-29T10:00:08Z",
+        "channelId": "UCtCiO5t2voB14CmZKTkIzPQ",
+        "title": "오래 기다리셨습니다 &#39;기다릴게&#39; 라이브",
+        "description": "딩고뮤직 (Dingo Music) : http://bit.ly/Dingo__Music ▷딩고프리스타일 (Dingo Freestyle) : http://bit.ly/Dingo__Freestyle ▷일소라 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/DouukDymXKw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/DouukDymXKw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/DouukDymXKw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "딩고 뮤직 / dingo music",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-09-29T10:00:08Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "3aFg1HZlnT8H5U7pW4LzyMWKRiM",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "HzubyxFxzVE"
+      },
+      "snippet": {
+        "publishedAt": "2023-04-28T10:00:10Z",
+        "channelId": "UCtCiO5t2voB14CmZKTkIzPQ",
+        "title": "더욱더 아름다워진 #아름답고도아프구나 #비투비 #shorts",
+        "description": "딩고뮤직 (Dingo Music) : http://bit.ly/Dingo__Music ▷딩고프리스타일 (Dingo Freestyle) : http://bit.ly/Dingo__Freestyle ▷일소라 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/HzubyxFxzVE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/HzubyxFxzVE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/HzubyxFxzVE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "딩고 뮤직 / dingo music",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-04-28T10:00:10Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "nrz8-Wwv7vdJjwCm39683zgvfBg",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "GHPcaRIjQsE"
+      },
+      "snippet": {
+        "publishedAt": "2023-05-18T09:00:08Z",
+        "channelId": "UCtCiO5t2voB14CmZKTkIzPQ",
+        "title": "모두의 첫사랑을 기억할 노래 &#39;10CM - 부동의 첫사랑(Ultimate First Love)&#39; [포커스] #Shorts",
+        "description": "딩고뮤직 (Dingo Music) : http://bit.ly/Dingo__Music ▷딩고프리스타일 (Dingo Freestyle) : http://bit.ly/Dingo__Freestyle ▷일소라 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/GHPcaRIjQsE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/GHPcaRIjQsE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/GHPcaRIjQsE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "딩고 뮤직 / dingo music",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-05-18T09:00:08Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "-yi-NHCSudKgYrXFBOK4iVc5nOQ",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "8q02jNV7hyk"
+      },
+      "snippet": {
+        "publishedAt": "2023-06-14T09:00:09Z",
+        "channelId": "UCtCiO5t2voB14CmZKTkIzPQ",
+        "title": "[세로라이브] Young K (DAY6) – 건물 사이에 피어난 장미 (Rose Blossom) | 딩고뮤직 | Dingo Music",
+        "description": "영케이만의 파워풀한 가창력을 보여준 건사피장   ▷딩고뮤직 (Dingo Music) : http://bit.ly/Dingo__Music ▷딩고프리스타일 (Dingo ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/8q02jNV7hyk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/8q02jNV7hyk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/8q02jNV7hyk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "딩고 뮤직 / dingo music",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-06-14T09:00:09Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "KbZXc2D6yHWOO3srJfdsstfyPAQ",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "ybvvQQf4k4c"
+      },
+      "snippet": {
+        "publishedAt": "2020-04-26T10:00:29Z",
+        "channelId": "UCtCiO5t2voB14CmZKTkIzPQ",
+        "title": "🚨4K🚨 GOT7(갓세븐) - AURA(아우라) | Blindfolded choreography | 딩고뮤직 | Dingo Music",
+        "description": "SEXY를 사람으로 만들면 갓세븐이야…✨ 영상 체감 속도 7초!!!!!!!! 갓칠이들 아우라에 홀려 넋 놓고 봤더니 벌써 끝나버렸네? 안대 풀 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ybvvQQf4k4c/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ybvvQQf4k4c/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ybvvQQf4k4c/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "딩고 뮤직 / dingo music",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-04-26T10:00:29Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "BHFml7OOjwqXOU6bC5slKvZzSAs",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "AlkrhPPBqVY"
+      },
+      "snippet": {
+        "publishedAt": "2018-03-16T11:19:16Z",
+        "channelId": "UCtCiO5t2voB14CmZKTkIzPQ",
+        "title": "[100초]로 보는 NCT 18명 | 100 sec Choreography | All members",
+        "description": "딩고 뮤직 구독하기 click https://www.youtube.com/channel/UCtCiO5t2voB14CmZKTkIzPQ?sub_confirmation=1 나만을 위해 불러 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/AlkrhPPBqVY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/AlkrhPPBqVY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/AlkrhPPBqVY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "딩고 뮤직 / dingo music",
+        "liveBroadcastContent": "none",
+        "publishTime": "2018-03-16T11:19:16Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "V6rnJGKEkYn28r6avjTE0kKGyeo",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "-Q6iOxdsAbw"
+      },
+      "snippet": {
+        "publishedAt": "2020-03-21T06:00:01Z",
+        "channelId": "UCtCiO5t2voB14CmZKTkIzPQ",
+        "title": "드림캐쳐 (DREAMCATCHER) - Black Or White | Performance Video (4K) | MOVE RECㅣ딩고뮤직ㅣDingo Music",
+        "description": "컨셉장인 드캐 블올화로   칼군무로 딩고 뮤직 찢어버리고 가셔따~!!!! 02:47 교차 편집 구간 ㅉㅏ릿해…   #드림캐쳐 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/-Q6iOxdsAbw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/-Q6iOxdsAbw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/-Q6iOxdsAbw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "딩고 뮤직 / dingo music",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-03-21T06:00:01Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "ABIReQe_pwChT8FdeiRsMADzUP4",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "ZmGTgGWfpKA"
+      },
+      "snippet": {
+        "publishedAt": "2017-07-27T09:00:51Z",
+        "channelId": "UCtCiO5t2voB14CmZKTkIzPQ",
+        "title": "박원(Park Won) - all of my life | 세로 라이브 (SERO LIVE) | 딩고뮤직 | dingomusic",
+        "description": "딩고 뮤직 구독하기 click https://www.youtube.com/channel/UCtCiO5t2voB14CmZKTkIzPQ?sub_confirmation=1 나만을 위해 불러 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ZmGTgGWfpKA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ZmGTgGWfpKA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ZmGTgGWfpKA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "딩고 뮤직 / dingo music",
+        "liveBroadcastContent": "none",
+        "publishTime": "2017-07-27T09:00:51Z"
+      }
+    }
+  ]
+}

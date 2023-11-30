@@ -1,0 +1,692 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "QEgU_w5Blon4O15jhLMZmgE3ksg",
+  "nextPageToken": "CBQQAA",
+  "regionCode": "KR",
+  "pageInfo": {
+    "totalResults": 182,
+    "resultsPerPage": 20
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "5H8a7cDWV2rEh5mcP1HCo4HmXj8",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "ad6c27yfu90"
+      },
+      "snippet": {
+        "publishedAt": "2023-08-22T09:00:01Z",
+        "channelId": "UCDNvRZRgvkBTUkQzFoT_8rA",
+        "title": "[원테이크] 이브, 프시케 그리고 푸른 소매의 권진아",
+        "description": "뜬뜬 #핑계고 #유재석.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ad6c27yfu90/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ad6c27yfu90/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ad6c27yfu90/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "뜬뜬 DdeunDdeun",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-08-22T09:00:01Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "CQPZmMXmIlE-VajI2vj47BJrGPs",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "rXt2QXqdaYY"
+      },
+      "snippet": {
+        "publishedAt": "2023-10-17T09:00:35Z",
+        "channelId": "UCDNvRZRgvkBTUkQzFoT_8rA",
+        "title": "[특집 예고캠] 김치찌개 대결",
+        "description": "뜬뜬 #핑계고.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/rXt2QXqdaYY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/rXt2QXqdaYY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/rXt2QXqdaYY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "뜬뜬 DdeunDdeun",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-10-17T09:00:35Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "QlKRKNpLsm9dLSI087jMoOOaCsI",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "Pvg7q3A3Xko"
+      },
+      "snippet": {
+        "publishedAt": "2023-11-03T09:32:12Z",
+        "channelId": "UCDNvRZRgvkBTUkQzFoT_8rA",
+        "title": "레시피 읽어주는 막내PD [달걀볶음밥 by 남창희]",
+        "description": "뜬뜬 #실비집 #남창희 #레시피 #달걀볶음밥.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Pvg7q3A3Xko/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Pvg7q3A3Xko/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Pvg7q3A3Xko/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "뜬뜬 DdeunDdeun",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-11-03T09:32:12Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "yJ4X66gkwk6d1ISO_JWp4rYaQXo",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "fsJdJpbjIZg"
+      },
+      "snippet": {
+        "publishedAt": "2023-08-26T09:00:22Z",
+        "channelId": "UCDNvRZRgvkBTUkQzFoT_8rA",
+        "title": "송떤여자 with 13년지기 토크꾼들",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/fsJdJpbjIZg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/fsJdJpbjIZg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/fsJdJpbjIZg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "뜬뜬 DdeunDdeun",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-08-26T09:00:22Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "PGFUWzUzO5CDVhudhhGqXxAaJa8",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "F87ryX0B1Dg"
+      },
+      "snippet": {
+        "publishedAt": "2022-11-29T09:00:09Z",
+        "channelId": "UCDNvRZRgvkBTUkQzFoT_8rA",
+        "title": "네..? 커피 한잔에 5-6시간이요..? (동공지진)",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/F87ryX0B1Dg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/F87ryX0B1Dg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/F87ryX0B1Dg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "뜬뜬 DdeunDdeun",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-11-29T09:00:09Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "sULr5PdLU8x_13VHw-YvO2daYnE",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "t_MsWdyjAug"
+      },
+      "snippet": {
+        "publishedAt": "2023-06-29T09:00:57Z",
+        "channelId": "UCDNvRZRgvkBTUkQzFoT_8rA",
+        "title": "[편집실1열 직캠] 정승환 &#39;LOVE DIVE&#39; 막차",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/t_MsWdyjAug/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/t_MsWdyjAug/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/t_MsWdyjAug/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "뜬뜬 DdeunDdeun",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-06-29T09:00:57Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "tlXaxhkVV1rOBk6dehZxesopccI",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "7yCUWSPEdjY"
+      },
+      "snippet": {
+        "publishedAt": "2022-12-09T09:00:08Z",
+        "channelId": "UCDNvRZRgvkBTUkQzFoT_8rA",
+        "title": "[구경꾼캠] 익숙한 이마가 자꾸 눈에 밟히네…",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/7yCUWSPEdjY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/7yCUWSPEdjY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/7yCUWSPEdjY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "뜬뜬 DdeunDdeun",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-12-09T09:00:08Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "AcpXSlUiYkUNFkg5KK6wPc-kh7c",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "i4ftkNpoTRY"
+      },
+      "snippet": {
+        "publishedAt": "2023-06-29T09:01:00Z",
+        "channelId": "UCDNvRZRgvkBTUkQzFoT_8rA",
+        "title": "[원테이크] 이브, 프시케 그리고 푸른 셔츠의 정승환",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/i4ftkNpoTRY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/i4ftkNpoTRY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/i4ftkNpoTRY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "뜬뜬 DdeunDdeun",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-06-29T09:01:00Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "L3zoGSDIAol8rUPN6IHAx-WcQBc",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "hyaZrG21aPM"
+      },
+      "snippet": {
+        "publishedAt": "2023-07-15T00:00:19Z",
+        "channelId": "UCDNvRZRgvkBTUkQzFoT_8rA",
+        "title": "인떤남자와 효떤여자 with 재석 뒤집개",
+        "description": "뜬뜬 #핑계고.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/hyaZrG21aPM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/hyaZrG21aPM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/hyaZrG21aPM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "뜬뜬 DdeunDdeun",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-07-15T00:00:19Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "1RhDdgKKlzc34rahGUt92g-gaLc",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "bg0rUVpYCpo"
+      },
+      "snippet": {
+        "publishedAt": "2023-03-02T09:00:20Z",
+        "channelId": "UCDNvRZRgvkBTUkQzFoT_8rA",
+        "title": "[구경꾼캠] 핑계고 대표작 할 사람 모여라 (2/100000)",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/bg0rUVpYCpo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/bg0rUVpYCpo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/bg0rUVpYCpo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "뜬뜬 DdeunDdeun",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-03-02T09:00:20Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "EsDBfRwKfo0c0RXga7sfsvzwOPo",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "ujOi55ia34U"
+      },
+      "snippet": {
+        "publishedAt": "2023-09-22T09:00:46Z",
+        "channelId": "UCDNvRZRgvkBTUkQzFoT_8rA",
+        "title": "레시피 읽어주는 막내PD [애호박 당근전 by 남창희]",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ujOi55ia34U/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ujOi55ia34U/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ujOi55ia34U/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "뜬뜬 DdeunDdeun",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-09-22T09:00:46Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "A1-SRv2gwq3eWH7skCNN3M0J-aw",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "bfwj78_QzL0"
+      },
+      "snippet": {
+        "publishedAt": "2023-08-08T15:00:28Z",
+        "channelId": "UCDNvRZRgvkBTUkQzFoT_8rA",
+        "title": "[특집 예고캠] 합동 생파",
+        "description": "뜬뜬 #핑계고.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/bfwj78_QzL0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/bfwj78_QzL0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/bfwj78_QzL0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "뜬뜬 DdeunDdeun",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-08-08T15:00:28Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "_44Y4tVcBCTEKRD9TlaBjF-jxgo",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "9HN4yg-CB6M"
+      },
+      "snippet": {
+        "publishedAt": "2023-07-19T09:00:20Z",
+        "channelId": "UCDNvRZRgvkBTUkQzFoT_8rA",
+        "title": "레시피 읽어주는 막내PD [라구 파스타 by 남창희]",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/9HN4yg-CB6M/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/9HN4yg-CB6M/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/9HN4yg-CB6M/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "뜬뜬 DdeunDdeun",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-07-19T09:00:20Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "V9rhWwbrvKCsH6WezMwIz_271o4",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "RN2uFMjQe7g"
+      },
+      "snippet": {
+        "publishedAt": "2023-09-22T09:00:22Z",
+        "channelId": "UCDNvRZRgvkBTUkQzFoT_8rA",
+        "title": "레시피 읽어주는 막내PD [애호박 고기전 by 남창희]",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/RN2uFMjQe7g/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/RN2uFMjQe7g/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/RN2uFMjQe7g/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "뜬뜬 DdeunDdeun",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-09-22T09:00:22Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "2qeKLQ_bQ3s0MCReXLEDhWk-uW0",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "B2cRuv-076k"
+      },
+      "snippet": {
+        "publishedAt": "2023-09-02T00:00:09Z",
+        "channelId": "UCDNvRZRgvkBTUkQzFoT_8rA",
+        "title": "[ENG] 가을맞이는 핑계고",
+        "description": "독서의 계절, 가을이 성큼 찾아왔어요. 석삼이형, 하하 그리고 지효랑 가을 정취에 어울리는 토크를 교양있게 나눠봤습니다. 여러분들 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/B2cRuv-076k/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/B2cRuv-076k/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/B2cRuv-076k/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "뜬뜬 DdeunDdeun",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-09-02T00:00:09Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "uH5cYobd7t2VTQAWp51YSUhOYMA",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "E5EcOMMUdY8"
+      },
+      "snippet": {
+        "publishedAt": "2023-09-12T03:00:05Z",
+        "channelId": "UCDNvRZRgvkBTUkQzFoT_8rA",
+        "title": "[ENG] 230812 mini핑계고 : 유재석, 지석진, 키(KEY) @뜬뜬편집실 (OneCam)",
+        "description": "일시 : 2023년 8월 12일 한낮 장소 : 뜬뜬 편집실 참여자 : 유재석, 지석진, 키(KEY) 토크 장르 : 수상할 정도로 X세대와 대화가 잘 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/E5EcOMMUdY8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/E5EcOMMUdY8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/E5EcOMMUdY8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "뜬뜬 DdeunDdeun",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-09-12T03:00:05Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "qMJO9a48mIEPoU2WHplduEjibWs",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "O_ri_EHavSo"
+      },
+      "snippet": {
+        "publishedAt": "2022-11-25T09:00:11Z",
+        "channelId": "UCDNvRZRgvkBTUkQzFoT_8rA",
+        "title": "[ENG] 몸보신은 핑계고",
+        "description": "친한 CEO 친구 한 명이 요새 하도 바쁘다고 해서 몸보신 좀 시켜주려고 했는데 사실 다~~ 핑계고   또 떠들어제끼고 싶어서 아침부터 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/O_ri_EHavSo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/O_ri_EHavSo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/O_ri_EHavSo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "뜬뜬 DdeunDdeun",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-11-25T09:00:11Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "YSHUmb7ebtKmIjew9gwBvwRFXY8",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "kvLjfgTbuFI"
+      },
+      "snippet": {
+        "publishedAt": "2023-08-29T03:00:16Z",
+        "channelId": "UCDNvRZRgvkBTUkQzFoT_8rA",
+        "title": "[ENG] 230816 mini핑계고 : 유재석, 조세호, 유연석 @뜬뜬편집실 (OneCam)",
+        "description": "일시 : 2023년 8월 16일 비 온 뒤 맑음 장소 : 뜬뜬 편집실 참여자 : 유재석, 조세호, 유연석 토크 장르 : 하나로 시작해 셋으로 끝나는 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/kvLjfgTbuFI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/kvLjfgTbuFI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/kvLjfgTbuFI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "뜬뜬 DdeunDdeun",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-08-29T03:00:16Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "QCCm2hzU9XgO_1PSm4gqrNzeH0I",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "m9m_eHVEGYA"
+      },
+      "snippet": {
+        "publishedAt": "2022-11-15T09:00:25Z",
+        "channelId": "UCDNvRZRgvkBTUkQzFoT_8rA",
+        "title": "[ENG] 핑계고_설명_영상.mp4",
+        "description": "이게 무슨 콘텐츠냐면요, 그냥 다~~ 핑계고 편하게 떠들어제껴보려합니다 11월 17일 목요일 오후 5시 '뜬뜬'에서 최.초.공.개 ——— 유 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/m9m_eHVEGYA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/m9m_eHVEGYA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/m9m_eHVEGYA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "뜬뜬 DdeunDdeun",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-11-15T09:00:25Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "H7mk5G9alla6aZDlv1Rqs4Efzy4",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "jSwDoRePjKc"
+      },
+      "snippet": {
+        "publishedAt": "2023-03-01T12:00:35Z",
+        "channelId": "UCDNvRZRgvkBTUkQzFoT_8rA",
+        "title": "[ENG] 230222 mini핑계고 : 유재석, 조세호, 주우재 @뜬뜬편집실 (OneCam)",
+        "description": "일시 : 2023년 2월 22일 이른 오후쯤 장소 : 뜬뜬 편집실 참여자 : 유재석, 조세호, 주우재 토크 장르 : 의외로 힐링 재질 *본 콘텐츠와 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/jSwDoRePjKc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/jSwDoRePjKc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/jSwDoRePjKc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "뜬뜬 DdeunDdeun",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-03-01T12:00:35Z"
+      }
+    }
+  ]
+}

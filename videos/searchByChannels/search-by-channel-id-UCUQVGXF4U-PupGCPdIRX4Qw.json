@@ -1,0 +1,692 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "AvdIrNcYN_yu254pyddF9PZxIP4",
+  "nextPageToken": "CBQQAA",
+  "regionCode": "KR",
+  "pageInfo": {
+    "totalResults": 1501,
+    "resultsPerPage": 20
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "bGNL4SHWesdfmWs6CcAq-eszNGg",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "CcN0k_7rHvw"
+      },
+      "snippet": {
+        "publishedAt": "2022-12-15T07:36:20Z",
+        "channelId": "UCUQVGXF4U-PupGCPdIRX4Qw",
+        "title": "빗나간 슈팅이 팬 얼굴 강타…음바페, 곧바로 관중석으로 달려가 사과 #Shorts / 스포츠머그",
+        "description": "오늘(15일) 2022 카타르 월드컵 프랑스와 모로코의 준결승 경기 시작 전 그라운드에서 워밍업 중 음바페의 빗나간 슈팅이 프랑스의 한 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/CcN0k_7rHvw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/CcN0k_7rHvw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/CcN0k_7rHvw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "스포츠머그 - SPORTSMUG",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-12-15T07:36:20Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "v2XQEgsQGwTK86Na6vyAucBCGCs",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "le7GrYsvl-M"
+      },
+      "snippet": {
+        "publishedAt": "2023-09-05T02:06:16Z",
+        "channelId": "UCUQVGXF4U-PupGCPdIRX4Qw",
+        "title": "&quot;당신은 리옹 유니폼을 입은 선수다&quot;...팀이 최하위로 내려앉자 콜리더의 소름 돋는 연설 #Shorts / 스포츠머그",
+        "description": "프랑스 리그1 올랭피크 리옹이 지난 3일(현지시간) 안방에서 PSG에 4대 1 대패했습니다. 승리 없이 1무 3패로 리그 최하위로 내려 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/le7GrYsvl-M/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/le7GrYsvl-M/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/le7GrYsvl-M/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "스포츠머그 - SPORTSMUG",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-09-05T02:06:16Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "qQbW7nBsVs0QgxlGGiT-6ysXaDk",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "Ft4u1jmxbKs"
+      },
+      "snippet": {
+        "publishedAt": "2023-11-14T06:55:00Z",
+        "channelId": "UCUQVGXF4U-PupGCPdIRX4Qw",
+        "title": "셀럽들도 코시 직관 못참지~ 한국시리즈 5차전 직관 간 셀럽 모음.zip #Shorts / 스포츠머그",
+        "description": "어제(13일) 서울 잠실야구장에서 KBO 한국시리즈 5차전 경기가 열렸습니다. 우승 트로피를 코앞에 둔 LG 트윈스와 KT 위즈의 경기를 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Ft4u1jmxbKs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Ft4u1jmxbKs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Ft4u1jmxbKs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "스포츠머그 - SPORTSMUG",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-11-14T06:55:00Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "MBUV84I4iG6JxDNVFCGaEnf7KjQ",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "CyBAB-CJLCQ"
+      },
+      "snippet": {
+        "publishedAt": "2023-09-06T06:25:09Z",
+        "channelId": "UCUQVGXF4U-PupGCPdIRX4Qw",
+        "title": "독일 테니스 선수에게 히틀러 찬양 문구를 외친 관중의 최후는? #Shorts / 스포츠머그",
+        "description": "어제(5일) 뉴욕에서 열린 US오픈 테니스 독일의 츠베레프 선수와 이탈리아의 신네르 선수의 경기가 진행되던 도중 한바탕 소동이 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/CyBAB-CJLCQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/CyBAB-CJLCQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/CyBAB-CJLCQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "스포츠머그 - SPORTSMUG",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-09-06T06:25:09Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "nU4iiyo8KFuzwEyma_jcnVJ0BNc",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "sFQ44VPLAHs"
+      },
+      "snippet": {
+        "publishedAt": "2023-02-20T07:09:42Z",
+        "channelId": "UCUQVGXF4U-PupGCPdIRX4Qw",
+        "title": "대.한.민.국. 코리아~!! ...팬들에게 극찬받은 쇼트트랙 장내 아나운서 #Shorts / 스포츠머그",
+        "description": "지난 12일 네덜란드에서 열린 2022~23 국제빙상연맹(ISU) 쇼트트랙 월드컵 6차 대회 남자 5000m 계주에서 우리나라가 6분47초048 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/sFQ44VPLAHs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/sFQ44VPLAHs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/sFQ44VPLAHs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "스포츠머그 - SPORTSMUG",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-02-20T07:09:42Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "84RtxA6fVK1-hIQZWB7ABF7OHKc",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "TiMPEIbSU-A"
+      },
+      "snippet": {
+        "publishedAt": "2023-05-12T07:24:14Z",
+        "channelId": "UCUQVGXF4U-PupGCPdIRX4Qw",
+        "title": "이런 게 진정한 스포츠맨십이 아닐지...#Shorts / 스포츠머그",
+        "description": "지난 11일 캄보디아에서 열린 2023 동남 아시안게임 육상 남자 10000m 결승 경기에서 진정한 스포츠맨십 장면이 나왔습니다. 선두로 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/TiMPEIbSU-A/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/TiMPEIbSU-A/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/TiMPEIbSU-A/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "스포츠머그 - SPORTSMUG",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-05-12T07:24:14Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "cRgvLW7tuGVff-iTJ7r5oiL7yI8",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "CdAOx_OozCE"
+      },
+      "snippet": {
+        "publishedAt": "2022-09-09T02:00:05Z",
+        "channelId": "UCUQVGXF4U-PupGCPdIRX4Qw",
+        "title": "파울 받자 홧김에 관중석으로 강슛 날린 축구 선수...공에 맞은 팬들 #Shorts / 스포츠머그",
+        "description": "9월 4일 미국 MLS 뉴욕 레드불스와 필라델피아의 경기에서 황당한 퇴장 장면이 나왔습니다. 후반 추가시간 뉴욕 레드불스가 0:2로 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/CdAOx_OozCE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/CdAOx_OozCE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/CdAOx_OozCE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "스포츠머그 - SPORTSMUG",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-09-09T02:00:05Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "9vRIgUjnDVVnrx_Kg9pk5yKpK4s",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "6vFnmhct7Y8"
+      },
+      "snippet": {
+        "publishedAt": "2023-11-06T08:41:10Z",
+        "channelId": "UCUQVGXF4U-PupGCPdIRX4Qw",
+        "title": "당한 만큼 꼭 갚아준다...캐나다의 노골적인 반칙에 역전 후 세리머니 시전한 쇼트트랙 박지원 / 스포츠머그",
+        "description": "한국 남자 쇼트트랙 '에이스' 박지원이 ISU 쇼트트랙 4대륙 선수권대회 남자 5000m 계주에서 짜릿한 역전 우승을 이끌었습니다.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/6vFnmhct7Y8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/6vFnmhct7Y8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/6vFnmhct7Y8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "스포츠머그 - SPORTSMUG",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-11-06T08:41:10Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "xOqfoxe99ZMvOSnZzXIy-YzAIgk",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "ZhZXZIHFM20"
+      },
+      "snippet": {
+        "publishedAt": "2023-06-21T09:04:09Z",
+        "channelId": "UCUQVGXF4U-PupGCPdIRX4Qw",
+        "title": "사과 안 해? &#39;초강수&#39;로 맞대응...인종차별 당하자 그대로 짐 싼 뉴질랜드 축구대표팀 / 스포츠머그",
+        "description": "이기고 있던 팀이 전반 종료 후 급작스럽게 경기를 포기한 이례적인 일이 벌어졌습니다. 지난 19일(현지시간) 뉴질랜드 축구대표팀이 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ZhZXZIHFM20/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ZhZXZIHFM20/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ZhZXZIHFM20/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "스포츠머그 - SPORTSMUG",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-06-21T09:04:09Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "0-iqGmMM3UXaduMaXeCM3hJtlZ0",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "OSEFivkqPtc"
+      },
+      "snippet": {
+        "publishedAt": "2023-01-21T02:00:06Z",
+        "channelId": "UCUQVGXF4U-PupGCPdIRX4Qw",
+        "title": "64경기 172골 다 돌려봤습니다...2022 카타르 월드컵 베스트 골 TOP 10 / 스포츠머그",
+        "description": "설 연휴를 맞이해 스포츠머그에서 2022 카타르 월드컵 결산을 준비했습니다. 첫 번째 순서로 카타르를 수놓은 원더골들을 모았습니다.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/OSEFivkqPtc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/OSEFivkqPtc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/OSEFivkqPtc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "스포츠머그 - SPORTSMUG",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-01-21T02:00:06Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "Jbnz5txosTG8qUa6TQrOvN2VbhU",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "dPhZpDqhTnU"
+      },
+      "snippet": {
+        "publishedAt": "2023-02-13T09:21:23Z",
+        "channelId": "UCUQVGXF4U-PupGCPdIRX4Qw",
+        "title": "숨 참고~ 아웃코스 질주!…&#39;세계 최강&#39; 증명한 쇼트트랙 박지원의 대역전극 / 스포츠머그",
+        "description": "한국 쇼트트랙 남자팀의 에이스 박지원 선수가 시즌 마지막 월드컵에서 눈부신 역주로 3관왕에 올랐습니다. 6차례 월드컵에서 금메달 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/dPhZpDqhTnU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/dPhZpDqhTnU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/dPhZpDqhTnU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "스포츠머그 - SPORTSMUG",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-02-13T09:21:23Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "qWwxSN32PjIMoamuwO_rX95Ur_k",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "fJNPvj1fT-c"
+      },
+      "snippet": {
+        "publishedAt": "2020-11-24T12:49:57Z",
+        "channelId": "UCUQVGXF4U-PupGCPdIRX4Qw",
+        "title": "☆A매치 500승 기념☆ 스머가 엄선한 축구대표팀 역대 최고의 골 / 스포츠머그",
+        "description": "지난 17일 오스트리아에서 열린 한국과 카타르의 축구 국가대표 평가전에서 한국 대표팀이 2대 1 승리를 거뒀습니다. 이로써 한국 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/fJNPvj1fT-c/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/fJNPvj1fT-c/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/fJNPvj1fT-c/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "스포츠머그 - SPORTSMUG",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-11-24T12:49:57Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "ecszPKSJL9y0DNd93XLttPqmwyU",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "xkkHbkKKoSs"
+      },
+      "snippet": {
+        "publishedAt": "2023-05-26T05:53:14Z",
+        "channelId": "UCUQVGXF4U-PupGCPdIRX4Qw",
+        "title": "별안간 퍼진 주심 목소리?...VAR 판정을 직접 설명한 온두라스전 낯선 풍경 / 스포츠머그",
+        "description": "U-20 월드컵에서 우리 대표팀이 온두라스와의 조별리그 2차전에서 2대 2로 비긴 가운데 주심이 직접 VAR 판정을 설명하는 장면이 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/xkkHbkKKoSs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/xkkHbkKKoSs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/xkkHbkKKoSs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "스포츠머그 - SPORTSMUG",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-05-26T05:53:14Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "XG5FVvITOhedy-5yeLQEI_cFcSE",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "Kzs9V-L1DkU"
+      },
+      "snippet": {
+        "publishedAt": "2022-10-04T09:29:46Z",
+        "channelId": "UCUQVGXF4U-PupGCPdIRX4Qw",
+        "title": "세계신기록을 2번이나 도왔다?…&#39;마라톤 초인&#39; 킵초게의 수분을 책임진 &#39;숨은 영웅&#39; / 스포츠머그",
+        "description": "지난달 25일 베를린 마라톤 대회에서 케냐의 킵초게 선수가 세계신기록을 작성했습니다. 2시간 1분 9초에 완주해 종전 자신의 세계 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Kzs9V-L1DkU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Kzs9V-L1DkU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Kzs9V-L1DkU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "스포츠머그 - SPORTSMUG",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-10-04T09:29:46Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "Qy7Khua9UNZ1_9-lEhbqVR-Cvkg",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "knkJqnEWzFQ"
+      },
+      "snippet": {
+        "publishedAt": "2023-05-24T09:37:53Z",
+        "channelId": "UCUQVGXF4U-PupGCPdIRX4Qw",
+        "title": "이마가 땅바닥에 닿았다...GK 김승규 뚫은 호날두의 이슬람식(?) 큰절 세리머니 / 스포츠머그",
+        "description": "사우디아라비아 프로축구에서 뛰는 호날두가 김승규 골키퍼를 뚫고 짜릿한 역전골을 터트리며 소속팀 알 나스르에 3대 2 승리를 안겼 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/knkJqnEWzFQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/knkJqnEWzFQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/knkJqnEWzFQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "스포츠머그 - SPORTSMUG",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-05-24T09:37:53Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "iuIziU-2w3K6YPCyJ1qmfdchUP4",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "QOMa5KeNoGQ"
+      },
+      "snippet": {
+        "publishedAt": "2023-11-08T09:36:37Z",
+        "channelId": "UCUQVGXF4U-PupGCPdIRX4Qw",
+        "title": "&quot;돈만 밝히는 돈나룸마, 이거나 먹어라!&quot;...돌아온 원수를 위한 격한 환영식(?) / 스포츠머그",
+        "description": "'친정팀' AC밀란을 방문한 파리 생제르맹 골키퍼 돈나룸마가 밀란 홈 팬들로부터 뜻밖의 돈벼락(?)을 맞았습니다. 경기 전 밀란 팬들이 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/QOMa5KeNoGQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/QOMa5KeNoGQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/QOMa5KeNoGQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "스포츠머그 - SPORTSMUG",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-11-08T09:36:37Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "l4yl9Ef5avq4do4Zw5EhyaWL9kc",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "aCdlG0I9C-Q"
+      },
+      "snippet": {
+        "publishedAt": "2020-12-14T10:17:03Z",
+        "channelId": "UCUQVGXF4U-PupGCPdIRX4Qw",
+        "title": "&quot;그러면 심판 보지 말지?&quot;...양팀 감독이 극대노한 매끄럽지 못한 판정 / 스포츠머그",
+        "description": "프로배구 여자부에서 양팀 감독 모두가 심판의 판정에 불만을 품는 보기 드문 장면이 연출됐습니다. 지난 12일 KGC인삼공사와 현대 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/aCdlG0I9C-Q/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/aCdlG0I9C-Q/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/aCdlG0I9C-Q/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "스포츠머그 - SPORTSMUG",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-12-14T10:17:03Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "LarRRKRBPuJL2n8FHFt_r-N70MI",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "s7GHg3FIv-Q"
+      },
+      "snippet": {
+        "publishedAt": "2023-04-05T09:35:40Z",
+        "channelId": "UCUQVGXF4U-PupGCPdIRX4Qw",
+        "title": "&quot;스트냐 볼이냐&quot; 얼굴 붉히지 마세요...이젠 &#39;로봇 심판&#39;이 결정하니까 (ft.&#39;고교 최대어&#39; 장현석) / 스포츠머그",
+        "description": "지난 3일 서울 목동야구장에서 펼쳐진 이마트배 고교야구 16강전 마산용마고와 세광고의 경기에서는 '야구장의 달라진 풍경'을 볼 수 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/s7GHg3FIv-Q/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/s7GHg3FIv-Q/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/s7GHg3FIv-Q/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "스포츠머그 - SPORTSMUG",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-04-05T09:35:40Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "QaXUVCxFYmNWSDYR0GQEFFXEaUM",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "ggwOX38Gcb8"
+      },
+      "snippet": {
+        "publishedAt": "2023-05-19T09:46:30Z",
+        "channelId": "UCUQVGXF4U-PupGCPdIRX4Qw",
+        "title": "메시에 이어 최연소 골든볼 수상! 그 어려운 걸 이강인이 해냅니다!...등장부터 비범했던 &#39;막내 형&#39; / 스포츠머그",
+        "description": "마라도나, 메시, 이강인 등이 골든볼을 수상하며 세계적인 선수로 떠오른 '스타 등용문' FIFA U-20 월드컵이 오는 21일 개막합니다.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ggwOX38Gcb8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ggwOX38Gcb8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ggwOX38Gcb8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "스포츠머그 - SPORTSMUG",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-05-19T09:46:30Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "BNeqm-Lo7q4oLAzLHwXUPRwb_-8",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "8iROtCfk1BA"
+      },
+      "snippet": {
+        "publishedAt": "2023-06-27T09:47:14Z",
+        "channelId": "UCUQVGXF4U-PupGCPdIRX4Qw",
+        "title": "&#39;우상&#39; 리켈메 앞에서 한껏 예의 차린 메시...9살 나이 차 뛰어넘은 우정의 축구 / 스포츠머그",
+        "description": "미국 진출을 앞두고 휴가 중이던 리오넬 메시가 아르헨티나 축구 전설 리켈메의 고별전에 참가해 우정을 나눴습니다. 리켈메는 지난 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/8iROtCfk1BA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/8iROtCfk1BA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/8iROtCfk1BA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "스포츠머그 - SPORTSMUG",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-06-27T09:47:14Z"
+      }
+    }
+  ]
+}

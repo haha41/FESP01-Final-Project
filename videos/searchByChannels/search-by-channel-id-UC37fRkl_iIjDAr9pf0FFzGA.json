@@ -1,0 +1,692 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "DL6h3xSLMRBCZBRKFpG1iBc113k",
+  "nextPageToken": "CBQQAA",
+  "regionCode": "KR",
+  "pageInfo": {
+    "totalResults": 749,
+    "resultsPerPage": 20
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "8Lulj4m2pUdpwDCZjJiDreiMVQA",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "AsDhMi_3094"
+      },
+      "snippet": {
+        "publishedAt": "2022-09-17T10:44:42Z",
+        "channelId": "UC37fRkl_iIjDAr9pf0FFzGA",
+        "title": "반찬으로 내놓으면 밥먹기 전에 사라지는 그반찬!!",
+        "description": "내놓기 무섭게 없어지는 그 반찬의 실채!! #shorts #오징어반찬 #오징어실채볶음 #오징어볶음 #밑반찬 #가정식 Artist : 오늘의 일기 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/AsDhMi_3094/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/AsDhMi_3094/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/AsDhMi_3094/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "딸을 위한 레시피 Recipes for daughters",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-09-17T10:44:42Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "rTlMlqEg5DpE9q6fc_rEs6QEL_4",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "RgigTYmBzes"
+      },
+      "snippet": {
+        "publishedAt": "2022-08-26T03:17:10Z",
+        "channelId": "UC37fRkl_iIjDAr9pf0FFzGA",
+        "title": "쪽파와 김이 만나면!! 놀라운 일이 벌어집니다!!",
+        "description": "정말 맛있는 요리가 됩니다^^ #shorts #간단요리 #집밥 #쪽파김무침 Artist : 오늘의 일기 Link : https://youtu.be/8TOz6Y-Sv1o.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/RgigTYmBzes/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/RgigTYmBzes/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/RgigTYmBzes/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "딸을 위한 레시피 Recipes for daughters",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-08-26T03:17:10Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "n4J8daFQpWMoBaigev0p94NtCwM",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "TUdZquoE7r4"
+      },
+      "snippet": {
+        "publishedAt": "2022-09-21T09:08:40Z",
+        "channelId": "UC37fRkl_iIjDAr9pf0FFzGA",
+        "title": "100% 다시 만들어 먹게되는 버섯요리 레시피!!",
+        "description": "느타리 버섯만 준비하세요!! #shorts #버섯볶음 #느타리버섯 #간편요리 #볶음요리 #가정식 #백반 Artist : 오늘의 일기 Link ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/TUdZquoE7r4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/TUdZquoE7r4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/TUdZquoE7r4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "딸을 위한 레시피 Recipes for daughters",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-09-21T09:08:40Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "C3rY7xnBpo6kL060_oXtvbbsY9o",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "awpLrOkfI8w"
+      },
+      "snippet": {
+        "publishedAt": "2022-09-30T07:38:54Z",
+        "channelId": "UC37fRkl_iIjDAr9pf0FFzGA",
+        "title": "유명 기사식당 돼지불백! 맛의 비밀 공개!! 이것만 알면 집에서도 유명 기사식당 돼지불백을 즐길 수 있어요!!",
+        "description": "유명 기사식당 돼지불백!! 이제 직접 만들어서 드세요~~ #shorts #기사식당 #돼지불백 #간단요리 #가정식 #반찬 #고기반찬 Artist ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/awpLrOkfI8w/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/awpLrOkfI8w/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/awpLrOkfI8w/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "딸을 위한 레시피 Recipes for daughters",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-09-30T07:38:54Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "368Y2FB4x0x6_qsYPc9YgS3HfOE",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "nw3KypDdUE4"
+      },
+      "snippet": {
+        "publishedAt": "2022-09-14T04:13:55Z",
+        "channelId": "UC37fRkl_iIjDAr9pf0FFzGA",
+        "title": "아차!! 하실거에요!! 이렇게 해야 씹을수록 더 맛있는 우엉조림이 됩니다!!",
+        "description": "맛있는 우엉조림 만들어서 드셔보세요~ #shorts #간단요리 #우엉조림 #집밥 #가정식 #밑반찬 Artist : 오늘의 일기 Link ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/nw3KypDdUE4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/nw3KypDdUE4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/nw3KypDdUE4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "딸을 위한 레시피 Recipes for daughters",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-09-14T04:13:55Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "aqdouqNX0wgLuRJockmH4UKa5ac",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "91fHtE_IXuc"
+      },
+      "snippet": {
+        "publishedAt": "2022-09-30T06:30:28Z",
+        "channelId": "UC37fRkl_iIjDAr9pf0FFzGA",
+        "title": "썰고! 갈고! 넣기만 하면 맛있는 깍두기 완성!!^^",
+        "description": "깍두기 이렇게 만들면 바로먹어도 맛있고 두었다 먹어도 맛있어요^^ #shorts #깍두기 #간단요리 #가정식 #반찬 Artist : 오늘의 일기 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/91fHtE_IXuc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/91fHtE_IXuc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/91fHtE_IXuc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "딸을 위한 레시피 Recipes for daughters",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-09-30T06:30:28Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "BKFUlz93jnpBhuHBieDYFDcSePs",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "XTO9SyC7NZQ"
+      },
+      "snippet": {
+        "publishedAt": "2022-08-27T11:10:36Z",
+        "channelId": "UC37fRkl_iIjDAr9pf0FFzGA",
+        "title": "혹시 호박죽 좋아하세요??",
+        "description": "늙은 호박죽!! #shorts #간단요리 #늙은호박 #호박죽 #건강식 Artist : 오늘의 일기 Link : https://youtu.be/8TOz6Y-Sv1o.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/XTO9SyC7NZQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/XTO9SyC7NZQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/XTO9SyC7NZQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "딸을 위한 레시피 Recipes for daughters",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-08-27T11:10:36Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "EP_1gdHM4V1N4xi3ddg1hfzsoWw",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "3yFwFT5HeJE"
+      },
+      "snippet": {
+        "publishedAt": "2022-08-29T05:45:08Z",
+        "channelId": "UC37fRkl_iIjDAr9pf0FFzGA",
+        "title": "최고의 명절요리 등갈비찜!! 맛있게 하는 특급비법!!!",
+        "description": "명절에 등갈비찜 하나면 모두가 행복해져요!!^^ #shorts #명절음식 #등갈비요리 #등갈비찜 #추석음식 #추석요리 Artist : 오늘의 일기 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/3yFwFT5HeJE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/3yFwFT5HeJE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/3yFwFT5HeJE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "딸을 위한 레시피 Recipes for daughters",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-08-29T05:45:08Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "Wkp9vilYhHUKjZ6_wGdoO32UO6A",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "rMEXbswgtq0"
+      },
+      "snippet": {
+        "publishedAt": "2022-08-30T08:11:35Z",
+        "channelId": "UC37fRkl_iIjDAr9pf0FFzGA",
+        "title": "모두가 놀라는 맛!! 황태구이 유명맛집 그맛!! 이제는 집에서 맛보세요^^",
+        "description": "모두를 놀라게할 황태구이 맛집 레시피!! #shorts #명절음식 #황태구이 #추석음식 #추석요리 Artist : 오늘의 일기 Link ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/rMEXbswgtq0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/rMEXbswgtq0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/rMEXbswgtq0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "딸을 위한 레시피 Recipes for daughters",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-08-30T08:11:35Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "ch7DyRxtSJJJX9qS06mw9IFwTjs",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "x1HxpDsstbY"
+      },
+      "snippet": {
+        "publishedAt": "2022-08-22T04:44:11Z",
+        "channelId": "UC37fRkl_iIjDAr9pf0FFzGA",
+        "title": "내손으로 만든 명절대표후식 식혜!! 어렵지 않아요~",
+        "description": "풀영상은 고정댓글 확인!! 명절 음식 후엔 아메리카노보다 식혜로 입안을 깔끔하게!!^^ #shorts #명절음식 #식혜만들기 Artist : 오늘의 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/x1HxpDsstbY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/x1HxpDsstbY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/x1HxpDsstbY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "딸을 위한 레시피 Recipes for daughters",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-08-22T04:44:11Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "8PVsbjk52RePTIaRagAuHlgkt4c",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "-6QcIaHkDu4"
+      },
+      "snippet": {
+        "publishedAt": "2022-09-08T07:01:15Z",
+        "channelId": "UC37fRkl_iIjDAr9pf0FFzGA",
+        "title": "홍두깨살에 이 가루를 섞어 보세요!! 명품 육전이 만들어 집니다!!",
+        "description": "고기를 좋아하는 사람들은 절대 지나칠 수 없는!! 육전!! #shorts #명절음식 #육전 #홍두깨살 #명절전 #추석음식 #추석요리 Artist : 오늘 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/-6QcIaHkDu4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/-6QcIaHkDu4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/-6QcIaHkDu4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "딸을 위한 레시피 Recipes for daughters",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-09-08T07:01:15Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "AtjFQ6i2LjQw8CmCUQ80L_vgVyI",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "jGxPutMOi7Y"
+      },
+      "snippet": {
+        "publishedAt": "2023-04-24T07:01:53Z",
+        "channelId": "UC37fRkl_iIjDAr9pf0FFzGA",
+        "title": "비법공개!! 잔치국수 육수 만들때 불조절로 최고의 맛을 내는 방법!!",
+        "description": "shorts #간단레시피 #잔치국수 #육수 #다시다 #간단요리 #저녁메뉴.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/jGxPutMOi7Y/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/jGxPutMOi7Y/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/jGxPutMOi7Y/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "딸을 위한 레시피 Recipes for daughters",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-04-24T07:01:53Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "2Dlne1G0c_T-HIjFdnVvmSnIuDk",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "9-V9PcPwy20"
+      },
+      "snippet": {
+        "publishedAt": "2022-08-28T12:51:54Z",
+        "channelId": "UC37fRkl_iIjDAr9pf0FFzGA",
+        "title": "매번 한그릇더!! 외치는 어묵잡채!!",
+        "description": "인기만점 어묵잡채!! 명절음식으로도 딱!! #shorts #명절음식 #어묵잡채 #잡채 #추석음식 #추석요리 Artist : 오늘의 일기 Link ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/9-V9PcPwy20/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/9-V9PcPwy20/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/9-V9PcPwy20/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "딸을 위한 레시피 Recipes for daughters",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-08-28T12:51:54Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "mbKXyqR2LmqoFu8mIVu8LqqhKXs",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "XQYcOYkkd_A"
+      },
+      "snippet": {
+        "publishedAt": "2023-04-21T05:37:06Z",
+        "channelId": "UC37fRkl_iIjDAr9pf0FFzGA",
+        "title": "&quot; 한접시 더!! &quot;를 외치게 만드는 양배추전! 라면보다 쉽게 만드는 법^^",
+        "description": "shorts #간단레시피 #양배추요리 #저녁메뉴 #저녁레시피 #다이어트 #디톡스 #건강한안주.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/XQYcOYkkd_A/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/XQYcOYkkd_A/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/XQYcOYkkd_A/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "딸을 위한 레시피 Recipes for daughters",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-04-21T05:37:06Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "FOYW9HZMxyGlDdKOkTbuGFODPKs",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "NuJZE5JD2Hw"
+      },
+      "snippet": {
+        "publishedAt": "2023-04-21T22:57:16Z",
+        "channelId": "UC37fRkl_iIjDAr9pf0FFzGA",
+        "title": "도시락반찬 끝판왕!! 햄감자조림에 함부로 밥을 비벼서는 안되는 이유!!",
+        "description": "short #간단레시피 #도시락반찬 #햄감자조림 #저녁레시피 #저녁반찬 #반찬 #간단요리.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/NuJZE5JD2Hw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/NuJZE5JD2Hw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/NuJZE5JD2Hw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "딸을 위한 레시피 Recipes for daughters",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-04-21T22:57:16Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "iNJl106kud4W7YAm2gZD4mXSxiI",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "VT61SG6HdEw"
+      },
+      "snippet": {
+        "publishedAt": "2021-04-25T01:40:25Z",
+        "channelId": "UC37fRkl_iIjDAr9pf0FFzGA",
+        "title": "맛있는 [가지볶음] 볶아도 무친것처럼 담백하게 만드는 비법. 물커덩X, 기름지지않아요.",
+        "description": "'좋아요+댓글+구독'은 컨텐츠 제작에 큰 힘이 됩니다! ✓레시피 사용시 출처를 밝혀주세요. ✓영상의 상업적 이용, 2차 편집 및 재 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/VT61SG6HdEw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/VT61SG6HdEw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/VT61SG6HdEw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "딸을 위한 레시피 Recipes for daughters",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-04-25T01:40:25Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "yR4BokNdhWvf2u7qb6LxzHRlnbM",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "HtEgZzAxyh0"
+      },
+      "snippet": {
+        "publishedAt": "2022-12-16T00:15:02Z",
+        "channelId": "UC37fRkl_iIjDAr9pf0FFzGA",
+        "title": "이렇게 만들면 일등반찬! 누가 만들어도 100% 성공하는 물파래무침",
+        "description": "파래무침/파래초무침/물파래무침 제 요리는 재료가 간단하고 어렵지 않습니다~ 요리해서 맛있게 드셨으면 댓글 남겨주세요^^ '딸을 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/HtEgZzAxyh0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/HtEgZzAxyh0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/HtEgZzAxyh0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "딸을 위한 레시피 Recipes for daughters",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-12-16T00:15:02Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "XFVg3z3DRIX7Yaocru9432ubqMI",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "tibFp9LH9Ak"
+      },
+      "snippet": {
+        "publishedAt": "2023-01-09T04:43:21Z",
+        "channelId": "UC37fRkl_iIjDAr9pf0FFzGA",
+        "title": "물에 먼저 불리지마세요! 성공률100%_맛있는 미역줄기볶음은 이렇게 만들어야 대박입니다🥇",
+        "description": "반찬가게 1등메뉴- 미역줄기볶음을 집에서 맛있게 만들어보세요. 제 요리는 재료가 간단하고 어렵지 않습니다~ 요리해서 맛있게 드 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/tibFp9LH9Ak/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/tibFp9LH9Ak/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/tibFp9LH9Ak/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "딸을 위한 레시피 Recipes for daughters",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-01-09T04:43:21Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "KaTpZ4pFpXfKq5GztzL4fskTYJo",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "cwJ4BWB13m8"
+      },
+      "snippet": {
+        "publishedAt": "2023-02-25T09:06:56Z",
+        "channelId": "UC37fRkl_iIjDAr9pf0FFzGA",
+        "title": "냉장고에 들어가도 딱딱하지 않은 인기만점 멸치볶음. 만들자마자 거덜나요~",
+        "description": "제 요리는 재료가 간단하고 어렵지 않습니다~ 요리해서 맛있게 드셨으면 댓글 남겨주세요^^ '딸을 위한 레시피' 밴드에서 더 가깝게 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/cwJ4BWB13m8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/cwJ4BWB13m8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/cwJ4BWB13m8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "딸을 위한 레시피 Recipes for daughters",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-02-25T09:06:56Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "_ai475YPaD2kahpN8pfiuTyiWpU",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "gTF1yDYebUw"
+      },
+      "snippet": {
+        "publishedAt": "2022-04-16T05:19:00Z",
+        "channelId": "UC37fRkl_iIjDAr9pf0FFzGA",
+        "title": "🥇반짝반짝~씹을수록 맛있는 [우엉조림]은 간장먼저 넣지 마세요✅ 우리가족 모두 행복해지는 반찬 !!",
+        "description": "윤기가 반들반들~ 맛있는 우엉조림입니다   ✓레시피 사용시 출처를 밝혀주세요. ✓영상의 상업적 이용, 2차 편집 및 재 업로드를 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/gTF1yDYebUw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/gTF1yDYebUw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/gTF1yDYebUw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "딸을 위한 레시피 Recipes for daughters",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-04-16T05:19:00Z"
+      }
+    }
+  ]
+}

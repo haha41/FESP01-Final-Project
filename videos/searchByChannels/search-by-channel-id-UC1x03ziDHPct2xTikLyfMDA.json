@@ -1,0 +1,692 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "wBFIpdXNvCt8tDqZ06qTBvJCvRQ",
+  "nextPageToken": "CBQQAA",
+  "regionCode": "KR",
+  "pageInfo": {
+    "totalResults": 213,
+    "resultsPerPage": 20
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "VKEt84IdotaBWOntWADCnSf8FmI",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "pXUOAWj0Ttw"
+      },
+      "snippet": {
+        "publishedAt": "2022-03-14T08:00:13Z",
+        "channelId": "UC1x03ziDHPct2xTikLyfMDA",
+        "title": "눈속임같은 담배 늘어나는 마술 (Stretched Cigarette Magic) #shorts",
+        "description": "주작 #킥서비스 #신기한영상 #shorts 마술사 디노의 보고도 눈속임같은 담배 늘어나는 마술 Stretched Cirgarette magic like eye fake.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/pXUOAWj0Ttw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/pXUOAWj0Ttw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/pXUOAWj0Ttw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "킥서비스",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-03-14T08:00:13Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "PGQHY_cuECuRyvc3bZigJ_d7WUU",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "_DlVxFN4c-E"
+      },
+      "snippet": {
+        "publishedAt": "2022-03-07T07:00:08Z",
+        "channelId": "UC1x03ziDHPct2xTikLyfMDA",
+        "title": "ㄹㅇ합성같은 마술 (달 띄우기) #shorts",
+        "description": "킥서비스 #마술 #신기한 #shorts 마술사 디노의 합성같은 마술 Magic like photoshop. made by Magician Dino.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/_DlVxFN4c-E/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/_DlVxFN4c-E/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/_DlVxFN4c-E/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "킥서비스",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-03-07T07:00:08Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "ANjzsAsNgXxuuZRMQogh4o_MWKo",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "jIp_PXngpAw"
+      },
+      "snippet": {
+        "publishedAt": "2023-01-20T07:00:13Z",
+        "channelId": "UC1x03ziDHPct2xTikLyfMDA",
+        "title": "무소유의 세상,2033년",
+        "description": "shorts #2033 #킥서비스 #공유 #원조할머니쇼츠 오리지널 버전은 https://youtu.be/AsPsb2zjLck.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/jIp_PXngpAw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/jIp_PXngpAw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/jIp_PXngpAw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "킥서비스",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-01-20T07:00:13Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "JzKU75YoWt9guHVYAQIIXCJ0mN4",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "zrmcoLJw494"
+      },
+      "snippet": {
+        "publishedAt": "2023-05-13T07:30:11Z",
+        "channelId": "UC1x03ziDHPct2xTikLyfMDA",
+        "title": "파스타 2개 37만원입니다~",
+        "description": "shorts #킥서비스 #인스타맛집 #2033 풀버전은▶️https://youtu.be/WO5Ih_l8hZU.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/zrmcoLJw494/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/zrmcoLJw494/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/zrmcoLJw494/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "킥서비스",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-05-13T07:30:11Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "p0qO9amF0KGgvmE2p0YYx5EdKCs",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "IITJrG5XxGI"
+      },
+      "snippet": {
+        "publishedAt": "2023-04-11T09:00:17Z",
+        "channelId": "UC1x03ziDHPct2xTikLyfMDA",
+        "title": "엄마❤️",
+        "description": "shorts #킥서비스 #2033 #엄마 풀버전은▶️https://youtu.be/DhdFgQm7cRE.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/IITJrG5XxGI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/IITJrG5XxGI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/IITJrG5XxGI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "킥서비스",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-04-11T09:00:17Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "MM80ghYUU_f3vTA9vJfkpSKiGD4",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "oDO4s6mtPhw"
+      },
+      "snippet": {
+        "publishedAt": "2023-04-08T07:44:10Z",
+        "channelId": "UC1x03ziDHPct2xTikLyfMDA",
+        "title": "10년뒤 편의점 상황ㄷㄷ",
+        "description": "shorts#편의점#킥서비스 풀영상은https://youtu.be/KRiXIJ6emAE 요기에 ^^",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/oDO4s6mtPhw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/oDO4s6mtPhw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/oDO4s6mtPhw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "킥서비스",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-04-08T07:44:10Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "S6a62w2okRVL-sEp3w7T7YzoJqE",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "X1L44T7IWDI"
+      },
+      "snippet": {
+        "publishedAt": "2023-05-01T09:30:07Z",
+        "channelId": "UC1x03ziDHPct2xTikLyfMDA",
+        "title": "꼰대의 꼰대의 꼰대의 꼰대의 꼰대",
+        "description": "shorts #킥서비스 #꼰대 #2033 마지막 꼰대는 ▶️https://youtu.be/Qh6H3hRXEcs.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/X1L44T7IWDI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/X1L44T7IWDI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/X1L44T7IWDI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "킥서비스",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-05-01T09:30:07Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "Tmp1ll-CQtrKwpTLJOjT68SnHKQ",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "kBQhSbye3nU"
+      },
+      "snippet": {
+        "publishedAt": "2023-05-03T07:00:28Z",
+        "channelId": "UC1x03ziDHPct2xTikLyfMDA",
+        "title": "정밀 MBTI 나왔습니다",
+        "description": "shorts #킥서비스 #2033 #건강검진 검사결과는 ▶️https://youtu.be/13WTFYrSy94.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/kBQhSbye3nU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/kBQhSbye3nU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/kBQhSbye3nU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "킥서비스",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-05-03T07:00:28Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "iUDRPi5HaieFjrIYCAayDNPTelY",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "z3g-EqA3_Ek"
+      },
+      "snippet": {
+        "publishedAt": "2023-06-06T05:00:21Z",
+        "channelId": "UC1x03ziDHPct2xTikLyfMDA",
+        "title": "헤이, 삼성 이것좀 만들어 줘.세요.plz",
+        "description": "킥서비스 #2033 #직장인 #버즈 연차 걸고 내기 결과는.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/z3g-EqA3_Ek/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/z3g-EqA3_Ek/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/z3g-EqA3_Ek/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "킥서비스",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-06-06T05:00:21Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "U7sLLTFFIr9WZuK1OrmYNHnMpug",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "_rLToM2Hysk"
+      },
+      "snippet": {
+        "publishedAt": "2023-02-16T03:00:21Z",
+        "channelId": "UC1x03ziDHPct2xTikLyfMDA",
+        "title": "맑은공기 팝니다.",
+        "description": "shorts #킥서비스 #2033 #2032 다른 공기2종은 여기엥 https://youtu.be/hgXdcDpXmHY.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/_rLToM2Hysk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/_rLToM2Hysk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/_rLToM2Hysk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "킥서비스",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-02-16T03:00:21Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "m6aby9PwXsBeTE1qYepHM_PXhzA",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "elFybCEHiXw"
+      },
+      "snippet": {
+        "publishedAt": "2023-02-17T07:00:21Z",
+        "channelId": "UC1x03ziDHPct2xTikLyfMDA",
+        "title": "자 진짜로 드가자",
+        "description": "shorts #2032 #2033 #킥서비스 풀버전은 https://youtu.be/4Y_E301xqhA.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/elFybCEHiXw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/elFybCEHiXw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/elFybCEHiXw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "킥서비스",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-02-17T07:00:21Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "hLAXb1n5o4EEwOloSwMytM6_T4I",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "J-JfQM0MVW8"
+      },
+      "snippet": {
+        "publishedAt": "2023-04-23T09:00:13Z",
+        "channelId": "UC1x03ziDHPct2xTikLyfMDA",
+        "title": "적금깼으니 배달 먹자",
+        "description": "shorts #킥서비스 #2033 #배달비 본편은▶️https://youtu.be/E4DX6F7f8Tk.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/J-JfQM0MVW8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/J-JfQM0MVW8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/J-JfQM0MVW8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "킥서비스",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-04-23T09:00:13Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "iEcRhq2OTiB8iQVSfTD_k4OGonU",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "r3vT14oxHlI"
+      },
+      "snippet": {
+        "publishedAt": "2023-04-03T06:00:13Z",
+        "channelId": "UC1x03ziDHPct2xTikLyfMDA",
+        "title": "10년 후 흡연구역 근황",
+        "description": "shorts #킥서비스 #흡연구역 결말은! ▶️https://youtu.be/ftk8W_Gv6QY.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/r3vT14oxHlI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/r3vT14oxHlI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/r3vT14oxHlI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "킥서비스",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-04-03T06:00:13Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "YQ9WQoKmtx3G70Es9etqCBKs21c",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "NKwuNlsqH44"
+      },
+      "snippet": {
+        "publishedAt": "2023-04-21T06:00:06Z",
+        "channelId": "UC1x03ziDHPct2xTikLyfMDA",
+        "title": "감독 폼 미쳤다리",
+        "description": "shorts #킥서비스 #2033 #과몰입 전체버전은 ▶️https://youtu.be/ijx8q6EahH0.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/NKwuNlsqH44/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/NKwuNlsqH44/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/NKwuNlsqH44/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "킥서비스",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-04-21T06:00:06Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "q7qEfGm2s_vg8GZouUWhG-gpMo0",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "sQQtTJ5H9r0"
+      },
+      "snippet": {
+        "publishedAt": "2023-03-07T07:00:18Z",
+        "channelId": "UC1x03ziDHPct2xTikLyfMDA",
+        "title": "요즘 누가 입어 봐요",
+        "description": "shorts #킥서비스 #2033 #옷가게 풀버전은▶️https://youtu.be/ln2nrdvONnk.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/sQQtTJ5H9r0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/sQQtTJ5H9r0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/sQQtTJ5H9r0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "킥서비스",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-03-07T07:00:18Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "UrbIy1tMUvB80xRHhims5eQrz4s",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "EPSUWl_tkM0"
+      },
+      "snippet": {
+        "publishedAt": "2023-04-18T07:00:05Z",
+        "channelId": "UC1x03ziDHPct2xTikLyfMDA",
+        "title": "배달비 43만원의 이유..",
+        "description": "shorts #킥서비스 #2032 #자영업 본편은 ▶️https://youtu.be/fUNLcwnwbz8.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/EPSUWl_tkM0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/EPSUWl_tkM0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/EPSUWl_tkM0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "킥서비스",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-04-18T07:00:05Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "fg49243q8MZNpieRlHoGyNYCHeY",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "8EMPHLGGv2I"
+      },
+      "snippet": {
+        "publishedAt": "2023-03-12T08:00:02Z",
+        "channelId": "UC1x03ziDHPct2xTikLyfMDA",
+        "title": "틱톡학과 개강파티 갈 거냐",
+        "description": "2033 #킥서비스 #대학생 #개강파티 결말은?! ▶️https://youtu.be/3z-FmfZruBw.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/8EMPHLGGv2I/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/8EMPHLGGv2I/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/8EMPHLGGv2I/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "킥서비스",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-03-12T08:00:02Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "Khvca8xg217voaGK8sCZz0mUh6I",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "6c7NKRkFaFw"
+      },
+      "snippet": {
+        "publishedAt": "2023-05-17T06:00:01Z",
+        "channelId": "UC1x03ziDHPct2xTikLyfMDA",
+        "title": "성준아 생일축하한다!!!!!",
+        "description": "shorts #킥서비스 #2033 #생일 성준이의 소원은 ▶️https://youtu.be/D1NQz6Mi07U.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/6c7NKRkFaFw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/6c7NKRkFaFw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/6c7NKRkFaFw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "킥서비스",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-05-17T06:00:01Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "U4wsYQjo1VdQTNriB-nRln5ipAg",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "LTpcZXbXgcY"
+      },
+      "snippet": {
+        "publishedAt": "2023-03-28T07:00:11Z",
+        "channelId": "UC1x03ziDHPct2xTikLyfMDA",
+        "title": "중요한 건 꺾이고 꺾이고 꺾이고 꺾이는 핸드폰",
+        "description": "shorts #킥서비스 #LCK #2033 풀영상은 ▶️https://youtu.be/uqw_VQuomdI.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/LTpcZXbXgcY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/LTpcZXbXgcY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/LTpcZXbXgcY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "킥서비스",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-03-28T07:00:11Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "FoJOqT9k6feTJHbwXls9rzchisc",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "9DokAoHV9iw"
+      },
+      "snippet": {
+        "publishedAt": "2023-01-27T08:00:06Z",
+        "channelId": "UC1x03ziDHPct2xTikLyfMDA",
+        "title": "2032년 킥서비스 근황 #예언",
+        "description": "shorts #킥서비스 #2033 #2032 10년후.. to. me from. me ...오리지널 버전은.. https://youtu.be/kTnRGr_M4QM.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/9DokAoHV9iw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/9DokAoHV9iw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/9DokAoHV9iw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "킥서비스",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-01-27T08:00:06Z"
+      }
+    }
+  ]
+}

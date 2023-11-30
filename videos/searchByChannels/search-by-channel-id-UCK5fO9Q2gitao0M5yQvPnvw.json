@@ -1,0 +1,692 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "hJmJcfjqLDtfwfxlilBhy-X9iP8",
+  "nextPageToken": "CBQQAA",
+  "regionCode": "KR",
+  "pageInfo": {
+    "totalResults": 245,
+    "resultsPerPage": 20
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "8vakFHFLQ3btIYua9cn-oZeiehM",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "rMtCJC39SqU"
+      },
+      "snippet": {
+        "publishedAt": "2013-04-10T03:00:03Z",
+        "channelId": "UCK5fO9Q2gitao0M5yQvPnvw",
+        "title": "박재범 Jay Park  &#39;좋아 Joah&#39; [Official Music Video]",
+        "description": "https://itunes.apple.com/album/joh-a-joah-single/id632541786 DIRECTED BY JINOOYA PARK https://vimeo.com/jinooyamakes ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/rMtCJC39SqU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/rMtCJC39SqU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/rMtCJC39SqU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "JAY PARK",
+        "liveBroadcastContent": "none",
+        "publishTime": "2013-04-10T03:00:03Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "JbX6IWxaJuJ9aKvvkALRqWvDZk0",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "a-T8aVasQdY"
+      },
+      "snippet": {
+        "publishedAt": "2017-07-17T09:00:01Z",
+        "channelId": "UCK5fO9Q2gitao0M5yQvPnvw",
+        "title": "박재범 Jay Park - &#39;YACHT (k) (Feat. Sik-K)&#39; Dance Visual",
+        "description": "박재범 Jay Park 'Yacht (K) [feat. Sik-K]' : Dance Visual Apple iTunes: http://apple.co/2uDi9LV Apple Music: https://itun.es/us/ocyilb ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/a-T8aVasQdY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/a-T8aVasQdY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/a-T8aVasQdY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "JAY PARK",
+        "liveBroadcastContent": "none",
+        "publishTime": "2017-07-17T09:00:01Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "8jHj8TXdmE9PqrqF1U23hruovtI",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "U3Lr5GRfOdI"
+      },
+      "snippet": {
+        "publishedAt": "2016-03-21T15:00:02Z",
+        "channelId": "UCK5fO9Q2gitao0M5yQvPnvw",
+        "title": "박재범 Jay Park &#39;사실은 The Truth Is&#39; [Official Music Video]",
+        "description": "박재범 Jay Park '사실은 The Truth Is' [Official Music Video] AVAILABLE WORLDWIDE on APPLE iTUNES ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/U3Lr5GRfOdI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/U3Lr5GRfOdI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/U3Lr5GRfOdI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "JAY PARK",
+        "liveBroadcastContent": "none",
+        "publishTime": "2016-03-21T15:00:02Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "eUgoH0oJbL-e21WyJIHOi1BGk9E",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "9dIVOtRtBb8"
+      },
+      "snippet": {
+        "publishedAt": "2016-11-07T10:00:00Z",
+        "channelId": "UCK5fO9Q2gitao0M5yQvPnvw",
+        "title": "Jay Park X Prepix X Purplow / &#39;Me Like Yuh (K) (feat. Hoody)&#39; [Choreography Version]",
+        "description": "Jay Park X Prepix X Purplow / 'Me Like Yuh (K) (feat. Hoody)' [Choreography Version] - Apple iTunes : https://itun.es/my/HRpJfb ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/9dIVOtRtBb8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/9dIVOtRtBb8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/9dIVOtRtBb8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "JAY PARK",
+        "liveBroadcastContent": "none",
+        "publishTime": "2016-11-07T10:00:00Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "e-UCEpzrommYmG-v-m3-N9aRoDA",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "lT7Q93fy1us"
+      },
+      "snippet": {
+        "publishedAt": "2016-10-27T03:00:03Z",
+        "channelId": "UCK5fO9Q2gitao0M5yQvPnvw",
+        "title": "Jay Park X 1MILLION / &#39;All I Wanna Do (K) (feat. Hoody &amp; Loco)&#39; [Choreography Version]",
+        "description": "Jay Park X 1MILLION 'All I Wanna Do (K) (feat. Hoody & Loco)' [Choreography Version] - Apple iTunes : https://itun.es/my/HRpJfb ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/lT7Q93fy1us/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/lT7Q93fy1us/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/lT7Q93fy1us/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "JAY PARK",
+        "liveBroadcastContent": "none",
+        "publishTime": "2016-10-27T03:00:03Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "lJQgulQBYfdDwzt0gIfSu7jxQtg",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "KwTg3cQ5ysA"
+      },
+      "snippet": {
+        "publishedAt": "2018-09-10T09:30:00Z",
+        "channelId": "UCK5fO9Q2gitao0M5yQvPnvw",
+        "title": "박재범 Jay Park - &#39;Dank&#39; (Official Audio)",
+        "description": "박재범 Jay Park - 'Dank' (Official Audio) 2018. 09. 10. MON. 6PM (KST) 박재범 Jay Park [V] 1. Dank 2.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/KwTg3cQ5ysA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/KwTg3cQ5ysA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/KwTg3cQ5ysA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "JAY PARK",
+        "liveBroadcastContent": "none",
+        "publishTime": "2018-09-10T09:30:00Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "Rn47bdGwnWvZ13KovkTvkBVnwPE",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "M2zrC1QF7Zo"
+      },
+      "snippet": {
+        "publishedAt": "2018-01-30T03:00:02Z",
+        "channelId": "UCK5fO9Q2gitao0M5yQvPnvw",
+        "title": "Jay Park (박재범) X Yultron (율트론) - &#39;Forget About Tomorrow&#39;  [Official Music Video]",
+        "description": "Jay Park X Yultron - 'Forget About Tomorrow' - 2018. 01. 30. Tue. 12:00 (KST)",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/M2zrC1QF7Zo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/M2zrC1QF7Zo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/M2zrC1QF7Zo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "JAY PARK",
+        "liveBroadcastContent": "none",
+        "publishTime": "2018-01-30T03:00:02Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "eYKXUVwNOslh9fONRMBtpyiC5L8",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "eZ9poBAcJUU"
+      },
+      "snippet": {
+        "publishedAt": "2015-07-16T17:13:51Z",
+        "channelId": "UCK5fO9Q2gitao0M5yQvPnvw",
+        "title": "박재범 Jay Park - My Last (Feat. Loco &amp; GRAY) Official Music Video",
+        "description": "박재범 Jay Park Single [ My Last (Feat. Loco & GRAY) ] AVAILABLE 07/17/2015 00:00 (local time) * iTunes Music Store ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/eZ9poBAcJUU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/eZ9poBAcJUU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/eZ9poBAcJUU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "JAY PARK",
+        "liveBroadcastContent": "none",
+        "publishTime": "2015-07-16T17:13:51Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "lPeK5iCobnbVnoeaJDHx2LBKNYQ",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "WxF7fmt3Ems"
+      },
+      "snippet": {
+        "publishedAt": "2018-09-10T09:00:03Z",
+        "channelId": "UCK5fO9Q2gitao0M5yQvPnvw",
+        "title": "박재범 Jay Park - &#39;V&#39; (Official MV) [ENG, CHN]",
+        "description": "박재범 Jay Park - 'V' (Official MV) [ENG, CHN] 2018. 09. 10. MON. 6PM (KST) 박재범 Jay Park [V] 1. Dank 2.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/WxF7fmt3Ems/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/WxF7fmt3Ems/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/WxF7fmt3Ems/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "JAY PARK",
+        "liveBroadcastContent": "none",
+        "publishTime": "2018-09-10T09:00:03Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "skr32clGs8OdkZUd8VztErbqDgA",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "F9ldojZWBiM"
+      },
+      "snippet": {
+        "publishedAt": "2022-04-24T15:00:01Z",
+        "channelId": "UCK5fO9Q2gitao0M5yQvPnvw",
+        "title": "박재범 (Jay Park) X MVP X HolyBang - ‘GANADARA (Feat. 아이유 IU)’ Performance Video",
+        "description": "박재범 (Jay Park) X MVP X HolyBang - 'GANADARA (Feat. 아이유 IU)' Performance Video (KO/EN/JP/CN) Listen & download ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/F9ldojZWBiM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/F9ldojZWBiM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/F9ldojZWBiM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "JAY PARK",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-04-24T15:00:01Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "B5H3LmtQ3G7C5WKGotHpP5MavqM",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "6eucCAdaeHk"
+      },
+      "snippet": {
+        "publishedAt": "2023-05-27T09:00:01Z",
+        "channelId": "UCK5fO9Q2gitao0M5yQvPnvw",
+        "title": "박재범 (Jay Park) - &#39;Candy (Feat. Zion.T)&#39; Performance Video",
+        "description": "박재범 (Jay Park) - 'Candy (Feat. Zion.T)' Performance Video Listen & download 'Candy' out now -Melon: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/6eucCAdaeHk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/6eucCAdaeHk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/6eucCAdaeHk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "JAY PARK",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-05-27T09:00:01Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "GG3s85cs3u_pGtgZOyNldchuem8",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "w4C03OoKGII"
+      },
+      "snippet": {
+        "publishedAt": "2020-06-11T03:10:36Z",
+        "channelId": "UCK5fO9Q2gitao0M5yQvPnvw",
+        "title": "박재범 Jay Park - &#39;All The Way Up (K)&#39; Dance Visual (ENG)",
+        "description": "박재범 Jay Park - 'All The Way Up (K)' Dance Visual 박재범 (Jay Park), DS [All The Way Up] ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/w4C03OoKGII/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/w4C03OoKGII/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/w4C03OoKGII/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "JAY PARK",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-06-11T03:10:36Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "Zrkp9deM0JqUeNU9ACJnYKp-d6o",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "_UnYwv3V75A"
+      },
+      "snippet": {
+        "publishedAt": "2019-04-18T23:58:16Z",
+        "channelId": "UCK5fO9Q2gitao0M5yQvPnvw",
+        "title": "박재범 Jay Park - Dank (Official MV)",
+        "description": "https://aomgofficial.lnk.to/Dank.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/_UnYwv3V75A/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/_UnYwv3V75A/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/_UnYwv3V75A/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "JAY PARK",
+        "liveBroadcastContent": "none",
+        "publishTime": "2019-04-18T23:58:16Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "E7CeFM9FESfB_WQUd-sQgd8GRC4",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "gx_mg-1WhWw"
+      },
+      "snippet": {
+        "publishedAt": "2015-05-21T15:00:07Z",
+        "channelId": "UCK5fO9Q2gitao0M5yQvPnvw",
+        "title": "박재범 Jay Park - 몸매 (MOMMAE) Feat.Ugly Duck Official Music Video",
+        "description": "박재범 Jay Park Single [ 몸매 (MOMMAE) Feat.Ugly Duck ] AVAILABLE 05/22/15 00:00 KST NOW AVAILABLE WORLDWIDE ON ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/gx_mg-1WhWw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/gx_mg-1WhWw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/gx_mg-1WhWw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "JAY PARK",
+        "liveBroadcastContent": "none",
+        "publishTime": "2015-05-21T15:00:07Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "GD2Hx2_o5ExXtsJADg2kDXgd7X8",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "ATuP6CE0vxM"
+      },
+      "snippet": {
+        "publishedAt": "2023-02-13T09:00:02Z",
+        "channelId": "UCK5fO9Q2gitao0M5yQvPnvw",
+        "title": "박재범 (Jay Park) - ‘Yesterday’ Official Music Video (EN/KO/JP/CN)",
+        "description": "박재범 (Jay Park) - 'Yesterday' Official Music Video (EN/KO/JP/CN) Digital Single [Yesterday] OUT NOW 1. Yesterday 2. Love Is ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ATuP6CE0vxM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ATuP6CE0vxM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ATuP6CE0vxM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "JAY PARK",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-02-13T09:00:02Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "iEtQmH9CRZfvjtuLvKII40wzi98",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "1hYP4rmRVKE"
+      },
+      "snippet": {
+        "publishedAt": "2016-10-25T15:00:30Z",
+        "channelId": "UCK5fO9Q2gitao0M5yQvPnvw",
+        "title": "박재범 Jay Park - &#39;Me Like Yuh&#39; [Official Music Video]",
+        "description": "JAY PARK, LP [EVERYTHING YOU WANTED] 박재범 Jay Park - 'Me Like Yuh' - Apple iTunes : https://itun.es/my/HRpJfb Apple ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/1hYP4rmRVKE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/1hYP4rmRVKE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/1hYP4rmRVKE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "JAY PARK",
+        "liveBroadcastContent": "none",
+        "publishTime": "2016-10-25T15:00:30Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "MRzWp-ZA81x4TTJrXWJJVM2N6o8",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "8HFxbY8YvDk"
+      },
+      "snippet": {
+        "publishedAt": "2016-10-19T15:00:00Z",
+        "channelId": "UCK5fO9Q2gitao0M5yQvPnvw",
+        "title": "박재범 Jay Park - &#39;DRIVE (Feat. GRAY)&#39; Official Music Video",
+        "description": "JAY PARK, LP [EVERYTHING YOU WANTED] 박재범 Jay Park - 'DRIVE (Feat. GRAY)' - ALBUM ONLINE RELEASE (DIGITAL) ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/8HFxbY8YvDk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/8HFxbY8YvDk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/8HFxbY8YvDk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "JAY PARK",
+        "liveBroadcastContent": "none",
+        "publishTime": "2016-10-19T15:00:00Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "oEDOVdVZ3hR-2dkozwBp57MafHs",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "THq-kiZy0m0"
+      },
+      "snippet": {
+        "publishedAt": "2014-09-01T03:00:03Z",
+        "channelId": "UCK5fO9Q2gitao0M5yQvPnvw",
+        "title": "박재범 Jay Park - So Good Official Music Video [AOMG]",
+        "description": "박재범 Jay Park 2nd Album [ EVOLUTION ] TITLE TRACK \" So Good \" AVAILABLE 09/01/14 12:00 KST NOW AVAILABLE ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/THq-kiZy0m0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/THq-kiZy0m0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/THq-kiZy0m0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "JAY PARK",
+        "liveBroadcastContent": "none",
+        "publishTime": "2014-09-01T03:00:03Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "JAbyi3MhdDl7O8zXUnx90wuRarA",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "-qSNMfm1rlg"
+      },
+      "snippet": {
+        "publishedAt": "2016-09-01T11:00:01Z",
+        "channelId": "UCK5fO9Q2gitao0M5yQvPnvw",
+        "title": "박재범 Jay Park &#39;Aquaman&#39; [Official Music Video] produced by Cha Cha Malone",
+        "description": "Apple iTunes : https://itunes.apple.com/album/me-like-yuh-single/id1149441102 Apple Music Korea : https://itun.es/kr/8EZHeb ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/-qSNMfm1rlg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/-qSNMfm1rlg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/-qSNMfm1rlg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "JAY PARK",
+        "liveBroadcastContent": "none",
+        "publishTime": "2016-09-01T11:00:01Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "-rF2TqzDbiosrTktnJUcwxDVjmI",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "iOAEKGYFSGA"
+      },
+      "snippet": {
+        "publishedAt": "2023-02-13T08:59:56Z",
+        "channelId": "UCK5fO9Q2gitao0M5yQvPnvw",
+        "title": "박재범 (Jay Park) - ‘Love Is Ugly (Feat. Hwa Sa)’ Official Audio (EN/KO/JP/CN)",
+        "description": "박재범 (Jay Park) - 'Love Is Ugly (Feat. Hwa Sa)' Official Audio (EN/KO/JP/CN) Digital Single [Yesterday] OUT NOW 1. Yesterday 2 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/iOAEKGYFSGA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/iOAEKGYFSGA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/iOAEKGYFSGA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "JAY PARK",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-02-13T08:59:56Z"
+      }
+    }
+  ]
+}

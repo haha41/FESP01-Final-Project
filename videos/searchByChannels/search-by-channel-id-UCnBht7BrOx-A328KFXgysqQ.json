@@ -1,0 +1,692 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "KEeHlpKSYW94ABekPl_Vf9a9NuY",
+  "nextPageToken": "CBQQAA",
+  "regionCode": "KR",
+  "pageInfo": {
+    "totalResults": 1734,
+    "resultsPerPage": 20
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "KLpkjta8o-iYYowBZOTBaCAjvhY",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "elUjeAq6c9M"
+      },
+      "snippet": {
+        "publishedAt": "2023-10-26T08:00:19Z",
+        "channelId": "UCnBht7BrOx-A328KFXgysqQ",
+        "title": "라리가ㅣ세비야 FCvs레알 마드리드ㅣ갈등에 대처하는 라모스의 &#39;능청왕&#39; 모먼트ㅣ쿠팡플레이 스포츠 | 쿠팡 #shorts",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/elUjeAq6c9M/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/elUjeAq6c9M/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/elUjeAq6c9M/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "쿠팡플레이 스포츠",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-10-26T08:00:19Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "ZEI1_58co_NJCfUuhqn-iebYJZ8",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "9xlSNGMUMTc"
+      },
+      "snippet": {
+        "publishedAt": "2023-06-23T08:00:07Z",
+        "channelId": "UCnBht7BrOx-A328KFXgysqQ",
+        "title": "F1ㅣ스페인 그랑프리ㅣ0.2초 차이로 싸움을 피한 오콘 | 쿠팡플레이 스포츠 | 쿠팡 #shorts",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/9xlSNGMUMTc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/9xlSNGMUMTc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/9xlSNGMUMTc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "쿠팡플레이 스포츠",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-06-23T08:00:07Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "UQvZTmsz871Hl2p8UemtgguHgPs",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "O3QrDH_uDGA"
+      },
+      "snippet": {
+        "publishedAt": "2023-10-19T03:00:11Z",
+        "channelId": "UCnBht7BrOx-A328KFXgysqQ",
+        "title": "국가대표 친선경기 | 대한민국vs베트남 | 손흥민의 크로스를 받은 베트남 수비수 | 쿠팡플레이 스포츠 | 쿠팡 #shorts",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/O3QrDH_uDGA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/O3QrDH_uDGA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/O3QrDH_uDGA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "쿠팡플레이 스포츠",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-10-19T03:00:11Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "8CbMnyuy_NI1QHix8B7mPqmK8C8",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "g9lFsoRG6Y4"
+      },
+      "snippet": {
+        "publishedAt": "2023-10-07T08:00:31Z",
+        "channelId": "UCnBht7BrOx-A328KFXgysqQ",
+        "title": "라리가ㅣ지로나 FCvs레알 마드리드ㅣ벤치클리어링을 부른 나초의 태클!ㅣ쿠팡플레이 스포츠 | 쿠팡 #shorts",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/g9lFsoRG6Y4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/g9lFsoRG6Y4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/g9lFsoRG6Y4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "쿠팡플레이 스포츠",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-10-07T08:00:31Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "Ia_Da8wQs7H86v24NCsAw57mH_U",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "T0P9hzuAujY"
+      },
+      "snippet": {
+        "publishedAt": "2023-06-30T08:00:13Z",
+        "channelId": "UCnBht7BrOx-A328KFXgysqQ",
+        "title": "F1ㅣ캐나다 그랑프리ㅣ알론소와 해밀턴의 월클 배틀! | 쿠팡플레이 스포츠 | 쿠팡 #shorts",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/T0P9hzuAujY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/T0P9hzuAujY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/T0P9hzuAujY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "쿠팡플레이 스포츠",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-06-30T08:00:13Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "xUbbq7Ode7ke2SphEkGvhdp9ivc",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "JypY8bM2GIo"
+      },
+      "snippet": {
+        "publishedAt": "2023-10-27T08:00:15Z",
+        "channelId": "UCnBht7BrOx-A328KFXgysqQ",
+        "title": "F1ㅣ카타르 그랑프리ㅣ매서운 피트 스탑! 두 경기 연속 더블 포디움을 노리는 맥라렌 | 쿠팡플레이 스포츠 | 쿠팡 #shorts",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/JypY8bM2GIo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/JypY8bM2GIo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/JypY8bM2GIo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "쿠팡플레이 스포츠",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-10-27T08:00:15Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "3kPELxlmLfyg-vJtcjGQcVfC-hY",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "pzjrNCrYkwE"
+      },
+      "snippet": {
+        "publishedAt": "2023-06-23T08:00:31Z",
+        "channelId": "UCnBht7BrOx-A328KFXgysqQ",
+        "title": "F1ㅣ스페인 그랑프리ㅣ상남자 알론소의 과감한 추월 | 쿠팡플레이 스포츠 | 쿠팡 #shorts",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/pzjrNCrYkwE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/pzjrNCrYkwE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/pzjrNCrYkwE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "쿠팡플레이 스포츠",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-06-23T08:00:31Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "-NE9WjRcGy_1nWgtBL8mXETcjfY",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "s0C9m2hAUxY"
+      },
+      "snippet": {
+        "publishedAt": "2023-09-21T08:00:33Z",
+        "channelId": "UCnBht7BrOx-A328KFXgysqQ",
+        "title": "라리가ㅣ레알 마드리드vs레알 소시에다드ㅣ압도적 존재감 뽐내는 쿠보의 아쉬운 골ㅣ쿠팡플레이 스포츠 | 쿠팡 #shorts",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/s0C9m2hAUxY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/s0C9m2hAUxY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/s0C9m2hAUxY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "쿠팡플레이 스포츠",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-09-21T08:00:33Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "1XETdfWcHK-CcMaOyd2YxfyGsHE",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "dSAk_LTbDGU"
+      },
+      "snippet": {
+        "publishedAt": "2023-11-09T12:00:30Z",
+        "channelId": "UCnBht7BrOx-A328KFXgysqQ",
+        "title": "라리가ㅣ레알 마드리드vs라요 바예카노ㅣ돌아온 지단? 슛 찬스를 만드는 벨링엄의 발 놀림!ㅣ쿠팡플레이 스포츠 | 쿠팡 #shorts",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/dSAk_LTbDGU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/dSAk_LTbDGU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/dSAk_LTbDGU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "쿠팡플레이 스포츠",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-11-09T12:00:30Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "iTunVO5E82ozbWLq4Wzvmlm2Nns",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "CYUlYBSmCVY"
+      },
+      "snippet": {
+        "publishedAt": "2023-11-10T10:00:18Z",
+        "channelId": "UCnBht7BrOx-A328KFXgysqQ",
+        "title": "NFLㅣ마이애미 돌핀스vs캔자스시티 치프스ㅣ1Q 시작 3분 만에 터치다운에 성공하는 캔자스시티ㅣ쿠팡플레이 스포츠 | 쿠팡 #shorts",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/CYUlYBSmCVY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/CYUlYBSmCVY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/CYUlYBSmCVY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "쿠팡플레이 스포츠",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-11-10T10:00:18Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "pWLbgXWWM1a_ynNwatcPqAD7tJM",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "8PG55X45cUs"
+      },
+      "snippet": {
+        "publishedAt": "2023-11-11T20:00:03Z",
+        "channelId": "UCnBht7BrOx-A328KFXgysqQ",
+        "title": "[23/24시즌 리그앙] 12R 스타드 드 랭스 vs 파리 생제르맹 2분 하이라이트",
+        "description": "쿠팡플레이에서 23-24시즌 리그앙 생중계와 2분 하이라이트, 풀 하이라이트, 경기 다시보기, 골모음, 주요 장면 등 영상 컨텐츠를 가장 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/8PG55X45cUs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/8PG55X45cUs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/8PG55X45cUs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "쿠팡플레이 스포츠",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-11-11T20:00:03Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "eSLlShIh8KHfYNjHRfgsPu-Yhk8",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "ZUIUUOROwGo"
+      },
+      "snippet": {
+        "publishedAt": "2023-03-28T09:00:31Z",
+        "channelId": "UCnBht7BrOx-A328KFXgysqQ",
+        "title": "국가대표 평가전 | 대한민국VS콜롬비아 | MVP 손흥민 골 모음 | 쿠팡플레이 스포츠 | 쿠팡 #shorts",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ZUIUUOROwGo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ZUIUUOROwGo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ZUIUUOROwGo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "쿠팡플레이 스포츠",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-03-28T09:00:31Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "H8jqqb9FXUld2cYS0XCPKogUcqw",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "CkNNDOaa54c"
+      },
+      "snippet": {
+        "publishedAt": "2023-10-30T02:00:04Z",
+        "channelId": "UCnBht7BrOx-A328KFXgysqQ",
+        "title": "[23/24시즌 리그앙] 10R 스타드 브레스트 vs 파리 생제르맹 하이라이트",
+        "description": "[23/24시즌 리그앙] 10R 스타드 브레스트 vs 파리 생제르맹 하이라이트 쿠팡플레이에서 23-24시즌 리그앙 생중계와 2분 하이라이트, ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/CkNNDOaa54c/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/CkNNDOaa54c/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/CkNNDOaa54c/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "쿠팡플레이 스포츠",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-10-30T02:00:04Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "ulTwPj9wnGQp2-yFGL5XQ3y7y3k",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "iHSzvenUwLE"
+      },
+      "snippet": {
+        "publishedAt": "2023-11-02T10:00:36Z",
+        "channelId": "UCnBht7BrOx-A328KFXgysqQ",
+        "title": "라리가ㅣFC 바르셀로나vs레알 마드리드ㅣ동점골 + 역전골 = 주드 벨링엄ㅣ쿠팡플레이 스포츠 | 쿠팡 #shorts",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/iHSzvenUwLE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/iHSzvenUwLE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/iHSzvenUwLE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "쿠팡플레이 스포츠",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-11-02T10:00:36Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "9QrQ8HrNs170ziesscCX96dS_JU",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "kHlRg1p_Eug"
+      },
+      "snippet": {
+        "publishedAt": "2023-08-05T13:01:00Z",
+        "channelId": "UCnBht7BrOx-A328KFXgysqQ",
+        "title": "2023 쿠팡플레이 시리즈ㅣ파리 생제르맹 vs 전북 현대ㅣ이강인 PSG 이적 후 데뷔전ㅣ쿠팡플레이 스포츠ㅣ쿠팡 #shorts",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/kHlRg1p_Eug/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/kHlRg1p_Eug/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/kHlRg1p_Eug/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "쿠팡플레이 스포츠",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-08-05T13:01:00Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "tQxbRGN-iddV_fa2iD4xz3zcM6U",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "m70IXa_JRo4"
+      },
+      "snippet": {
+        "publishedAt": "2023-11-02T10:00:45Z",
+        "channelId": "UCnBht7BrOx-A328KFXgysqQ",
+        "title": "라리가ㅣFC 바르셀로나vs레알 마드리드ㅣ칸셀루와 카마빙가의 맞대결ㅣ쿠팡플레이 스포츠 | 쿠팡 #shorts",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/m70IXa_JRo4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/m70IXa_JRo4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/m70IXa_JRo4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "쿠팡플레이 스포츠",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-11-02T10:00:45Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "wCUNwc0EHJHZxe0KgEvpiCj6ndc",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "zinC-HT9iHI"
+      },
+      "snippet": {
+        "publishedAt": "2023-11-03T23:29:43Z",
+        "channelId": "UCnBht7BrOx-A328KFXgysqQ",
+        "title": "[23/24시즌 리그앙] 11R 파리 생제르맹 vs 몽펠리에 HSC 2분 하이라이트",
+        "description": "[23/24시즌 리그앙] 11R 파리 생제르맹 vs 몽펠리에 HSC 2분 하이라이트 쿠팡플레이에서 23-24시즌 리그앙 생중계와 2분 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/zinC-HT9iHI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/zinC-HT9iHI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/zinC-HT9iHI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "쿠팡플레이 스포츠",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-11-03T23:29:43Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "QtostQvQ63sCexnFO9RpV8yy4Cc",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "-X_ZF0VYq3g"
+      },
+      "snippet": {
+        "publishedAt": "2023-10-19T03:00:00Z",
+        "channelId": "UCnBht7BrOx-A328KFXgysqQ",
+        "title": "국가대표 친선경기 | 대한민국vs베트남 | 이강인의 슈팅을 지켜보는 손흥민 | 쿠팡플레이 스포츠 | 쿠팡 #shorts",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/-X_ZF0VYq3g/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/-X_ZF0VYq3g/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/-X_ZF0VYq3g/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "쿠팡플레이 스포츠",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-10-19T03:00:00Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "qyjALUIjxe0364LuihwpGoMqtJk",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "r8k0MlxqvH4"
+      },
+      "snippet": {
+        "publishedAt": "2023-11-12T13:00:42Z",
+        "channelId": "UCnBht7BrOx-A328KFXgysqQ",
+        "title": "[2023 K리그2] 38R 전남 vs 부산 2분 하이라이트",
+        "description": "[2023 K리그2] 38R 전남 vs 부산 2분 하이라이트 쿠팡플레이에서 23-24시즌 리그앙 생중계와 2분 하이라이트, 풀 하이라이트, 경기 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/r8k0MlxqvH4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/r8k0MlxqvH4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/r8k0MlxqvH4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "쿠팡플레이 스포츠",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-11-12T13:00:42Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "kG84CdY7BCLat3bMgXp3wYPaC48",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "eNsmKgOuRBE"
+      },
+      "snippet": {
+        "publishedAt": "2023-06-28T09:00:33Z",
+        "channelId": "UCnBht7BrOx-A328KFXgysqQ",
+        "title": "여자농구 아시아컵 | 대한민국 vs 뉴질랜드 | 김단비 x 박지수의 완벽한 작전 | 쿠팡플레이 스포츠 | 쿠팡 #shorts",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/eNsmKgOuRBE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/eNsmKgOuRBE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/eNsmKgOuRBE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "쿠팡플레이 스포츠",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-06-28T09:00:33Z"
+      }
+    }
+  ]
+}

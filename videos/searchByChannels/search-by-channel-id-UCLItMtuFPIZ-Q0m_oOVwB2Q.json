@@ -1,0 +1,692 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "BHKwt8PoZvZEnA0-wQR9kIo2J5E",
+  "nextPageToken": "CBQQAA",
+  "regionCode": "KR",
+  "pageInfo": {
+    "totalResults": 898,
+    "resultsPerPage": 20
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "l_gAOVGIMpEwdnK-dZbjPpnFs1c",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "gaYsawe4XYc"
+      },
+      "snippet": {
+        "publishedAt": "2022-08-23T19:48:09Z",
+        "channelId": "UCLItMtuFPIZ-Q0m_oOVwB2Q",
+        "title": "건진 매실은 버리지말고 이렇게 만들어 두세요!! 평생 행복합니다/매실간장 Making plum soy sauce",
+        "description": "매실담근가장 2리터 양파껍질한줌 말린양파 한줌 대추 한줌 파뿌리 한줌 당귀 3뿌리 쌀조청 2컵 2 liters of plum extract a handful of ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/gaYsawe4XYc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/gaYsawe4XYc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/gaYsawe4XYc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "sogyo table 소교식탁TV",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-08-23T19:48:09Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "rAHWKvOXQcLlddxJF_Ak2gHHHRs",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "dnSrSXmopIM"
+      },
+      "snippet": {
+        "publishedAt": "2022-11-05T23:50:59Z",
+        "channelId": "UCLItMtuFPIZ-Q0m_oOVwB2Q",
+        "title": "늙은호박을 이렇게 만들어 생일선물로 보내 드렸더니 너무 행복해 하십니다/늙은호박정과(젤리)만들기 Old pumpkin jeonggwa (old pumpkin jelly)",
+        "description": "늙은호박 5kg 소금 1큰술 설탕 500그램 쌀조청 400그램 5kg old pumpkin 1 tablespoon of salt 500 grams of sugar 400 grams of rice ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/dnSrSXmopIM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/dnSrSXmopIM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/dnSrSXmopIM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "sogyo table 소교식탁TV",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-11-05T23:50:59Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "bqInAwxQ0QrjNGRBCoIPdq-3-Wk",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "6ZlAEcdz9TI"
+      },
+      "snippet": {
+        "publishedAt": "2023-11-11T08:22:02Z",
+        "channelId": "UCLItMtuFPIZ-Q0m_oOVwB2Q",
+        "title": "배추우거지 말리거나 소금에 절이지 마세요!! 이렇게 해두면 겨울내내 가족들이 건강합니다/배추우거지요리(밀키트) a cabbage dish",
+        "description": "배추겉잎을 말리거나 염장에 절여두면 삶거나 짠기를 빼는 과정이 있어 번거롭고 귀찮아 안해먹게 되는 경우가 많습니다. 추운겨울 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/6ZlAEcdz9TI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/6ZlAEcdz9TI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/6ZlAEcdz9TI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "sogyo table 소교식탁TV",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-11-11T08:22:02Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "fVKGYJiZ94AGzwW7DyWPpLO7N0c",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "neLjS8tPL8c"
+      },
+      "snippet": {
+        "publishedAt": "2023-01-14T04:12:23Z",
+        "channelId": "UCLItMtuFPIZ-Q0m_oOVwB2Q",
+        "title": "밑반찬으로 우엉을 이렇게 만들어 드렸더니 고기보다 맛있다고 하시네요/부드럽고 아삭한 우엉장아찌 Pickled burdock.",
+        "description": "조선우엉 1kg 진간장 100ml 청주 80ml 쌀조청 200ml 생강가루 톡톡 건고추 2개 실고추 조금 Chosun Burdock 1kg 100ml of thick soy ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/neLjS8tPL8c/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/neLjS8tPL8c/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/neLjS8tPL8c/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "sogyo table 소교식탁TV",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-01-14T04:12:23Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "nSauPBZwvERT53_qKPOmzfSg7i8",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "V_AsUk2LBU8"
+      },
+      "snippet": {
+        "publishedAt": "2022-12-28T10:51:00Z",
+        "channelId": "UCLItMtuFPIZ-Q0m_oOVwB2Q",
+        "title": "무김치를 이렇게 담아두면 가족들이 건강하고 행복합니다!! 다른 김치는 쳐다보질 않고 이것만 먹게 되는 무소박이(사과양념) Radish kimchi (Apple seasoning)",
+        "description": "동치미무 10kg 물 1.5리터 소금 3컵 김장김치양념 10컵 사과 작은사이즈 20개 대파 1대 당근 1개 10kg of dongchimi radish 1.5 liters ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/V_AsUk2LBU8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/V_AsUk2LBU8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/V_AsUk2LBU8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "sogyo table 소교식탁TV",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-12-28T10:51:00Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "756FpAL0OFI-PQN_6KCAFBeNxzs",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "uRmzvBO3fhk"
+      },
+      "snippet": {
+        "publishedAt": "2022-11-08T23:14:06Z",
+        "channelId": "UCLItMtuFPIZ-Q0m_oOVwB2Q",
+        "title": "대파를 이렇게 만들어 두고 드셔보세요!! 겨울철 가족 건강을 지켜주는 일등반찬이 됩니다/ 대파장아찌 Pickled green onion",
+        "description": "대파 한단 식용유 1작은술 물 200ml 진간장 50ml 청주 50ml 식초 50ml 쌀조청 50ml 생강청 1/2 작은술 a piece of green onion a ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/uRmzvBO3fhk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/uRmzvBO3fhk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/uRmzvBO3fhk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "sogyo table 소교식탁TV",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-11-08T23:14:06Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "p7kwd8iidHq1IfyqAjTGp9Sod9Q",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "n4IMxRqUBsY"
+      },
+      "snippet": {
+        "publishedAt": "2023-04-19T03:06:15Z",
+        "channelId": "UCLItMtuFPIZ-Q0m_oOVwB2Q",
+        "title": "우엉 이렇게 드셔보세요!! 가족들이 건강하고 행복합니다/ 첨가물없는 우엉칩(우엉찹쌀부각)Burdock chip",
+        "description": "우엉 3뿌리 건식찹쌀가루 10큰술 소금 두꼬집 Three roots of burdock 10 tablespoons dry glutinous rice powder a pinch of salt ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/n4IMxRqUBsY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/n4IMxRqUBsY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/n4IMxRqUBsY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "sogyo table 소교식탁TV",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-04-19T03:06:15Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "JyRCuSGo9I9Mh26UYpVwyaJRPEI",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "IbWa3_c0Idk"
+      },
+      "snippet": {
+        "publishedAt": "2022-04-23T10:08:46Z",
+        "channelId": "UCLItMtuFPIZ-Q0m_oOVwB2Q",
+        "title": "황태채는 많이 사 오세요 !!! 이렇게 해 놓으면 평생동안 행복하고 건강합니다/황태채고추장 dried pollack red pepper paste",
+        "description": "황태채 1kg 고추장 3kg 1kg of dried pollack 3kg of red pepper paste #황태채고추장박이#황태채고추장무침#황태채요리#숙성 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/IbWa3_c0Idk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/IbWa3_c0Idk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/IbWa3_c0Idk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "sogyo table 소교식탁TV",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-04-23T10:08:46Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "XswxOKvo6okUmdOW0EVVvKGDPTU",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "mqmZ67hZt_Q"
+      },
+      "snippet": {
+        "publishedAt": "2022-11-25T09:54:49Z",
+        "channelId": "UCLItMtuFPIZ-Q0m_oOVwB2Q",
+        "title": "밥솥 한가득 양파를 넣었더니 평생 건강하고 행복한 일이 됩니다/첨가물 없는 무설탕 양파고추장 Sugar-free onion red pepper paste",
+        "description": "양파 작은사이즈 20개 쌀조청 800ml 천일염 5큰술 고춧가루 600그램 메주가루 130그램 20 small onions 800 ml of rice grain syrup ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/mqmZ67hZt_Q/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/mqmZ67hZt_Q/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/mqmZ67hZt_Q/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "sogyo table 소교식탁TV",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-11-25T09:54:49Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "S7wPYzPVp2J-fDe9aTqzin2C3AE",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "P-zD_nNJz10"
+      },
+      "snippet": {
+        "publishedAt": "2023-03-04T22:40:26Z",
+        "channelId": "UCLItMtuFPIZ-Q0m_oOVwB2Q",
+        "title": "게으른 아침이면 양배추와 사과를 이렇게 해서 드세요!! 쉽고 간단하고 맛있어서 매일 해서 먹어요/양배추사과샐러드 Cabbage and apple salad",
+        "description": "양배추 큰잎 4장 사과 1개 당근 1개 깻잎 20장 삶은계란 5개 홀그레인머스터드 1큰술 레몬즙 3큰술 진간장 1큰술 마요네즈 2큰술 통깨 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/P-zD_nNJz10/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/P-zD_nNJz10/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/P-zD_nNJz10/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "sogyo table 소교식탁TV",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-03-04T22:40:26Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "-rvZHppFOzse8vABCZsFa4Yq38s",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "MTRiQ3vMnkA"
+      },
+      "snippet": {
+        "publishedAt": "2023-10-06T06:09:39Z",
+        "channelId": "UCLItMtuFPIZ-Q0m_oOVwB2Q",
+        "title": "고추를 소금에 삭히지 않고 이렇게 드세요!! 호불호 없는 인기반찬이 됩니다/고추부각만들기 dried green pepper",
+        "description": "(고추부각재료) 청고추 밀가루 green pepper flour #청고추부각#청고추부각만드는방법#청고추요리#청고추보관#고추#소교테이블# ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/MTRiQ3vMnkA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/MTRiQ3vMnkA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/MTRiQ3vMnkA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "sogyo table 소교식탁TV",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-10-06T06:09:39Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "88Nmxwamk-3st6BnFCttMB_4844",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "Pz3gSM6kD_A"
+      },
+      "snippet": {
+        "publishedAt": "2023-06-19T03:49:32Z",
+        "channelId": "UCLItMtuFPIZ-Q0m_oOVwB2Q",
+        "title": "양파를 이렇게하면 설탕처럼 쓸수 있어요!! 만능양파당/양파설탕/양파물엿/양파요리 Onion sugar",
+        "description": "양파 1500그램 물 1.5 리터 (오리불고기양념) 오리고기 500그램 만능양파당 큐브 한조각 진간장 1큰술 고추장 1작은술 고춧가루 1 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Pz3gSM6kD_A/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Pz3gSM6kD_A/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Pz3gSM6kD_A/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "sogyo table 소교식탁TV",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-06-19T03:49:32Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "pHWpvyxSGZ2S7-p5_jNmrauDLBI",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "cKcjjQ5JBnU"
+      },
+      "snippet": {
+        "publishedAt": "2022-10-26T02:25:30Z",
+        "channelId": "UCLItMtuFPIZ-Q0m_oOVwB2Q",
+        "title": "냉장고에 둔 된장은 빨리 꺼내세요!! 이렇게 만들어 두면 간편하고 수월해서 매일 끓여먹게 만듭니다/ 두고 쓰기 좋은 저염된장분말만들기 Soybean paste powder",
+        "description": "병아리콩 2kg 재래된장 2.5kg 표고버섯가루 100g 2kg of chickpeas 2.5kg of traditional soybean paste Shiitake mushroom powder ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/cKcjjQ5JBnU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/cKcjjQ5JBnU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/cKcjjQ5JBnU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "sogyo table 소교식탁TV",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-10-26T02:25:30Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "bpE8fZCN9keFCpScT12GtXWuCtc",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "RNzGgdyRhlo"
+      },
+      "snippet": {
+        "publishedAt": "2022-11-18T12:28:54Z",
+        "channelId": "UCLItMtuFPIZ-Q0m_oOVwB2Q",
+        "title": "홍갓을 넉넉하게 사서 김치대신이렇게 담아 두세요!! 절임물이나 양념없이 간단재료로 만들어 청량감이 좋아 아이들도 잘먹어요/ 홍갓피클 vegetable pickles",
+        "description": "홍갓 3단 누룩소금 100그램 오미자청 500ml Red God 3rd tier 100 grams of yeast salt 500 ml of Omija Cheong #홍갓피클#홍 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/RNzGgdyRhlo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/RNzGgdyRhlo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/RNzGgdyRhlo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "sogyo table 소교식탁TV",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-11-18T12:28:54Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "Ad-tKFM2EbvD9ZpWw9Q_is6YIhI",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "BhIYadwu5Ms"
+      },
+      "snippet": {
+        "publishedAt": "2023-02-10T02:20:05Z",
+        "channelId": "UCLItMtuFPIZ-Q0m_oOVwB2Q",
+        "title": "남다른 식감으로 우엉반찬중 최고로 맛있다고 합니다/슬라이스우엉요리 a burdock dish",
+        "description": "우엉 3뿌리 부침유 100ml 간마늘 1작은술 청주 2큰술 진간장 1큰술 쌀조청 2큰술 식초 1큰술 생강청 1/2작은술 건고추 1/2개 Three ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/BhIYadwu5Ms/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/BhIYadwu5Ms/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/BhIYadwu5Ms/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "sogyo table 소교식탁TV",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-02-10T02:20:05Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "g65XnIl_Wh_xeqgdOgH1keXr5xY",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "36J9JtgAnqw"
+      },
+      "snippet": {
+        "publishedAt": "2023-10-29T07:50:18Z",
+        "channelId": "UCLItMtuFPIZ-Q0m_oOVwB2Q",
+        "title": "황태채로 국을 끓이지 않고 이렇게 하면 호불호 없는 반찬으로 최고입니다/ 황태채고추불고기(황태채묵은지찜) dried pollack dish",
+        "description": "육고기 대신 황태로 만든 불고기 조림 찜등 특별한 양념없이 간단하고 건강하고 맛있는 황태반찬입니다. (황태채세척) 물에 밀가루 1 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/36J9JtgAnqw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/36J9JtgAnqw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/36J9JtgAnqw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "sogyo table 소교식탁TV",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-10-29T07:50:18Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "vQNpTSRjxJOL46y_ytc4cR6HoLk",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "V_NC4SNOWyM"
+      },
+      "snippet": {
+        "publishedAt": "2022-10-03T22:32:21Z",
+        "channelId": "UCLItMtuFPIZ-Q0m_oOVwB2Q",
+        "title": "늙은호박이 생기면 무조건 만들어 두세요!! 평생 건강하고 행복한 일이 됩니다/ 물한방울 없는 늙은호박콩나물즙 Old pumpkin bean sprouts",
+        "description": "늙은호박 한덩어리 (배구공만한사이즈) 콩나물 700브램 a chunk of old pumpkin (the size of a volleyball) 700 brams of bean sprouts ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/V_NC4SNOWyM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/V_NC4SNOWyM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/V_NC4SNOWyM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "sogyo table 소교식탁TV",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-10-03T22:32:21Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "TmWHyBvnTiCNo8l5BB-DYq6fKyM",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "v44_LtdVb0o"
+      },
+      "snippet": {
+        "publishedAt": "2022-12-18T00:43:21Z",
+        "channelId": "UCLItMtuFPIZ-Q0m_oOVwB2Q",
+        "title": "동치미 담기 힘드시다면 무를 이렇게 만들어 드셔보세요!! 절임물 없이 간단하고 맛있어서 자주 만들어 먹게 됩니다/월동무피클 radish pickles",
+        "description": "무 2/3개 샐러리 300그램 오미자청 1컵 누룩소금 2큰술 다진 파프리카 1큰술 2/3 radish 300 grams of celery 1 cup of omija-cheong 2 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/v44_LtdVb0o/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/v44_LtdVb0o/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/v44_LtdVb0o/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "sogyo table 소교식탁TV",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-12-18T00:43:21Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "uR7IS9fGFerQu-VX_3svt5ddd2A",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "EfWwQ4oPOnM"
+      },
+      "snippet": {
+        "publishedAt": "2023-11-08T02:10:46Z",
+        "channelId": "UCLItMtuFPIZ-Q0m_oOVwB2Q",
+        "title": "순두부 많이 사오셔서 이렇게 드셔보세요!! 고기로 끓인 육개장보다 더 맛있어합니다/ 순두부요리 Soft tofu dishes",
+        "description": "식물성단백질이 풍부한 순두부로 육개장처럼 끓여두면 건강한 맛에 많이 먹어도 살도 안찌고 건강한 밥반찬이 됩니다. (순두부국재료) ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/EfWwQ4oPOnM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/EfWwQ4oPOnM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/EfWwQ4oPOnM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "sogyo table 소교식탁TV",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-11-08T02:10:46Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "l3NX7PPRCGRrVR5EpwxqieVNzdM",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "HKWC7uimzVE"
+      },
+      "snippet": {
+        "publishedAt": "2021-07-11T02:51:23Z",
+        "channelId": "UCLItMtuFPIZ-Q0m_oOVwB2Q",
+        "title": "묵은지말이를 이렇게 해서 먹어보세요/쉽고 간단하면서 예쁘게 먹을 수 있어 인기가 좋아요  Old-fashioned bacon",
+        "description": "묵은지 12장 달걀 6개 베이컨 24장 소금 살짝 후추 적당히 흑임자 두스푼 12 sheets of ripe kimchi 6 eggs 24 slices of bacon Slightly ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/HKWC7uimzVE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/HKWC7uimzVE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/HKWC7uimzVE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "sogyo table 소교식탁TV",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-07-11T02:51:23Z"
+      }
+    }
+  ]
+}

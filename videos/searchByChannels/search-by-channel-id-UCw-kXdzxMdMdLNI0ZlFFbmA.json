@@ -1,0 +1,692 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "qG9uy4Nuqcl_0OddF_8_kwPYivw",
+  "nextPageToken": "CBQQAA",
+  "regionCode": "KR",
+  "pageInfo": {
+    "totalResults": 445,
+    "resultsPerPage": 20
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "Aacr8zzXbvAcc8M5xLoO5MXm9gQ",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "n-N0aX6hiaU"
+      },
+      "snippet": {
+        "publishedAt": "2022-09-19T10:00:36Z",
+        "channelId": "UCw-kXdzxMdMdLNI0ZlFFbmA",
+        "title": "뉴진스 하입보이 커버 주우재 솔로 버전 세로캠 #shorts",
+        "description": "아니 언제 배웠누 #주우재 #한입보이 #newjeans_hypeboy Copyright c 2022 Studio Episode - All Rights Reserved.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/n-N0aX6hiaU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/n-N0aX6hiaU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/n-N0aX6hiaU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "오늘의 주우재",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-09-19T10:00:36Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "HeL9ZiV3VdNyXNNUQFHj9ZIykg8",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "tWNr1mU936U"
+      },
+      "snippet": {
+        "publishedAt": "2023-04-28T10:00:48Z",
+        "channelId": "UCw-kXdzxMdMdLNI0ZlFFbmA",
+        "title": "[full] 🎶한번 더 이별 - 주우재x권진아",
+        "description": "안녕하세요 대주주님들 주우재입니다 ... 귀엽게 봐주세용 인스타 https://bit.ly/3rrs0hN ✏️네이버 카페 https://bit.ly/2PCIO7C ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/tWNr1mU936U/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/tWNr1mU936U/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/tWNr1mU936U/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "오늘의 주우재",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-04-28T10:00:48Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "qE1NgLsbXr6tguY8RGV-rjDq_2U",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "JHrgO9sf6G0"
+      },
+      "snippet": {
+        "publishedAt": "2023-06-30T10:00:15Z",
+        "channelId": "UCw-kXdzxMdMdLNI0ZlFFbmA",
+        "title": "[full] 🎶 이 여름 Summer - 주우재x고영배",
+        "description": "안녕하세요 대주주님들 주우재입니다 노래도 듣고 옷 정보도 알아가고 개이득ㅋ Outfits 우재형 Top 브라운브레스 태그 KP 티셔츠 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/JHrgO9sf6G0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/JHrgO9sf6G0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/JHrgO9sf6G0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "오늘의 주우재",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-06-30T10:00:15Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "9HppyER7qDGFiCoE5K6rZDzN9kQ",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "4cbBQ5WwHL8"
+      },
+      "snippet": {
+        "publishedAt": "2021-06-11T11:00:03Z",
+        "channelId": "UCw-kXdzxMdMdLNI0ZlFFbmA",
+        "title": "잔망떠는 주우재 / 패션으로 보는 직장인 직급 #shorts",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/4cbBQ5WwHL8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/4cbBQ5WwHL8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/4cbBQ5WwHL8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "오늘의 주우재",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-06-11T11:00:03Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "taDs33vqR1kEiD_ApvOGn1Uf8XU",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "MyD0AAXX8QA"
+      },
+      "snippet": {
+        "publishedAt": "2023-07-25T10:00:26Z",
+        "channelId": "UCw-kXdzxMdMdLNI0ZlFFbmA",
+        "title": "[PLAYLIST] 틀어놓기 좋은 라이브 몰아듣기ㅣ박재정,영케이,권진아,죠지,멜로망스,권정열,고영배",
+        "description": "안녕하세요 대주주님들 주우재입니다 여러분을 위해 단독 콘서트를 준비했습니다 박재정Live 00:05 헤어지자 말해요 04:19 그날의 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/MyD0AAXX8QA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/MyD0AAXX8QA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/MyD0AAXX8QA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "오늘의 주우재",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-07-25T10:00:26Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "cGvDdRf9lzM8YYfi8jd1L7C3vvE",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "sYAsd4Sct5E"
+      },
+      "snippet": {
+        "publishedAt": "2021-06-15T10:00:32Z",
+        "channelId": "UCw-kXdzxMdMdLNI0ZlFFbmA",
+        "title": "주우재 아웃백 초코썰 / istp",
+        "description": "shorts.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/sYAsd4Sct5E/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/sYAsd4Sct5E/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/sYAsd4Sct5E/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "오늘의 주우재",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-06-15T10:00:32Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "26hBi66Wvjpg7J9wuzsq6YA08ZU",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "UJS7VrCW-zU"
+      },
+      "snippet": {
+        "publishedAt": "2023-10-31T23:00:28Z",
+        "channelId": "UCw-kXdzxMdMdLNI0ZlFFbmA",
+        "title": "I am 187에요 #주우재 #남자모델특",
+        "description": "인스타 https://bit.ly/3rrs0hN ✏️네이버 카페 https://bit.ly/2PCIO7C #주우재 #남자패션 #남자모델 Copyright c 2023 Studio ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/UJS7VrCW-zU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/UJS7VrCW-zU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/UJS7VrCW-zU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "오늘의 주우재",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-10-31T23:00:28Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "X8Gf4nzd2tfxBS6O7FFa7Gr3tdA",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "5ppgNsfOmfk"
+      },
+      "snippet": {
+        "publishedAt": "2022-12-21T09:15:00Z",
+        "channelId": "UCw-kXdzxMdMdLNI0ZlFFbmA",
+        "title": "미노이 훈녀스킬에 정신 못 차리는 주우재",
+        "description": "shorts #미노이 #주우재 #훈녀스킬 #닮은꼴 인스타 https://bit.ly/3rrs0hN ✏️네이버 카페 https://bit.ly/2PCIO7C Copyright c 2022 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/5ppgNsfOmfk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/5ppgNsfOmfk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/5ppgNsfOmfk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "오늘의 주우재",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-12-21T09:15:00Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "LgL6LoSWWBUd1eVSLlRMchGYsJ8",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "jJRwCJj788k"
+      },
+      "snippet": {
+        "publishedAt": "2023-02-04T03:00:31Z",
+        "channelId": "UCw-kXdzxMdMdLNI0ZlFFbmA",
+        "title": "다나카 멕이는 주우재",
+        "description": "주우재 #다나카 #shorts 인스타 https://bit.ly/3rrs0hN ✏️네이버 카페 https://bit.ly/2PCIO7C Copyright c 2022 Studio Episode ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/jJRwCJj788k/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/jJRwCJj788k/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/jJRwCJj788k/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "오늘의 주우재",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-02-04T03:00:31Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "s9fENSYl4UMyyPOXxEFMeqDxpgw",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "FYJoKbUVcz4"
+      },
+      "snippet": {
+        "publishedAt": "2022-12-24T03:00:08Z",
+        "channelId": "UCw-kXdzxMdMdLNI0ZlFFbmA",
+        "title": "주우재가 아직도 솔로인 이유",
+        "description": "shorts #존박 #주우재 #크리스마스 #논쟁 인스타 https://bit.ly/3rrs0hN ✏️네이버 카페 https://bit.ly/2PCIO7C #주우재패션 #남자 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/FYJoKbUVcz4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/FYJoKbUVcz4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/FYJoKbUVcz4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "오늘의 주우재",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-12-24T03:00:08Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "vyWqBFqISf3oSZ3tJ-eIBErTagk",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "xhI3bGvC6oA"
+      },
+      "snippet": {
+        "publishedAt": "2022-12-03T09:00:25Z",
+        "channelId": "UCw-kXdzxMdMdLNI0ZlFFbmA",
+        "title": "겸손한 주우재 (feat. 유재석)",
+        "description": "shorts #주우재 #조세호 #장우영 조세호, 2PM 우영과 함께한 주우재쇼(?) 풀버전은 https://youtu.be/GM07WBbdg6k 에서 보시렵니까 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/xhI3bGvC6oA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/xhI3bGvC6oA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/xhI3bGvC6oA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "오늘의 주우재",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-12-03T09:00:25Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "aLZJGg6QeDSDz2b9Q6CqUfAEGmM",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "ynInV9ibTkY"
+      },
+      "snippet": {
+        "publishedAt": "2023-05-20T03:00:25Z",
+        "channelId": "UCw-kXdzxMdMdLNI0ZlFFbmA",
+        "title": "몬스타엑스 채형원 드디어 입 열다 #주우재 #폭로 #shorts",
+        "description": "안녕하세요 대주주님들 주우재입니다 인스타 https://bit.ly/3rrs0hN ✏️네이버 카페 https://bit.ly/2PCIO7C #주우재패션 #남자패션 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ynInV9ibTkY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ynInV9ibTkY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ynInV9ibTkY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "오늘의 주우재",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-05-20T03:00:25Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "1jb-ZdvN1H2k26zZs66pP_Jf7YQ",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "zdSjEp1WEjs"
+      },
+      "snippet": {
+        "publishedAt": "2023-08-19T06:00:03Z",
+        "channelId": "UCw-kXdzxMdMdLNI0ZlFFbmA",
+        "title": "그래서 눈이..? #주우재 #loco",
+        "description": "shorts 인스타 https://bit.ly/3rrs0hN ✏️네이버 카페 https://bit.ly/2PCIO7C Copyright c 2023 Studio Episode - All Rights ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/zdSjEp1WEjs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/zdSjEp1WEjs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/zdSjEp1WEjs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "오늘의 주우재",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-08-19T06:00:03Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "Yt8ShKo0LBDbm-LUz4sGexe_BjY",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "P7wwk95itLg"
+      },
+      "snippet": {
+        "publishedAt": "2023-01-28T03:00:09Z",
+        "channelId": "UCw-kXdzxMdMdLNI0ZlFFbmA",
+        "title": "하다 하다 먹뱉 논란까지 뜬 주우재",
+        "description": "shorts #주우재 #이승윤 인스타 https://bit.ly/3rrs0hN ✏️네이버 카페 https://bit.ly/2PCIO7C Copyright c 2022 Studio Episode ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/P7wwk95itLg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/P7wwk95itLg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/P7wwk95itLg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "오늘의 주우재",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-01-28T03:00:09Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "zj_Qf7ercJnub-6uqDPBEKpgAKs",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "emQvFEneF5Y"
+      },
+      "snippet": {
+        "publishedAt": "2023-07-08T03:00:19Z",
+        "channelId": "UCw-kXdzxMdMdLNI0ZlFFbmA",
+        "title": "양희은이 생각하는 인간관계",
+        "description": "풀버전 https://youtu.be/u1XdRWJCxVs #주우재 #양희은 #shorts.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/emQvFEneF5Y/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/emQvFEneF5Y/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/emQvFEneF5Y/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "오늘의 주우재",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-07-08T03:00:19Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "rG0b8uNqaar-ZFUjfoWD8PFDV74",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "U6T4eWePnEk"
+      },
+      "snippet": {
+        "publishedAt": "2022-12-03T09:00:28Z",
+        "channelId": "UCw-kXdzxMdMdLNI0ZlFFbmA",
+        "title": "남자가 제일 중요하게 생각하는 것은? #주우재 #조세호 #장우영",
+        "description": "shorts 조세호, 2PM 우영과 함께한 주우재쇼(?) 풀버전은 https://youtu.be/GM07WBbdg6k 에서 보시렵니까? 인스타 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/U6T4eWePnEk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/U6T4eWePnEk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/U6T4eWePnEk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "오늘의 주우재",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-12-03T09:00:28Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "8Y9ylozsQrJR6iA1PSEhttcJUUw",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "wapro6QKEX0"
+      },
+      "snippet": {
+        "publishedAt": "2023-07-08T03:00:35Z",
+        "channelId": "UCw-kXdzxMdMdLNI0ZlFFbmA",
+        "title": "INTP 양희은 팩폭",
+        "description": "풀버전 https://youtu.be/u1XdRWJCxVs #주우재 #양희은 #shorts.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/wapro6QKEX0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/wapro6QKEX0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/wapro6QKEX0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "오늘의 주우재",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-07-08T03:00:35Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "ZydAuosDp-4n-x3dVr1T3kmuvyA",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "qQqOabzvINE"
+      },
+      "snippet": {
+        "publishedAt": "2023-04-26T03:00:20Z",
+        "channelId": "UCw-kXdzxMdMdLNI0ZlFFbmA",
+        "title": "만약에 내가 자고 일어났는데 바퀴벌레가 되면 어떡할거야? #이기광 #주우재 #shorts",
+        "description": "안녕하세요 대주주님들 주우재입니다 인스타 https://bit.ly/3rrs0hN ✏️네이버 카페 https://bit.ly/2PCIO7C Copyright c 2023 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/qQqOabzvINE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/qQqOabzvINE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/qQqOabzvINE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "오늘의 주우재",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-04-26T03:00:20Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "_nGu3nu_XcvuQ51--wG5MCaD3gM",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "JvygPzJrzS4"
+      },
+      "snippet": {
+        "publishedAt": "2023-11-15T03:00:13Z",
+        "channelId": "UCw-kXdzxMdMdLNI0ZlFFbmA",
+        "title": "우리 집만 그런 게 아니구나 #주우재 #차승원 #shorts",
+        "description": "안녕하세요 대주주님들 주우재입니다 인스타 https://bit.ly/3rrs0hN ✏️네이버 카페 https://bit.ly/2PCIO7C #asmr #주우재패션 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/JvygPzJrzS4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/JvygPzJrzS4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/JvygPzJrzS4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "오늘의 주우재",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-11-15T03:00:13Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "qEcfem9zAwJvhDPgsdrrkaRqKYI",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "3hZO4FksRbk"
+      },
+      "snippet": {
+        "publishedAt": "2023-07-29T04:00:03Z",
+        "channelId": "UCw-kXdzxMdMdLNI0ZlFFbmA",
+        "title": "비밀까지 알아야 속이 시원했냐아아?",
+        "description": "shorts 인스타 https://bit.ly/3rrs0hN ✏️네이버 카페 https://bit.ly/2PCIO7C Copyright c 2023 Studio Episode - All Rights ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/3hZO4FksRbk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/3hZO4FksRbk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/3hZO4FksRbk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "오늘의 주우재",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-07-29T04:00:03Z"
+      }
+    }
+  ]
+}

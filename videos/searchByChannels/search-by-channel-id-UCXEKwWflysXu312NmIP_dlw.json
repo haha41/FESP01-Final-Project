@@ -1,0 +1,692 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "xFjpENyEQf_WeV2u8b3DgfHb6Dc",
+  "nextPageToken": "CBQQAA",
+  "regionCode": "KR",
+  "pageInfo": {
+    "totalResults": 69,
+    "resultsPerPage": 20
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "dr3cWGeRmNsXBHUGY3_BY0-3R9I",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "LVocTg4XtmM"
+      },
+      "snippet": {
+        "publishedAt": "2023-09-25T08:15:50Z",
+        "channelId": "UCXEKwWflysXu312NmIP_dlw",
+        "title": "출근길 텐션 올려",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/LVocTg4XtmM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/LVocTg4XtmM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/LVocTg4XtmM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "너덜트",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-09-25T08:15:50Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "TKxr_k9vsm0ZmAMZYfRjwssax8k",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "FcOXV62-Jjc"
+      },
+      "snippet": {
+        "publishedAt": "2023-07-18T04:46:03Z",
+        "channelId": "UCXEKwWflysXu312NmIP_dlw",
+        "title": "사회초년생이 FLEX 하는 법",
+        "description": "코믹숏무비 #너덜트 #FLEX 갓 취직한 사회초년생 으른들의 진정한 FLEX.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/FcOXV62-Jjc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/FcOXV62-Jjc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/FcOXV62-Jjc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "너덜트",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-07-18T04:46:03Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "7IcSFRqPCNoJ8dWCTRn3k_s94cM",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "qjJD0_-BeyI"
+      },
+      "snippet": {
+        "publishedAt": "2023-08-10T06:00:16Z",
+        "channelId": "UCXEKwWflysXu312NmIP_dlw",
+        "title": "월요병 환자 후송",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/qjJD0_-BeyI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/qjJD0_-BeyI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/qjJD0_-BeyI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "너덜트",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-08-10T06:00:16Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "ntrEH6FtJP-SOpmi4QinMy_IbsY",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "aYbtjGChJjA"
+      },
+      "snippet": {
+        "publishedAt": "2021-09-07T14:49:16Z",
+        "channelId": "UCXEKwWflysXu312NmIP_dlw",
+        "title": "강수 확률 50%",
+        "description": "코믹숏무비 #너덜트 #오늘의날씨 비 온 뒤 맑음 뒤 폭우 연출 / 유현규 각본 / 유현규 촬영 / 유현규 전상협 조명 / 유현규 전상협 동시 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/aYbtjGChJjA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/aYbtjGChJjA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/aYbtjGChJjA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "너덜트",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-09-07T14:49:16Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "xhGvfxh08VhBSRD9-21Tr1Olrkw",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "Xk7wC9zlw_0"
+      },
+      "snippet": {
+        "publishedAt": "2021-10-19T22:29:02Z",
+        "channelId": "UCXEKwWflysXu312NmIP_dlw",
+        "title": "이게 나아 이게 나아?",
+        "description": "코믹숏무비 #너덜트 #이지선다 답을 정해둔 채 계속해서 들어오는 여자친구의 이지선다, 남자친구는 방어할 수 있을까? 연출 / 유현규 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Xk7wC9zlw_0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Xk7wC9zlw_0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Xk7wC9zlw_0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "너덜트",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-10-19T22:29:02Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "Yv-yTDsGv1pFRdyw_H4SI8odMX8",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "WBstcLwTDCk"
+      },
+      "snippet": {
+        "publishedAt": "2023-08-10T03:00:25Z",
+        "channelId": "UCXEKwWflysXu312NmIP_dlw",
+        "title": "월요병 중증응급환자",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/WBstcLwTDCk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/WBstcLwTDCk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/WBstcLwTDCk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "너덜트",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-08-10T03:00:25Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "LiDAQzDzjwJWvk9ZAJw1lPW9LS4",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "6JOc3ig9w4A"
+      },
+      "snippet": {
+        "publishedAt": "2021-07-28T10:33:16Z",
+        "channelId": "UCXEKwWflysXu312NmIP_dlw",
+        "title": "너 먹고 싶은 거 먹어",
+        "description": "코믹숏무비 #너덜트 #선택장애 룸메이트와 식사 메뉴를 놓고 벌이는 치열한 신경전 연출 / 유현규 각본 / 유현규 촬영 / 유현규 전상협 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/6JOc3ig9w4A/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/6JOc3ig9w4A/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/6JOc3ig9w4A/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "너덜트",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-07-28T10:33:16Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "Idlm9GomZ8wLDTNAFfqe75lKbv4",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "cINcjVCb5jk"
+      },
+      "snippet": {
+        "publishedAt": "2022-02-18T10:00:20Z",
+        "channelId": "UCXEKwWflysXu312NmIP_dlw",
+        "title": "방금 뭐라고 했어?",
+        "description": "코믹숏무비 #너덜트 #롤부심 롤에 빠진 취준생 하하 연출 / 유현규 각본 / 유현규 촬영 / 유현규 전상협 조명 / 유현규 전상협 동시녹음 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/cINcjVCb5jk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/cINcjVCb5jk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/cINcjVCb5jk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "너덜트",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-02-18T10:00:20Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "AOejo-MxsicyJyUGkuhWwoqGIKk",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "hGhAFP0Uct4"
+      },
+      "snippet": {
+        "publishedAt": "2023-02-17T10:55:40Z",
+        "channelId": "UCXEKwWflysXu312NmIP_dlw",
+        "title": "배가 고프다고?",
+        "description": "코믹숏무비 #너덜트 #그랜드마더 할머니가 계속해서 주는 음식에 시달리던 손자. 본인이 살기 위해 친구들을 희생시키는 잔혹하며 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/hGhAFP0Uct4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/hGhAFP0Uct4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/hGhAFP0Uct4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "너덜트",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-02-17T10:55:40Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "zd9zWfFU9KCGtBnWrJGldItjZy4",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "SMjFxZXLoeQ"
+      },
+      "snippet": {
+        "publishedAt": "2023-06-24T06:15:55Z",
+        "channelId": "UCXEKwWflysXu312NmIP_dlw",
+        "title": "으른들의 플렉스",
+        "description": "코믹숏무비 #너덜트 #FLEX 갓 취직한 사회초년생 으른들의 진정한 FLEX 연출 / 유현규 각본 / 유현규 촬영 / 유현규 전상협 조명 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/SMjFxZXLoeQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/SMjFxZXLoeQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/SMjFxZXLoeQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "너덜트",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-06-24T06:15:55Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "UllOeyKOaxC13yA8Izdpeif2GuA",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "JPaubSOSxeM"
+      },
+      "snippet": {
+        "publishedAt": "2022-04-23T09:00:07Z",
+        "channelId": "UCXEKwWflysXu312NmIP_dlw",
+        "title": "오늘 수정이네 집에서 자고 가려고",
+        "description": "코믹숏무비 #너덜트 #외박 부모님을 속이고 외박하려는 아영과 끝까지 의심하며 추궁하는 아빠의 치열한 공방전 연출 / 유현규 각본 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/JPaubSOSxeM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/JPaubSOSxeM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/JPaubSOSxeM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "너덜트",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-04-23T09:00:07Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "fsI8zLYTGPEwghd3dHUL8d19LlM",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "jxdQh7vs4Ls"
+      },
+      "snippet": {
+        "publishedAt": "2021-08-14T11:43:33Z",
+        "channelId": "UCXEKwWflysXu312NmIP_dlw",
+        "title": "당근이세요?",
+        "description": "코믹숏무비 #너덜트 #당근마켓남편들 당근마켓 거래 현장에 나온 남편들 연출 / 유현규 각본 / 유현규 촬영 / 유현규 전상협 조명 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/jxdQh7vs4Ls/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/jxdQh7vs4Ls/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/jxdQh7vs4Ls/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "너덜트",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-08-14T11:43:33Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "ZXcNDnLh8aRftjyYlf03ry8eAM4",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "Iy5KojQJjYc"
+      },
+      "snippet": {
+        "publishedAt": "2022-02-11T10:49:54Z",
+        "channelId": "UCXEKwWflysXu312NmIP_dlw",
+        "title": "야 부을게",
+        "description": "코믹숏무비 #너덜트 #부먹충 찍먹과 부먹, 그것을 두고 벌이는 납치극 스릴러 연출 / 유현규 각본 / 유현규 촬영 / 유현규 전상협 조명 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Iy5KojQJjYc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Iy5KojQJjYc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Iy5KojQJjYc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "너덜트",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-02-11T10:49:54Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "sB3JpeRDl_fE_W0M3gDdmpORFFA",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "HMKexUTsHAQ"
+      },
+      "snippet": {
+        "publishedAt": "2022-01-15T19:43:46Z",
+        "channelId": "UCXEKwWflysXu312NmIP_dlw",
+        "title": "다 드신 거면 치워드릴게요",
+        "description": "코믹숏무비 #너덜트 #불청객 손님을 없는 사람 취급하는 사장과 도를 넘는 불친절에 화가 난 손님의 공방전 연출 / 유현규 각본 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/HMKexUTsHAQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/HMKexUTsHAQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/HMKexUTsHAQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "너덜트",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-01-15T19:43:46Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "cUtfmluPA43ABhojTcE2JlbBIJc",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "reYygUv-hys"
+      },
+      "snippet": {
+        "publishedAt": "2023-06-06T13:16:27Z",
+        "channelId": "UCXEKwWflysXu312NmIP_dlw",
+        "title": "아무도 모를 거야",
+        "description": "코믹숏무비 #너덜트 #사내연애 사내 연애를 들키지 않기 위한 한 커플의 사내 생존 스릴러 연출 / 유현규 각본 / 유현규 촬영 / 유현규 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/reYygUv-hys/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/reYygUv-hys/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/reYygUv-hys/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "너덜트",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-06-06T13:16:27Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "feIMaqKcS8YJgKKg4CTFxqPXTdM",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "t4IF-TulZxE"
+      },
+      "snippet": {
+        "publishedAt": "2021-12-31T17:38:50Z",
+        "channelId": "UCXEKwWflysXu312NmIP_dlw",
+        "title": "최근에 아프거나 한 적 있어요?",
+        "description": "코믹숏무비 #너덜트 #신년운세 타로를 하나도 모르는 사람이 운세를 봐주면 생기는 일 누더기 분들 새해 복 많이 받으세요 연출 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/t4IF-TulZxE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/t4IF-TulZxE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/t4IF-TulZxE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "너덜트",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-12-31T17:38:50Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "fTUuAwlxOcyp6u37RU_11lgeF4c",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "6x3b_70jBvk"
+      },
+      "snippet": {
+        "publishedAt": "2023-11-15T09:17:08Z",
+        "channelId": "UCXEKwWflysXu312NmIP_dlw",
+        "title": "???: 찬물 샤워를 해보세요",
+        "description": "코믹숏무비 #너덜트 #동기부여중독 동기부여에 중독돼버려 본질을 잊은 동기부여 중독자의 꿈을 위한 고군분투 연출 / 유현규 각본 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/6x3b_70jBvk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/6x3b_70jBvk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/6x3b_70jBvk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "너덜트",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-11-15T09:17:08Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "8JrZEaMxYCnDMw48ppMnRA2hfQw",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "KKmvCxsrO4I"
+      },
+      "snippet": {
+        "publishedAt": "2022-02-25T23:10:22Z",
+        "channelId": "UCXEKwWflysXu312NmIP_dlw",
+        "title": "무료 PT",
+        "description": "코믹숏무비 #너덜트 #헬스장1일차 무료 PT 해주는 헬창 김계란 연출 / 유현규 각본 / 유현규 촬영 / 유현규 임재형 조명 / 유현규 전상협 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/KKmvCxsrO4I/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/KKmvCxsrO4I/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/KKmvCxsrO4I/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "너덜트",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-02-25T23:10:22Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "AikxcMuBnAfRw3MT8jrv8G6zDHA",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "rIfJrhfJadk"
+      },
+      "snippet": {
+        "publishedAt": "2022-11-02T09:00:34Z",
+        "channelId": "UCXEKwWflysXu312NmIP_dlw",
+        "title": "일 크게 만들지 말고 가시라고요",
+        "description": "코믹숏무비 #너덜트 #일진 으슥한 골목길, 일진 무리와 펼치는 “거대한” 기싸움 연출 / 유현규 각본 / 유현규 촬영 / 김영찬 김용현 조명 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/rIfJrhfJadk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/rIfJrhfJadk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/rIfJrhfJadk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "너덜트",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-11-02T09:00:34Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "qZmLgGcxQ6XS08IfoMwj3MCg69A",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "XfY-RgyMCvI"
+      },
+      "snippet": {
+        "publishedAt": "2021-12-18T20:11:55Z",
+        "channelId": "UCXEKwWflysXu312NmIP_dlw",
+        "title": "지금 가는 중이야",
+        "description": "코믹숏무비 #너덜트 #어디야 약속 당일, 막상 나가기 귀찮을 때 연출 / 유현규 각본 / 유현규 촬영 / 유현규 전상협 조명 / 유현규 전상협 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/XfY-RgyMCvI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/XfY-RgyMCvI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/XfY-RgyMCvI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "너덜트",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-12-18T20:11:55Z"
+      }
+    }
+  ]
+}

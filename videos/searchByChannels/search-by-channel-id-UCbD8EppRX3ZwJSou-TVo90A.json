@@ -1,0 +1,692 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "QPmJfY83MPEbWGXy_VN0ftUenbI",
+  "nextPageToken": "CBQQAA",
+  "regionCode": "KR",
+  "pageInfo": {
+    "totalResults": 34474,
+    "resultsPerPage": 20
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "53KsLJin9EKxMoaYvVLLtWKB7Z4",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "xiJ4V-YhMgI"
+      },
+      "snippet": {
+        "publishedAt": "2020-06-26T15:45:47Z",
+        "channelId": "UCbD8EppRX3ZwJSou-TVo90A",
+        "title": "[ENG] [I-LAND/1회] 끼 폭발! 잇몸 만개! &#39;김선우, 이영빈, 제이크&#39; ♬어느날 머리에서 뿔이 자랐다(CROWN)_투모로우바이투게더 @입장 테스트 200626 EP.1",
+        "description": "'전 세계가 지켜보는 생존 게임이 시작된다' 제한된 시간 그리고 스스로의 선택 가장 진화된 아이돌이 탄생하는 곳 ＜I-LAND＞ 매주 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/xiJ4V-YhMgI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/xiJ4V-YhMgI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/xiJ4V-YhMgI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Mnet K-POP",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-06-26T15:45:47Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "qA_3VceV_Di2-tPo5si32UAT-8s",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "DXtUAV5UsUw"
+      },
+      "snippet": {
+        "publishedAt": "2022-03-23T04:00:18Z",
+        "channelId": "UCbD8EppRX3ZwJSou-TVo90A",
+        "title": "[퀸덤2] OPENING SHOW - 케플러(Kep1er) | 3/31 (목) 밤 9시 20분 첫 방송",
+        "description": "[퀸덤2] OPENING SHOW - 케플러(Kep1er) | 3/31 (목) 밤 9시 20분 첫 방송 K-POP 대표 걸그룹들의 글로벌 동시 컴백 전쟁!",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/DXtUAV5UsUw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/DXtUAV5UsUw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/DXtUAV5UsUw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Mnet K-POP",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-03-23T04:00:18Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "4iX8yQkftdMw5NJcSNAuT14m-PA",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "P9EZdy3mJUM"
+      },
+      "snippet": {
+        "publishedAt": "2023-11-09T11:11:40Z",
+        "channelId": "UCbD8EppRX3ZwJSou-TVo90A",
+        "title": "&#39;최초 공개&#39; ZEROBASEONE - MELTING POINT #엠카운트다운 EP.822 | Mnet 231109 방송",
+        "description": "티빙에서 스트리밍 : https://tving.onelink.me/xHqC/30a78d6f M COUNTDOWN｜Ep.822 제로베이스원 - 멜팅 보이스 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/P9EZdy3mJUM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/P9EZdy3mJUM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/P9EZdy3mJUM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Mnet K-POP",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-11-09T11:11:40Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "SgOPChFgevHT5V2RtdACnGR7B_g",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "r_BhdTWXq10"
+      },
+      "snippet": {
+        "publishedAt": "2021-05-20T11:44:41Z",
+        "channelId": "UCbD8EppRX3ZwJSou-TVo90A",
+        "title": "[EN/JP] [8회] ♬ Love poem - 메이플라이(보컬 유닛  은광, 승민, 종호)ㅣ3차 경연 1R#KINGDOM EP.8 | Mnet 210520 방송",
+        "description": "[8회] ♬ Love poem - 메이플라이(보컬 유닛: 은광, 승민, 종호)ㅣ3차 경연 1R 전설이 되어라, WHO IS THE KING? ＜킹덤(KINGDOM ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/r_BhdTWXq10/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/r_BhdTWXq10/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/r_BhdTWXq10/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Mnet K-POP",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-05-20T11:44:41Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "oyu_ps7q04ntlGszRzxea9GzZW0",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "Gru59R_ECNA"
+      },
+      "snippet": {
+        "publishedAt": "2021-04-01T11:57:56Z",
+        "channelId": "UCbD8EppRX3ZwJSou-TVo90A",
+        "title": "[ENG] [1회] ♬ MIROH - 스트레이 키즈(Stray Kids)ㅣ100초 퍼포먼스#킹덤:레전더리워 |  EP.1 | Mnet 210401 방송",
+        "description": "[1회] ♬ MIROH - 스트레이 키즈(Stray Kids)ㅣ100초 퍼포먼스 전설이 되어라, WHO IS THE KING? ＜킹덤(KINGDOM ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Gru59R_ECNA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Gru59R_ECNA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Gru59R_ECNA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Mnet K-POP",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-04-01T11:57:56Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "EYyShYa4cAJ-qCGTYrcP2kp7Jxw",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "jUYKUTGRmZs"
+      },
+      "snippet": {
+        "publishedAt": "2020-08-21T15:42:33Z",
+        "channelId": "UCbD8EppRX3ZwJSou-TVo90A",
+        "title": "[ENG] [I-LAND/8회] Part.2 첫 번째 테스트_BTS ♬FAKE LOVE_김선우, 박성훈, 이희승, 타키 200821 EP.8",
+        "description": "'전 세계가 지켜보는 생존 게임이 시작된다' 가장 진화된 아이돌이 탄생하는 곳 ＜I-LAND＞ 매주 금요일 밤 11시 Mnet ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/jUYKUTGRmZs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/jUYKUTGRmZs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/jUYKUTGRmZs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Mnet K-POP",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-08-21T15:42:33Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "w4fXf4LBoe8Ycisi7vMcpFm0Gvc",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "fz6SHUbvgwo"
+      },
+      "snippet": {
+        "publishedAt": "2017-07-20T10:36:49Z",
+        "channelId": "UCbD8EppRX3ZwJSou-TVo90A",
+        "title": "[EXO - The Eve] Comeback Stage | M COUNTDOWN 170720 EP.533",
+        "description": "KPOP Chart Show M COUNTDOWN | EP.533 - EXO - The Eve ▷Watch more video clips: http://bit.ly/MCOUNTDOWN-KPOP2017 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/fz6SHUbvgwo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/fz6SHUbvgwo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/fz6SHUbvgwo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Mnet K-POP",
+        "liveBroadcastContent": "none",
+        "publishTime": "2017-07-20T10:36:49Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "oRE-zNRVvzAU102bjeeChEyZo6M",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "LyKpjtZZOKw"
+      },
+      "snippet": {
+        "publishedAt": "2021-08-06T12:49:47Z",
+        "channelId": "UCbD8EppRX3ZwJSou-TVo90A",
+        "title": "[1회] K그룹 ‘핫~소스’ ♬영웅(Kick It) - NCT 127 @플래닛 탐색전Girls Planet 999 | Mnet 210806 방송 [ENG]",
+        "description": "[1회] K그룹 '핫~소스' ♬영웅(Kick It) - NCT 127 @플래닛 탐색전 당신은 누구의 꿈을 지킬 것인가 〈걸스플래닛999 : 소녀대전〉 매주 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/LyKpjtZZOKw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/LyKpjtZZOKw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/LyKpjtZZOKw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Mnet K-POP",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-08-06T12:49:47Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "-CvpuI4RSZL1yYDqgfFAtGo047E",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "2_CsCkQtYPs"
+      },
+      "snippet": {
+        "publishedAt": "2021-09-17T12:15:38Z",
+        "channelId": "UCbD8EppRX3ZwJSou-TVo90A",
+        "title": "[7회] 우리가누구?! &#39;마지야&#39;♬마.피.아 In the morning_ITZY(있지) @COMBINATION MISSION | Mnet 210917 방송 [ENG]",
+        "description": "[7회] 우리가 누구?! '마지야' ♬마.피.아 In the morning_ITZY(있지) @COMBINATION MISSION 당신은 누구의 꿈을 지킬 것인가 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/2_CsCkQtYPs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/2_CsCkQtYPs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/2_CsCkQtYPs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Mnet K-POP",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-09-17T12:15:38Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "iO-ApwNAJDXdJl_IWqowuxxQ9uI",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "FoRAxERsLfc"
+      },
+      "snippet": {
+        "publishedAt": "2023-04-20T13:33:53Z",
+        "channelId": "UCbD8EppRX3ZwJSou-TVo90A",
+        "title": "[최종회] ♬Jelly Pop @FINAL TOP9 BATTLE | Mnet 230420 방송",
+        "description": "티빙에서 스트리밍 : https://tving.onelink.me/xHqC/30a78d6f ▷ NAVER TV : https://tv.naver.com/cjenm.boysplanet ▷ YouTube ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/FoRAxERsLfc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/FoRAxERsLfc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/FoRAxERsLfc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Mnet K-POP",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-04-20T13:33:53Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "aTxbdwyvzIDNpkYOQCUPR7p7juM",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "Sl9Qd9fUYmg"
+      },
+      "snippet": {
+        "publishedAt": "2020-09-11T16:13:56Z",
+        "channelId": "UCbD8EppRX3ZwJSou-TVo90A",
+        "title": "[I-LAND/Full Ver.] 콘셉트 테스트_김선우,박성훈,양정원,이희승,제이크 ♬Chamber 5 (Dream of Dreams) EP.11",
+        "description": "Produced by Noisecastle III, Kyan Palmer, Rachel West (Kyan Palmer, Rachel West, Scott Bruzenak, hitmanbang, danke (lalala ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Sl9Qd9fUYmg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Sl9Qd9fUYmg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Sl9Qd9fUYmg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Mnet K-POP",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-09-11T16:13:56Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "n2i4LpkSc8yhq2XidAIRs2ZE_gg",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "nzCLgGgLZxg"
+      },
+      "snippet": {
+        "publishedAt": "2020-07-24T16:17:32Z",
+        "channelId": "UCbD8EppRX3ZwJSou-TVo90A",
+        "title": "[I-LAND/Full Ver.] 세 번째 테스트 - 댄스 총대 유닛 &#39;아이랜더&#39; ♬Rainism, 쌔끈해, One Of A Kind 200724 EP.5",
+        "description": "글로벌 시청자 투표(Global Vote) 투표기간▷07.25(토) 00:00 - 08.02(일) 12:00 (KST) 투표하기▷https://mnetiland.com '전 세계가 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/nzCLgGgLZxg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/nzCLgGgLZxg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/nzCLgGgLZxg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Mnet K-POP",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-07-24T16:17:32Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "tjF_tqFAuzMEMT1mIALPYgWwcrM",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "HXvL9TeEX0I"
+      },
+      "snippet": {
+        "publishedAt": "2021-05-13T12:52:00Z",
+        "channelId": "UCbD8EppRX3ZwJSou-TVo90A",
+        "title": "[EN/JP] [7회] ♬ 늑대와 미녀 - 메이플라이(프니엘, 리노, 아이엔, 필릭스, 산, 성화, 여상, 우영, 윤호)ㅣ3차 경연 1R#KINGDOM EP.7|Mnet 21051",
+        "description": "[7회] ♬ 늑대와 미녀 - 메이플라이(댄스 유닛: 프니엘, 리노, 아이엔, 필릭스, 산, 성화, 여상, 우영, 윤호)ㅣ3차 경연 1R 전설이 되어라, ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/HXvL9TeEX0I/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/HXvL9TeEX0I/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/HXvL9TeEX0I/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Mnet K-POP",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-05-13T12:52:00Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "YwHnr7axkVoAQQ8oqeF5DGz1BrU",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "TEl6KgcfSA8"
+      },
+      "snippet": {
+        "publishedAt": "2017-09-28T09:58:35Z",
+        "channelId": "UCbD8EppRX3ZwJSou-TVo90A",
+        "title": "[BTS - Go Go] Comeback Stage | M COUNTDOWN 170928 EP.543",
+        "description": "KPOP Chart Show M COUNTDOWN | EP.543 - BTS - Go Go ▷Watch more video clips: http://bit.ly/MCOUNTDOWN-KPOP2017 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/TEl6KgcfSA8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/TEl6KgcfSA8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/TEl6KgcfSA8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Mnet K-POP",
+        "liveBroadcastContent": "none",
+        "publishTime": "2017-09-28T09:58:35Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "v3SzHQjBjJ6FQ-IJfl3KtFdJV5I",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "-UhV_Ou0jgA"
+      },
+      "snippet": {
+        "publishedAt": "2022-03-17T10:56:07Z",
+        "channelId": "UCbD8EppRX3ZwJSou-TVo90A",
+        "title": "[(G)I-DLE - MY BAG] Comeback Stage | #엠카운트다운 EP.744 | Mnet 220317 방송",
+        "description": "티빙에서 스트리밍 : https://tving.onelink.me/xHqC/30a78d6f - KPOP Chart Show M COUNTDOWN | EP.744 - (G)I-DLE - MY BAG ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/-UhV_Ou0jgA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/-UhV_Ou0jgA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/-UhV_Ou0jgA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Mnet K-POP",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-03-17T10:56:07Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "z-ig1j-q0Cp_ftv_E2N9baGuIss",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "IjEue6SqJjI"
+      },
+      "snippet": {
+        "publishedAt": "2019-10-17T13:44:05Z",
+        "channelId": "UCbD8EppRX3ZwJSou-TVo90A",
+        "title": "[ENG sub] [8회] ♬ I Miss You - 마마무 @3차 경연   팬도라의 상자 컴백전쟁 : 퀸덤 8화",
+        "description": "[8회] ♬ I Miss You - 마마무 @3차 경연 : 팬도라의 상자 K-POP 여왕의 자리를 두고 펼쳐지는 걸그룹 컴백 전쟁!",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/IjEue6SqJjI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/IjEue6SqJjI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/IjEue6SqJjI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Mnet K-POP",
+        "liveBroadcastContent": "none",
+        "publishTime": "2019-10-17T13:44:05Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "4A0tSILAM9xKuJ3XmqJhHFVR7_s",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "d4svlWb6oHE"
+      },
+      "snippet": {
+        "publishedAt": "2022-04-14T11:18:34Z",
+        "channelId": "UCbD8EppRX3ZwJSou-TVo90A",
+        "title": "[NCT DREAM - Never Goodbye] Special Stage |  #엠카운트다운 EP.748 | Mnet 220414 방송",
+        "description": "KPOP Chart Show M COUNTDOWN | EP.748 - NCT DREAM - Never Goodbye ▷Watch more video clips: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/d4svlWb6oHE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/d4svlWb6oHE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/d4svlWb6oHE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Mnet K-POP",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-04-14T11:18:34Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "SJC0vwVbfOFwedCLdhsScs4VcSo",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "YrrufMk1sEc"
+      },
+      "snippet": {
+        "publishedAt": "2023-04-20T14:34:01Z",
+        "channelId": "UCbD8EppRX3ZwJSou-TVo90A",
+        "title": "[최종회] ♬Not Alone @FINAL TOP9 BATTLE | Mnet 230420 방송 [EN/JP]",
+        "description": "티빙에서 스트리밍 : https://tving.onelink.me/xHqC/30a78d6f ▷ NAVER TV : https://tv.naver.com/cjenm.boysplanet ▷ YouTube ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/YrrufMk1sEc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/YrrufMk1sEc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/YrrufMk1sEc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Mnet K-POP",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-04-20T14:34:01Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "vYar86qO7nctUj9x5n5YyXDyD0U",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "Zmz-UjdIAZs"
+      },
+      "snippet": {
+        "publishedAt": "2021-05-20T10:28:08Z",
+        "channelId": "UCbD8EppRX3ZwJSou-TVo90A",
+        "title": "[ENHYPEN - FEVER] KPOP TV Show | #엠카운트다운 | Mnet 210520 방송",
+        "description": "KPOP Chart Show M COUNTDOWN | EP.710 - ENHYPEN - FEVER ▷Watch more video clips: http://bit.ly/MCOUNTDOWN2021 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Zmz-UjdIAZs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Zmz-UjdIAZs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Zmz-UjdIAZs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Mnet K-POP",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-05-20T10:28:08Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "cTV4rHPsTSlyvnLyUrIYCA36I_k",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "JOjNN2S9gF8"
+      },
+      "snippet": {
+        "publishedAt": "2021-08-13T11:45:03Z",
+        "channelId": "UCbD8EppRX3ZwJSou-TVo90A",
+        "title": "[2회] K그룹 &#39;불꽃놀이&#39; ♬WOW THING_슬기,신비,청하,전소연 @플래닛 탐색전 #GirlsPlanet999 | Mnet 210813 방송 [ENG]",
+        "description": "[2회] K그룹 '불꽃놀이' ♬WOW THING_슬기,신비,청하,전소연 @플래닛 탐색전 당신은 누구의 꿈을 지킬 것인가〈걸스플래닛999 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/JOjNN2S9gF8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/JOjNN2S9gF8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/JOjNN2S9gF8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Mnet K-POP",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-08-13T11:45:03Z"
+      }
+    }
+  ]
+}

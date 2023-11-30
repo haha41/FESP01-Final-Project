@@ -1,0 +1,692 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "t_f6b3e7VhblQpUNuAK2JmehcyU",
+  "nextPageToken": "CBQQAA",
+  "regionCode": "KR",
+  "pageInfo": {
+    "totalResults": 341,
+    "resultsPerPage": 20
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "XRa8E7p36HEce0qrti5Yc_gPz8k",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "OTX6WgOemvY"
+      },
+      "snippet": {
+        "publishedAt": "2023-02-14T09:15:02Z",
+        "channelId": "UCmJEpV4hLzGWLU5rrdOHMhQ",
+        "title": "예약이 힘든 1인 4만원 튀김 오마카세",
+        "description": "신사 키이로 * 본 영상은 개인 사비로 다녀 온 영상으로, 광고 또는 협찬 영상이 아닙니다. * Instagram ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/OTX6WgOemvY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/OTX6WgOemvY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/OTX6WgOemvY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "더들리",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-02-14T09:15:02Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "8qWQS9Puxmf49TTjuLTccjA6olY",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "8oVRBp2pxmI"
+      },
+      "snippet": {
+        "publishedAt": "2022-06-15T09:15:00Z",
+        "channelId": "UCmJEpV4hLzGWLU5rrdOHMhQ",
+        "title": "튀기듯 구운 곱창. 35년 내공의 먹거리양곱창",
+        "description": "먹거리양곱창 * 본 영상은 개인 사비로 다녀 온 영상으로, 광고 또는 협찬 영상이 아닙니다. * Instagram ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/8oVRBp2pxmI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/8oVRBp2pxmI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/8oVRBp2pxmI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "더들리",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-06-15T09:15:00Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "IYrqkeC6xrFlG7h8rjt-uyUBT8o",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "qIhWiCvlLOE"
+      },
+      "snippet": {
+        "publishedAt": "2022-06-21T09:15:01Z",
+        "channelId": "UCmJEpV4hLzGWLU5rrdOHMhQ",
+        "title": "숯불에 닭꼬치 맛있게 굽는 집 - 하레",
+        "description": "하레 * 본 영상은 개인 사비로 다녀 온 영상으로, 광고 또는 협찬 영상이 아닙니다. * Instagram : https://www.instagram.com/dudely_08 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/qIhWiCvlLOE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/qIhWiCvlLOE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/qIhWiCvlLOE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "더들리",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-06-21T09:15:01Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "7hYNnuWhyC1ERCl_ZsmjXlDTeTc",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "buMjG0k0D-w"
+      },
+      "snippet": {
+        "publishedAt": "2023-06-23T09:15:04Z",
+        "channelId": "UCmJEpV4hLzGWLU5rrdOHMhQ",
+        "title": "1초만에 1달 예약이 차는 식당",
+        "description": "페리지 * 본 영상은 개인 사비로 다녀 온 영상으로, 광고 또는 협찬 영상이 아닙니다. * Instagram ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/buMjG0k0D-w/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/buMjG0k0D-w/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/buMjG0k0D-w/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "더들리",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-06-23T09:15:04Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "_cxOw4FmiR_7v5CZeZBesYxkIG0",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "hokn5xpGunQ"
+      },
+      "snippet": {
+        "publishedAt": "2023-06-12T09:15:02Z",
+        "channelId": "UCmJEpV4hLzGWLU5rrdOHMhQ",
+        "title": "무한 리필이 가능해서 배 터지고 맛있게 먹고 온 집",
+        "description": "신논현 미분당 * 본 영상은 개인 사비로 다녀 온 영상으로, 광고 또는 협찬 영상이 아닙니다. * Instagram ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/hokn5xpGunQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/hokn5xpGunQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/hokn5xpGunQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "더들리",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-06-12T09:15:02Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "3_XeMx4vrWV_vEHRd39HP2dUu1k",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "nBDoBjAhIBY"
+      },
+      "snippet": {
+        "publishedAt": "2023-11-15T09:15:05Z",
+        "channelId": "UCmJEpV4hLzGWLU5rrdOHMhQ",
+        "title": "손 떨리는 76만원 점심",
+        "description": "싱가포르 레자미 * 본 영상은 개인 사비로 다녀 온 영상으로, 광고 또는 협찬 영상이 아닙니다 * Instagram ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/nBDoBjAhIBY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/nBDoBjAhIBY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/nBDoBjAhIBY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "더들리",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-11-15T09:15:05Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "fxRzPCih4fSGPjnhEyOteTJ2eQE",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "m82EU2Fvqfc"
+      },
+      "snippet": {
+        "publishedAt": "2023-09-20T09:15:05Z",
+        "channelId": "UCmJEpV4hLzGWLU5rrdOHMhQ",
+        "title": "53,000원 짬뽕엔 뭐가 들어있을까",
+        "description": "제주 신라호텔 수영장 짬뽕 * 본 영상은 개인 사비로 다녀 온 영상으로, 광고 또는 협찬 영상이 아닙니다. * Instagram ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/m82EU2Fvqfc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/m82EU2Fvqfc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/m82EU2Fvqfc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "더들리",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-09-20T09:15:05Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "0FzDO1dVZym682u_px0CmITn-YQ",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "7do5O4I0g_k"
+      },
+      "snippet": {
+        "publishedAt": "2023-06-17T10:00:04Z",
+        "channelId": "UCmJEpV4hLzGWLU5rrdOHMhQ",
+        "title": "가격만 아니면 매일 먹고 싶은 돼지",
+        "description": "봉피양 * 본 영상은 개인 사비로 다녀 온 영상으로, 광고 또는 협찬 영상이 아닙니다. * Instagram ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/7do5O4I0g_k/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/7do5O4I0g_k/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/7do5O4I0g_k/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "더들리",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-06-17T10:00:04Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "SV6CH3x7noewuI8J0MnJOOnuuw4",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "nSdpTD9zlCE"
+      },
+      "snippet": {
+        "publishedAt": "2023-09-12T10:00:28Z",
+        "channelId": "UCmJEpV4hLzGWLU5rrdOHMhQ",
+        "title": "줄 서서 먹는 70년 된 메밀국수집",
+        "description": "광화문 미진 * 본 영상은 개인 사비로 다녀 온 영상으로, 광고 또는 협찬 영상이 아닙니다. * Instagram ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/nSdpTD9zlCE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/nSdpTD9zlCE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/nSdpTD9zlCE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "더들리",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-09-12T10:00:28Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "yrmpmbCkKu563NzY8bSXXBAr4xs",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "n82GCn8THX4"
+      },
+      "snippet": {
+        "publishedAt": "2022-07-15T09:22:06Z",
+        "channelId": "UCmJEpV4hLzGWLU5rrdOHMhQ",
+        "title": "국내 최고의 갈비찜?",
+        "description": "신라호텔 라연 * 본 영상은 개인 사비로 다녀 온 영상으로, 광고 또는 협찬 영상이 아닙니다. * Instagram ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/n82GCn8THX4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/n82GCn8THX4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/n82GCn8THX4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "더들리",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-07-15T09:22:06Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "1fJW6rtRPlsv9iHGGXASCdUy7XE",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "cua2jvfjykc"
+      },
+      "snippet": {
+        "publishedAt": "2023-10-06T10:15:01Z",
+        "channelId": "UCmJEpV4hLzGWLU5rrdOHMhQ",
+        "title": "7,000원 된장찌개로 건물 세운 집",
+        "description": "서울 영등포구 또순이네 * 본 영상은 개인 사비로 다녀 온 영상으로, 광고 또는 협찬 영상이 아닙니다. * Instagram ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/cua2jvfjykc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/cua2jvfjykc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/cua2jvfjykc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "더들리",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-10-06T10:15:01Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "VJLPMXMsijIuv3CG4JMkyXH7ads",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "0q_ANMUzoKk"
+      },
+      "snippet": {
+        "publishedAt": "2023-05-02T09:15:00Z",
+        "channelId": "UCmJEpV4hLzGWLU5rrdOHMhQ",
+        "title": "10만원이 넘는 국내 최고가 탕수육?!",
+        "description": "워커힐 금룡 탕수육 본영상 https://youtu.be/DXh4Wtc-pqw * 본 영상은 개인 사비로 다녀 온 영상으로, 광고 또는 협찬 영상이 아닙니다 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/0q_ANMUzoKk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/0q_ANMUzoKk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/0q_ANMUzoKk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "더들리",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-05-02T09:15:00Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "l7_3rlK_n1l0MwOBh810_fXWhCQ",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "2v4kA8IcfwE"
+      },
+      "snippet": {
+        "publishedAt": "2023-05-12T09:15:00Z",
+        "channelId": "UCmJEpV4hLzGWLU5rrdOHMhQ",
+        "title": "볼거리 많은 철판요리. 테판",
+        "description": "그랜드하얏트 서울 테판 * 본 영상은 개인 사비로 다녀 온 영상으로, 광고 또는 협찬 영상이 아닙니다. * Instagram ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/2v4kA8IcfwE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/2v4kA8IcfwE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/2v4kA8IcfwE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "더들리",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-05-12T09:15:00Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "ZpsGVkO1cskRpFAsSKrocmXCZuM",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "S6JD5TxYhBM"
+      },
+      "snippet": {
+        "publishedAt": "2023-07-05T09:15:02Z",
+        "channelId": "UCmJEpV4hLzGWLU5rrdOHMhQ",
+        "title": "소금만 찍어도 맛있는 고기",
+        "description": "청담동 뜨락 * 본 영상은 개인 사비로 다녀 온 영상으로, 광고 또는 협찬 영상이 아닙니다. * Instagram ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/S6JD5TxYhBM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/S6JD5TxYhBM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/S6JD5TxYhBM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "더들리",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-07-05T09:15:02Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "yqakxKYiG6Hj-JmvwOJp2x93wis",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "sx4mHRK3yXU"
+      },
+      "snippet": {
+        "publishedAt": "2022-01-16T07:15:01Z",
+        "channelId": "UCmJEpV4hLzGWLU5rrdOHMhQ",
+        "title": "250도 버터로 스테이크 굽기",
+        "description": "뉴욕 누스렛 스테이크하우스 * 본 영상은 개인 사비로 다녀 온 영상으로, 광고 또는 협찬 영상이 아닙니다. * Instagram ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/sx4mHRK3yXU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/sx4mHRK3yXU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/sx4mHRK3yXU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "더들리",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-01-16T07:15:01Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "KE6oTAhv-T_M6Ksq9LW8Wq2F2aU",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "5OS0n_wkH7A"
+      },
+      "snippet": {
+        "publishedAt": "2023-05-18T09:15:00Z",
+        "channelId": "UCmJEpV4hLzGWLU5rrdOHMhQ",
+        "title": "98,000원 신라호텔 망고빙수",
+        "description": "신라호텔 더라이브러리 망고빙수 * 본 영상은 개인 사비로 다녀 온 영상으로, 광고 또는 협찬 영상이 아닙니다. * Instagram ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/5OS0n_wkH7A/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/5OS0n_wkH7A/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/5OS0n_wkH7A/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "더들리",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-05-18T09:15:00Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "_DIIMo2EfASY2hQFpsBIPSrri-E",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "t_bPA_dAiDI"
+      },
+      "snippet": {
+        "publishedAt": "2023-07-26T09:15:01Z",
+        "channelId": "UCmJEpV4hLzGWLU5rrdOHMhQ",
+        "title": "대한항공 비행기 일등석에서 나오는 음식들",
+        "description": "뉴욕 - 인천 일등석 https://www.youtube.com/watch?v=VsGTNmZxIxg * 본 영상은 개인 사비로 다녀 온 영상으로, 광고 또는 협찬 영상 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/t_bPA_dAiDI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/t_bPA_dAiDI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/t_bPA_dAiDI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "더들리",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-07-26T09:15:01Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "CJnMH1Rh0vgRHL7han0aO8UQQ24",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "OdDxyp7vRDA"
+      },
+      "snippet": {
+        "publishedAt": "2023-06-13T10:03:55Z",
+        "channelId": "UCmJEpV4hLzGWLU5rrdOHMhQ",
+        "title": "배 터지기 전에는 집에 못가는 스시 오마카세집",
+        "description": "스시야스다 * 본 영상은 개인 사비로 다녀 온 영상으로, 광고 또는 협찬 영상이 아닙니다. * Instagram ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/OdDxyp7vRDA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/OdDxyp7vRDA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/OdDxyp7vRDA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "더들리",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-06-13T10:03:55Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "PKCN_dfREJeFrlZHt2rGCAltaHE",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "6-Lz-qHKOdY"
+      },
+      "snippet": {
+        "publishedAt": "2023-05-07T10:21:48Z",
+        "channelId": "UCmJEpV4hLzGWLU5rrdOHMhQ",
+        "title": "여름에도 줄 서서 먹는 집. 진미평양냉면",
+        "description": "진미 평양냉면 * 본 영상은 개인 사비로 다녀 온 영상으로, 광고 또는 협찬 영상이 아닙니다. * Instagram ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/6-Lz-qHKOdY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/6-Lz-qHKOdY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/6-Lz-qHKOdY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "더들리",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-05-07T10:21:48Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "4gRALRzLtuIDQAdE_lGdNHKbE8Q",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "HE8VZ2pRKxI"
+      },
+      "snippet": {
+        "publishedAt": "2023-11-09T09:15:00Z",
+        "channelId": "UCmJEpV4hLzGWLU5rrdOHMhQ",
+        "title": "알 수 없는 미국음식",
+        "description": "미국 핫앤쥬시(Hot N Juicy) * 본 영상은 개인 사비로 다녀 온 영상으로, 광고 또는 협찬 영상이 아닙니다. * Instagram ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/HE8VZ2pRKxI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/HE8VZ2pRKxI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/HE8VZ2pRKxI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "더들리",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-11-09T09:15:00Z"
+      }
+    }
+  ]
+}
