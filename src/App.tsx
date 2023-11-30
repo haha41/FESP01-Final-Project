@@ -1,5 +1,4 @@
 import "./tailwind.css"
-import React from "react"
 import NotFound from "@pages/NotFound"
 import VideoMain from "@pages/VideoMain"
 import VideoDetail from "@pages/VideoDetail"

@@ -2,7 +2,9 @@
 export default {
   content: ["./index.html", "./src/**/*.{js,ts,jsx,tsx}"],
   theme: {
-    extend: {},
+    extend: {
+      fontFamily: { suit: ["SUIT Variable"] },
+    },
     screens: {
       // 데스크탑
       lgpc: { min: "1281px", max: "1920px" },
@@ -14,4 +16,4 @@ export default {
     },
   },
   plugins: [],
-};
+}

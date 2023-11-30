@@ -1,22 +1,17 @@
-import { useEffect, useState } from "react"
-import { deleteComment, filterComment, readComment } from "@api/commentApi"
+import { useState } from "react"
+import { CommentProps } from "interface"
 import { faBars } from "@fortawesome/free-solid-svg-icons"
+import formatDateDifference from "@api/formatDateDifference"
+import { deleteComment, modifyComment } from "@api/commentApi"
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome"
 import { faThumbsDown, faThumbsUp } from "@fortawesome/free-regular-svg-icons"
-import formatDateDifference from "@api/formatDateDifference"
-import { CommentProps } from "interface"
 
-function Comment({
-  text,
-  date,
-  commentId,
-  setCommentData,
-  videoId,
-}: CommentProps) {
+function Comment({ text, date, commentId, optionBtnCallback }: CommentProps) {
   const [count, setCount] = useState(0)
+  const [modifyChecked, setModifyChecked] = useState(false)
   const [isBarsVisible, setIsBarsVisible] = useState(false)
   const [isButtonsVisible, setIsButtonsVisible] = useState(false)
-  const [isDelete, setIsDelete] = useState(false)
+  const [modifyCommentText, setModifyCommentText] = useState<string>("")
 
   const createdDate = formatDateDifference(date)
 
@@ -29,25 +24,22 @@ function Comment({
   }
 
   const handleEditClick = () => {
-    console.log("Edit clicked!")
+    setModifyChecked((prevBtn) => !prevBtn)
+    if (!modifyChecked) return
+    else modifyComment(commentId, modifyCommentText)
+    optionBtnCallback()
+    alert("댓글이 수정되었습니다! 🛠️")
   }
 
   const handleDeleteClick = async () => {
     await deleteComment(commentId)
-    setIsDelete((prevState) => !prevState)
+    optionBtnCallback()
     alert("댓글이 삭제되었습니다!")
   }
 
-  useEffect(() => {
-    const promiseData = filterComment(videoId)
-    promiseData
-      .then((comments) => {
-        setCommentData(comments || [])
-      })
-      .catch((error) => {
-        console.error("에러 발생: ", error)
-      })
-  }, [isDelete])
+  const handleInputChange = (e: React.ChangeEvent<HTMLTextAreaElement>) => {
+    setModifyCommentText(e.target.value)
+  }
 
   return (
     <div className="w-full">
@@ -79,7 +71,15 @@ function Comment({
                   <p className="text-sm">{createdDate}</p>
                 </div>
               </div>
-              <div className="">{text}</div>
+              {modifyChecked ? (
+                <textarea
+                  className="w-full border-b-2 mb-2 focus:outline-none focus:border-b-slate-500 overflow-hidden resize-none"
+                  defaultValue={text}
+                  onChange={handleInputChange}
+                />
+              ) : (
+                <div>{text}</div>
+              )}
               <div className="flex gap-5">
                 <div className="flex items-center justify-center">
                   <div
@@ -111,7 +111,7 @@ function Comment({
                 <div className="flex-col items-center justify-center py-2">
                   <div className="flex items-center justify-center pb-2">
                     <button onClick={handleEditClick} className="text-sm ">
-                      수정
+                      {modifyChecked ? "수정완료" : "댓글수정"}
                     </button>
                   </div>
 
